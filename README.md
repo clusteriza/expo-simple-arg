@@ -1,5 +1,5 @@
 # Análisis Exporta Simple
-## Descripcioón
+## Descripción
 Análisis de los Datos del Programa Exporta Simple del Ministerio de Producción de la República Argentina.
 
 ## Próximas Versiones

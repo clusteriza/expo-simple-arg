@@ -1,0 +1,1591 @@
+id_orden;id_provincia;provincia;origen_especifico;CP_origen_especifico;id_pais_destino;pais_destino;id_destino_especifico;destino_especifico;fecha;monto_operacion
+9533;6;Buenos Aires;pacheco;1618;169;Nueva Zelanda;3142;Northland;01/08/2018 16:39;3200.00
+9507;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4469;New Hampshire;01/08/2018 14:38;10944.02
+9340;6;Buenos Aires;Villa Ballester;1653;175;Panamá;3169;Panamá;30/07/2018 14:16;3000.00
+9314;6;Buenos Aires;Don Torcuato;1611;82;Francia;1151;Maine-et-Loire;30/07/2018 11:58;600.00
+9277;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;27/07/2018 15:37;2040.00
+9180;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4457;Massachusetts;26/07/2018 12:08;4162.00
+9150;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4446;Florida;26/07/2018 08:54;4839.06
+9149;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;241;Vietnam;4618;Ha Noi;26/07/2018 08:34;2784.00
+9109;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4473;New York;25/07/2018 15:40;1145.00
+9091;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;25/07/2018 11:23;1860.00
+9085;2;Ciudad Autónoma de Buenos Aires;CABA;1414;82;Francia;1117;Charente;25/07/2018 10:35;8960.70
+9055;2;Ciudad Autónoma de Buenos Aires;CABA;1263;74;Estados Unidos;4459;Maine;24/07/2018 14:43;2189.00
+9033;6;Buenos Aires;BERISSO;1923;167;Noruega;3095;Hordaland;24/07/2018 10:35;2100.00
+9019;6;Buenos Aires;Hurlingham;1686;213;Suiza;626;Vaud (fr);23/07/2018 16:25;3000.00
+9007;2;Ciudad Autónoma de Buenos Aires;CABA;1135;178;Perú;3188;Lima;23/07/2018 14:59;2748.29
+8999;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;109;Iraq;1753;Arb?l;23/07/2018 12:28;8370.00
+8995;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4482;Tennessee;23/07/2018 12:01;920.00
+8981;14;Córdoba;Córdoba;5006;236;Uruguay;4501;Maldonado;23/07/2018 10:35;14400.00
+8935;2;Ciudad Autónoma de Buenos Aires;CABA;1414;236;Uruguay;4502;Montevideo;20/07/2018 15:19;6258.00
+8912;6;Buenos Aires;Villa Ballester;1653;236;Uruguay;4507;Salto;20/07/2018 11:21;9040.00
+8841;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];19/07/2018 15:39;10200.00
+8743;6;Buenos Aires;Ciudadela;1702;29;Bolivia;424;Santa Cruz;18/07/2018 11:37;2450.00
+8276;6;Buenos Aires;SAN MARTIN;1650;33;Brasil;452;Santa Catarina;19/07/2018 14:21;1650.00
+9514;2;Ciudad Autónoma de Buenos Aires;CABA;1439;185;Reino Unido;1277;East Sussex;01/08/2018 15:09;1275.00
+8979;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1427;236;Uruguay;4502;Montevideo;23/07/2018 15:54;2545.20
+9463;6;Buenos Aires;Boulogne;1609;74;Estados Unidos;4441;California;31/07/2018 16:24;5120.00
+8734;6;Buenos Aires;QUILMES;1878;236;Uruguay;4502;Montevideo;19/07/2018 16:05;7890.20
+8401;6;Buenos Aires;Moreno;1746;236;Uruguay;4502;Montevideo;24/07/2018 14:03;2269.00
+8692;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;178;Perú;3188;Lima;27/07/2018 09:20;689.28
+9063;6;Buenos Aires;Lanus Oeste;1826;74;Estados Unidos;4446;Florida;24/07/2018 16:40;259.65
+8711;2;Ciudad Autónoma de Buenos Aires;CABA;1011;47;Chile;656;Región Metropolitana de Santiago;18/07/2018 10:19;9079.07
+9191;2;Ciudad Autónoma de Buenos Aires;CABA;1440;33;Brasil;451;Rio Grande do Sul;26/07/2018 12:56;2751.04
+8937;14;Córdoba;Brinkmann;2419;236;Uruguay;4496;Colonia;20/07/2018 15:22;499.80
+9493;6;Buenos Aires;SAN MARTIN;1650;178;Perú;3188;Lima;01/08/2018 16:45;1144.00
+9844;6;Buenos Aires;MAR DEL PLATA;7600;65;Ecuador;935;Guayas;09/08/2018 09:13;817.60
+9930;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;51;Colombia;717;Distrito Capital de Bogotá;10/08/2018 10:23;2684.00
+9760;14;Córdoba;Córdoba;5010;47;Chile;653;Los Ríos;06/08/2018 16:48;1902.00
+9894;2;Ciudad Autónoma de Buenos Aires;caba;1406;65;Ecuador;947;Tungurahua;09/08/2018 15:46;1560.00
+9543;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1240;178;Perú;3188;Lima;02/08/2018 11:13;1980.00
+9501;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;4;Alemania;808;Hamburg;01/08/2018 13:45;180.00
+9502;6;Buenos Aires;Don Torcuato;1611;48;China;687;Guangdong;01/08/2018 13:48;1780.00
+9497;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;01/08/2018 12:59;220.00
+9456;2;Ciudad Autónoma de Buenos Aires;Saavedra;1430;72;España;1039;Salamanca;31/07/2018 15:35;3440.00
+9315;6;Buenos Aires;Martinez;1640;74;Estados Unidos;4446;Florida;31/07/2018 14:46;162.00
+9541;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4441;California;02/08/2018 10:52;8014.80
+9429;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;31/07/2018 11:42;150.00
+9241;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;4743;47;Chile;656;Región Metropolitana de Santiago;27/07/2018 10:48;4488.00
+9432;6;Buenos Aires;Don Torcuato;1611;48;China;687;Guangdong;31/07/2018 11:59;1780.00
+9349;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;30/07/2018 15:04;140.00
+9427;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4490;Wisconsin;31/07/2018 11:36;75.00
+9499;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;01/08/2018 13:17;150.00
+9322;6;Buenos Aires;Don Torcuato;1611;48;China;687;Guangdong;30/07/2018 12:16;4005.00
+9415;6;Buenos Aires;Buenos Aires;1650;29;Bolivia;424;Santa Cruz;01/08/2018 15:37;2884.80
+9434;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4473;New York;31/07/2018 12:16;5325.00
+9573;6;Buenos Aires;Don Torcuato;1611;48;China;687;Guangdong;02/08/2018 14:57;3115.00
+9312;6;Buenos Aires;Don Torcuato;1611;48;China;687;Guangdong;30/07/2018 11:50;4450.00
+9555;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1414;74;Estados Unidos;4452;Illinois;02/08/2018 12:34;2480.00
+9619;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1005;177;Paraguay;3396;Asunción;03/08/2018 13:48;3539.25
+9603;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4485;Utah;03/08/2018 11:01;200.00
+9545;6;Buenos Aires;PLÁTANOS;1885;236;Uruguay;4494;Canelones;02/08/2018 11:16;55.00
+9218;6;Buenos Aires;Saenz Peña;1674;149;México;2950;Jalisco;26/07/2018 16:22;270.00
+9219;6;Buenos Aires;Saenz Peña;1674;47;Chile;656;Región Metropolitana de Santiago;26/07/2018 16:19;333.00
+9665;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1425;51;Colombia;717;Distrito Capital de Bogotá;05/08/2018 18:25;100.00
+9735;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4489;Washington;06/08/2018 15:29;195.00
+9739;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;06/08/2018 15:36;200.00
+9749;6;Buenos Aires;La Plata;1900;43;Canadá;544;Ontario;06/08/2018 16:08;2295.00
+9751;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4441;California;06/08/2018 16:04;2025.00
+9758;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;06/08/2018 16:37;170.00
+9721;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4436;Alaska;06/08/2018 14:25;167.00
+9709;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4485;Utah;06/08/2018 13:14;219.00
+9633;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;03/08/2018 12:36;290.00
+10932;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;51;Colombia;724;Nariño;08/08/2018 17:52;69.50
+9878;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4469;New Hampshire;09/08/2018 12:30;160.00
+9870;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4446;Florida;09/08/2018 12:10;170.00
+6044;6;Buenos Aires;Vicente Lopez;1638;17;Austria;124;Niederösterreich;18/05/2018 10:35;290.00
+7379;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;15/06/2018 14:45;5476.00
+9943;6;Buenos Aires;Vicente Lopez;1638;185;Reino Unido;1320;Luton;10/08/2018 13:25;482.00
+9944;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4491;West Virginia;10/08/2018 12:12;378.00
+9807;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;47;Chile;656;Región Metropolitana de Santiago;07/08/2018 15:09;5027.20
+9730;6;Buenos Aires;HAEDO;1706;47;Chile;656;Región Metropolitana de Santiago;07/08/2018 14:17;6680.19
+9942;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4485;Utah;10/08/2018 12:04;130.00
+9845;82;Santa Fe;SANTA FE;3000;47;Chile;656;Región Metropolitana de Santiago;09/08/2018 09:52;7519.11
+9941;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4485;Utah;10/08/2018 11:53;69.00
+9819;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1043;74;Estados Unidos;4441;California;07/08/2018 16:50;1185.00
+9446;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1126;51;Colombia;717;Distrito Capital de Bogotá;01/08/2018 14:31;1376.30
+9520;6;Buenos Aires;JOSE INGENIEROS;1702;59;Costa Rica;739;Heredia;02/08/2018 13:59;1843.60
+10172;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;72;España;1010;Cádiz;15/08/2018 12:14;435.00
+10191;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;167;Noruega;3091;Telemark;15/08/2018 14:51;210.00
+10063;2;Ciudad Autónoma de Buenos Aires;CABA;1184;64;República Dominicana;870;Santo Domingo;14/08/2018 07:36;3450.00
+10017;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;13/08/2018 14:07;5616.00
+10166;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;15/08/2018 11:41;155.00
+8972;6;Buenos Aires;Tortuguitas;1667;149;México;2958;Querétaro;23/07/2018 10:11;1139.00
+8678;50;Mendoza;GUAYMALLEN;5519;57;Corea del Sur;2116;Jeonranamdo [Ch?llanam-do];17/07/2018 08:41;2020.00
+8650;6;Buenos Aires;Ituzaingó;1714;47;Chile;656;Región Metropolitana de Santiago;16/07/2018 13:00;2668.25
+8674;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;72;España;1005;Barcelona [Barcelona];16/07/2018 22:20;7436.11
+8567;50;Mendoza;GUAYMALLEN;5519;4;Alemania;802;Brandenburg;13/07/2018 12:01;4376.61
+8588;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4492;Wyoming;13/07/2018 15:50;3200.00
+8585;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4468;Nebraska;13/07/2018 15:01;3200.00
+9382;14;Córdoba;Córdoba;5147;74;Estados Unidos;4476;Oregon;30/07/2018 17:35;400.00
+9258;6;Buenos Aires;MERCEDES;6600;149;México;2967;Yucatán;27/07/2018 12:13;2482.25
+9453;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4442;Colorado;31/07/2018 15:23;970.00
+9744;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;47;Chile;656;Región Metropolitana de Santiago;07/08/2018 11:25;13855.03
+9771;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;47;Chile;656;Región Metropolitana de Santiago;07/08/2018 12:14;6175.04
+7297;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4473;New York;14/06/2018 09:21;8124.50
+9724;6;Buenos Aires;TEMPERLEY;1834;59;Costa Rica;736;Alajuela;06/08/2018 14:50;2470.00
+9871;6;Buenos Aires;SAN JUSTO;1754;106;India;1747;Tamil Nadu;09/08/2018 11:44;2669.80
+9251;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;27/07/2018 11:58;3855.00
+9201;6;Buenos Aires;Tigre;1648;185;Reino Unido;1351;Oxfordshire;26/07/2018 14:15;3950.00
+9329;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;30/07/2018 13:01;2480.00
+9534;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1427;47;Chile;656;Región Metropolitana de Santiago;01/08/2018 16:49;3114.06
+9540;6;Buenos Aires;SAN MARTIN;1650;51;Colombia;704;Antioquia;02/08/2018 10:22;1584.80
+9554;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;02/08/2018 12:27;2104.00
+9636;6;Buenos Aires;VALENTIN ALSINA;1822;74;Estados Unidos;4441;California;03/08/2018 13:20;190.64
+9677;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;06/08/2018 09:39;3240.00
+9719;6;Buenos Aires;El PALOMAR;1684;82;Francia;1170;Haut-Rhin;06/08/2018 14:15;5761.41
+9731;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;06/08/2018 15:13;920.00
+9742;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4441;California;06/08/2018 15:41;660.00
+9757;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;06/08/2018 16:44;14240.30
+9765;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4480;South Carolina;06/08/2018 19:01;760.00
+9811;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;74;Estados Unidos;4470;New Jersey;07/08/2018 15:44;6404.42
+9824;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4461;Minnesota;07/08/2018 16:43;8317.04
+9950;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4473;New York;10/08/2018 13:05;530.00
+9562;2;Ciudad Autónoma de Buenos Aires;Saavedra;1430;104;Hong Kong;4705;Kowloon;02/08/2018 13:23;12222.10
+9584;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;02/08/2018 16:23;6173.67
+9592;14;Córdoba;Córdoba;5006;47;Chile;656;Región Metropolitana de Santiago;02/08/2018 17:59;10200.00
+9753;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;06/08/2018 16:07;1729.00
+9823;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;109;Iraq;1753;Arb?l;07/08/2018 16:42;5022.00
+9873;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;09/08/2018 11:58;4000.00
+10025;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;13/08/2018 15:13;2770.00
+10110;2;Ciudad Autónoma de Buenos Aires;CABA;1135;178;Perú;3188;Lima;14/08/2018 14:47;1657.42
+10035;82;Santa Fe;CARCARAÑA;2138;202;Serbia;3476;Kosovo-Metohija;13/08/2018 16:11;7480.00
+11054;6;Buenos Aires;SAN FERNANDO;1644;125;Letonia;2344;Baldones novads (Baldone);29/08/2018 13:52;1500.00
+11604;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4482;Tennessee;07/09/2018 12:07;720.00
+7910;82;Santa Fe;RAFAELA;2300;177;Paraguay;3396;Asunción;27/06/2018 16:53;14710.00
+10433;6;Buenos Aires;Adrogue;1846;185;Reino Unido;1351;Oxfordshire;22/08/2018 10:53;14580.00
+10553;2;Ciudad Autónoma de Buenos Aires;CABA;1258;47;Chile;656;Región Metropolitana de Santiago;23/08/2018 16:39;4900.00
+9788;6;Buenos Aires;Bernal Oeste;1876;177;Paraguay;3396;Asunción;09/08/2018 14:39;2400.00
+10564;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;178;Perú;3188;Lima;23/08/2018 17:56;4343.00
+10513;2;Ciudad Autónoma de Buenos Aires;ciudad autonoma de buenos ares;1135;113;Italia;1876;Pescara;23/08/2018 11:13;11000.00
+10970;2;Ciudad Autónoma de Buenos Aires;Capital FederaL;1260;76;Estonia;953;Harjumaa;28/08/2018 10:30;2878.00
+10134;6;Buenos Aires;Martínez;1640;171;Países Bajos;3080;Overijssel;14/08/2018 16:53;1800.00
+10163;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;15/08/2018 11:16;180.00
+10171;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;15/08/2018 12:02;190.00
+9910;6;Buenos Aires;Villa Bosch;1682;177;Paraguay;3396;Asunción;10/08/2018 15:06;5133.21
+10189;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;15/08/2018 14:40;199.00
+10170;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;15/08/2018 11:56;305.00
+10080;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4458;Maryland;14/08/2018 11:47;75.00
+10157;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4483;Texas;15/08/2018 09:59;980.00
+10083;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4477;Pennsylvania;14/08/2018 12:46;69.00
+9702;14;Córdoba;Villa Allende;5105;236;Uruguay;4502;Montevideo;10/08/2018 12:37;861.36
+10062;2;Ciudad Autónoma de Buenos Aires;CABA;1184;178;Perú;3188;Lima;14/08/2018 07:33;4320.00
+10185;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4461;Minnesota;15/08/2018 14:35;219.00
+10169;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;15/08/2018 11:51;155.00
+9067;6;Buenos Aires;BERAZATEGUI;1885;178;Perú;3188;Lima;25/07/2018 16:23;1850.00
+10164;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;547;Saskatchewan;15/08/2018 11:31;200.00
+10283;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;17/08/2018 09:36;135.00
+10674;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;27/08/2018 12:12;69.00
+10081;6;Buenos Aires;Martinez;1640;213;Suiza;607;Bern (de);22/08/2018 12:45;6260.00
+11000;6;Buenos Aires;SAN FERNANDO;1646;74;Estados Unidos;4461;Minnesota;28/08/2018 15:33;931.52
+10401;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;21/08/2018 12:11;199.00
+10317;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4456;Louisiana;17/08/2018 12:12;210.00
+10494;2;Ciudad Autónoma de Buenos Aires;CABA;1088;72;España;1028;Madrid;24/08/2018 13:00;611.60
+10343;2;Ciudad Autónoma de Buenos Aires;CABA;1406;164;Nigeria;3032;Abuja Capital Territory;17/08/2018 17:56;2064.00
+10382;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;21/08/2018 10:08;115.00
+10311;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4474;Ohio;17/08/2018 11:52;199.00
+10261;14;Córdoba;CORDOBA;5021;72;España;1001;Alicante / Alacant;16/08/2018 16:08;24.00
+10514;6;Buenos Aires;City Bell;1896;236;Uruguay;4502;Montevideo;24/08/2018 10:11;2160.00
+10336;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;74;Estados Unidos;4441;California;17/08/2018 15:04;1200.00
+10592;6;Buenos Aires;Vicente Lopez;1638;185;Reino Unido;1332;North Ayrshire;24/08/2018 12:14;38.00
+11096;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;113;Italia;1891;Roma;30/08/2018 09:27;2251.54
+10285;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4452;Illinois;17/08/2018 09:37;90.00
+10595;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4453;Indiana;24/08/2018 12:33;150.00
+10685;2;Ciudad Autónoma de Buenos Aires;CABA;1267;47;Chile;647;La Araucanía;27/08/2018 15:16;3339.20
+10676;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;185;Reino Unido;1319;London, City of;27/08/2018 12:22;150.00
+10181;6;Buenos Aires;HAEDO;1706;47;Chile;656;Región Metropolitana de Santiago;15/08/2018 14:31;1543.00
+11070;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4483;Texas;29/08/2018 16:02;3200.00
+10517;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4472;Nevada;23/08/2018 11:34;170.00
+10312;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4438;Arkansas;17/08/2018 11:58;69.00
+10988;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1854;Lecce;28/08/2018 12:34;250.00
+10512;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;23/08/2018 11:09;2500.00
+10463;6;Buenos Aires;Vicente Lopez;1638;213;Suiza;628;Zug (de);22/08/2018 13:02;255.00
+10989;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;805;Bayern;28/08/2018 12:41;30.00
+10089;6;Buenos Aires;BERAZATEGUI;1884;51;Colombia;723;Meta;14/08/2018 15:41;1650.00
+10516;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;23/08/2018 11:26;150.00
+9763;14;Córdoba;Villa María;5900;51;Colombia;725;Norte de Santander;07/08/2018 09:28;1400.00
+10387;6;Buenos Aires;bahia blanca;8000;74;Estados Unidos;4473;New York;21/08/2018 10:24;475.00
+10438;6;Buenos Aires;Loma Hermosa;1657;47;Chile;649;Biobío;22/08/2018 14:52;988.50
+10591;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;24/08/2018 12:10;89.00
+10389;6;Buenos Aires;bahia blanca;8000;74;Estados Unidos;4473;New York;21/08/2018 10:44;570.00
+10572;6;Buenos Aires;MAR DEL PLATA;7600;47;Chile;656;Región Metropolitana de Santiago;24/08/2018 09:16;825.00
+10511;6;Buenos Aires;Vicente Lopez;1638;82;Francia;1106;Hautes-Alpes;23/08/2018 11:03;200.00
+10390;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1419;29;Bolivia;420;La Paz;21/08/2018 16:15;2136.06
+10309;2;Ciudad Autónoma de Buenos Aires;Autonoma de Bs As;1013;74;Estados Unidos;4446;Florida;17/08/2018 11:31;12742.00
+11010;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;167;Noruega;3093;Vest-Agder;28/08/2018 17:24;195.00
+10067;6;Buenos Aires;Pinamar;7167;177;Paraguay;3396;Asunción;14/08/2018 10:28;2584.00
+10313;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;72;España;1010;Cádiz;17/08/2018 12:04;155.00
+9987;6;Buenos Aires;BRAGADO;6640;177;Paraguay;3391;Caaguazú;13/08/2018 12:19;782.00
+9064;6;Buenos Aires;Ramos Mejía;1704;178;Perú;3188;Lima;31/07/2018 09:01;860.04
+11134;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4483;Texas;30/08/2018 13:34;33.00
+10593;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;544;Ontario;24/08/2018 12:17;75.00
+10678;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;27/08/2018 12:32;405.00
+10243;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;16/08/2018 13:38;2245.00
+10504;2;Ciudad Autónoma de Buenos Aires;CABA;1440;65;Ecuador;942;Pichincha;23/08/2018 09:38;1119.00
+10320;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;185;Reino Unido;1385;Surrey;17/08/2018 12:23;299.00
+10589;6;Buenos Aires;Vicente Lopez;1638;185;Reino Unido;1305;Kent;24/08/2018 11:55;200.00
+10358;2;Ciudad Autónoma de Buenos Aires;CABA;1406;164;Nigeria;3032;Abuja Capital Territory;17/08/2018 18:12;791.00
+10677;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4466;North Carolina;27/08/2018 12:29;220.00
+10052;6;Buenos Aires;ISIDRO CASANOVA;1765;74;Estados Unidos;4446;Florida;14/08/2018 12:40;14790.00
+10402;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4461;Minnesota;21/08/2018 12:16;69.00
+9962;14;Córdoba;villa del totoral;5236;74;Estados Unidos;4441;California;10/08/2018 15:15;460.00
+10105;6;Buenos Aires;Mar del Plata;7600;178;Perú;3188;Lima;14/08/2018 14:27;6839.00
+10683;6;Buenos Aires;ISIDRO CASANOVA;1765;74;Estados Unidos;4446;Florida;27/08/2018 13:59;14640.00
+10658;6;Buenos Aires;Ituzaingó;1714;16;Australia;132;New South Wales;26/08/2018 19:00;3090.56
+9550;6;Buenos Aires;Haedo;1706;72;España;1040;Sevilla;02/08/2018 12:18;10080.00
+9682;6;Buenos Aires;Quilmes Oeste;1879;29;Bolivia;424;Santa Cruz;06/08/2018 10:02;5945.00
+10847;2;Ciudad Autónoma de Buenos Aires;CABA;1431;149;México;2955;Nuevo León;08/08/2018 14:31;9118.32
+10894;6;Buenos Aires;VALENTIN ALSINA;1822;74;Estados Unidos;4446;Florida;08/08/2018 15:06;1206.60
+10908;82;Santa Fe;Rosario;2000;94;Guatemala;1522;Guatemala;08/08/2018 15:48;11.00
+10912;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;08/08/2018 16:41;6449.93
+9888;6;Buenos Aires;VALENTIN ALSINA;1822;74;Estados Unidos;4446;Florida;09/08/2018 15:20;705.00
+9953;82;Santa Fe;SUNCHALES;2322;149;México;2959;Quintana Roo;10/08/2018 13:54;6533.00
+10119;14;Córdoba;CORDOBA;5000;149;México;2953;Morelos;14/08/2018 14:59;1115.00
+10121;6;Buenos Aires;BELLA VISTA;1661;24;Bélgica;298;Limburg;14/08/2018 15:17;3200.00
+10490;14;Córdoba;SAN FRANCISCO;2400;177;Paraguay;3396;Asunción;23/08/2018 09:36;9308.43
+10540;14;Córdoba;SAN FRANCISCO;2400;236;Uruguay;4502;Montevideo;23/08/2018 16:55;4227.50
+10154;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;74;Estados Unidos;4446;Florida;15/08/2018 09:15;8629.64
+10155;82;Santa Fe;Rosario;2000;74;Estados Unidos;4473;New York;15/08/2018 09:56;2200.00
+10310;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;4;Alemania;811;Nordrhein-Westfalen;17/08/2018 11:51;5540.00
+10322;6;Buenos Aires;Don Torcuato;1611;4;Alemania;811;Nordrhein-Westfalen;17/08/2018 13:01;2560.00
+10335;6;Buenos Aires;Don Torcuato;1611;62;Dinamarca;827;Hovedstaden;17/08/2018 15:00;220.00
+10357;6;Buenos Aires;Don Torcuato;1611;4;Alemania;807;Hessen;17/08/2018 17:20;7024.00
+10407;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;21/08/2018 14:11;8750.00
+10414;6;Buenos Aires;Quilmes;1879;47;Chile;656;Región Metropolitana de Santiago;21/08/2018 15:08;1300.00
+10461;14;Córdoba;CORDOBA;5000;51;Colombia;709;Caldas;22/08/2018 12:55;1042.40
+10473;6;Buenos Aires;Tigre;1648;185;Reino Unido;1351;Oxfordshire;22/08/2018 14:28;5667.00
+10479;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;22/08/2018 15:11;1358.00
+10545;6;Buenos Aires;Villa Ballester;1653;82;Francia;1161;Nord;23/08/2018 16:13;2877.60
+10625;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;24/08/2018 18:16;12734.90
+10687;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;27/08/2018 14:25;1360.00
+11053;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;29/08/2018 13:33;6365.00
+11215;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;31/08/2018 14:48;1602.00
+10510;82;Santa Fe;el trebol;2535;236;Uruguay;4502;Montevideo;23/08/2018 11:06;1723.37
+11262;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;74;Estados Unidos;4441;California;03/09/2018 07:37;1832.50
+11263;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;11;Arabia Saudita;3569;Ash Sharq?yah;03/09/2018 08:33;7572.00
+11388;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;04/09/2018 14:39;1305.00
+11402;6;Buenos Aires;Don Torcuato;1611;16;Australia;132;New South Wales;04/09/2018 15:29;1490.00
+11465;6;Buenos Aires;Gral San Martin;1650;47;Chile;656;Región Metropolitana de Santiago;05/09/2018 11:42;1850.00
+11588;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;106;India;1735;Maharashtra;07/09/2018 03:14;2396.00
+11596;2;Ciudad Autónoma de Buenos Aires;CABA;1414;115;Japón;1955;Saitama;07/09/2018 10:31;3312.28
+11635;82;Santa Fe;alvear;2130;217;Tailandia;4005;Samut Prakan;07/09/2018 16:27;5925.44
+11695;82;Santa Fe;alvear;2130;218;Taiwán;4257;Taipei;10/09/2018 16:01;3340.56
+10228;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;72;España;1046;Santa Cruz de Tenerife;16/08/2018 11:36;2200.00
+10338;2;Ciudad Autónoma de Buenos Aires;CABA;1440;94;Guatemala;1522;Guatemala;22/08/2018 10:10;1784.78
+10442;82;Santa Fe;VENADO TUERTO;2600;74;Estados Unidos;4446;Florida;24/08/2018 10:54;3570.00
+10449;2;Ciudad Autónoma de Buenos Aires;CABA;1092;177;Paraguay;3396;Asunción;22/08/2018 11:16;3308.00
+10501;14;Córdoba;SAN FRANCISCO;2400;185;Reino Unido;1351;Oxfordshire;23/08/2018 09:26;4964.44
+10583;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;24/08/2018 11:39;2350.00
+10668;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1426;16;Australia;137;Victoria;27/08/2018 11:08;1100.00
+11060;82;Santa Fe;alvear;2130;178;Perú;3188;Lima;29/08/2018 14:50;2862.00
+11117;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;30/08/2018 12:31;2760.00
+11202;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;31/08/2018 12:45;975.00
+11288;6;Buenos Aires;Beccar;1643;72;España;1028;Madrid;03/09/2018 12:04;200.00
+11331;6;Buenos Aires;VALENTIN ALSINA;1822;82;Francia;1177;Paris;03/09/2018 17:50;1316.11
+11411;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;04/09/2018 16:45;5384.79
+8272;82;Santa Fe;alvear;2130;185;Reino Unido;1305;Kent;05/09/2018 12:33;4519.45
+11474;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;05/09/2018 12:38;1137.00
+11520;2;Ciudad Autónoma de Buenos Aires;CABA;1414;185;Reino Unido;1315;Leicestershire;06/09/2018 14:18;6599.34
+11531;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;06/09/2018 11:32;2948.00
+11533;2;Ciudad Autónoma de Buenos Aires;CABA;1417;59;Costa Rica;736;Alajuela;07/09/2018 15:25;900.00
+11764;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;47;Chile;656;Región Metropolitana de Santiago;11/09/2018 12:11;2415.00
+8278;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;236;Uruguay;4502;Montevideo;05/09/2018 13:08;1560.00
+11586;6;Buenos Aires;Olavarria;7400;74;Estados Unidos;4447;Georgia;06/09/2018 21:28;2480.00
+11682;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;10/09/2018 14:45;2571.00
+11692;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;10/09/2018 15:29;2044.33
+11857;82;Santa Fe;alvear;2130;210;Sudáfrica;4662;Gauteng;12/09/2018 16:03;4471.72
+11899;6;Buenos Aires;Gral San Martin;1650;33;Brasil;454;São Paulo;13/09/2018 12:09;1760.00
+11945;82;Santa Fe;alvear;2130;72;España;1005;Barcelona [Barcelona];13/09/2018 16:36;3889.75
+11948;6;Buenos Aires;ING PABLO NOGUES;1616;47;Chile;656;Región Metropolitana de Santiago;14/09/2018 10:16;2713.20
+11958;82;Santa Fe;SANTA FE;3001;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];14/09/2018 11:19;2600.00
+12079;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;17/09/2018 10:33;598.00
+12110;6;Buenos Aires;Don Torcuato;1611;68;Emiratos Árabes Unidos;13;Ash Sh?riqah [Sharjah];17/09/2018 15:26;7200.00
+12149;6;Buenos Aires;Don Torcuato;1611;110;Irlanda;1691;Kildare;18/09/2018 12:13;1900.00
+12155;82;Santa Fe;Rosario;2000;47;Chile;649;Biobío;18/09/2018 13:18;10250.00
+12170;6;Buenos Aires;Beccar;1643;43;Canadá;544;Ontario;18/09/2018 15:15;550.00
+12176;6;Buenos Aires;Tigre;1648;185;Reino Unido;1351;Oxfordshire;18/09/2018 16:02;2776.00
+11480;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4474;Ohio;05/09/2018 14:16;980.00
+11338;6;Buenos Aires;ISIDRO CASANOVA;1765;74;Estados Unidos;4446;Florida;04/09/2018 09:10;14930.00
+11778;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;4;Alemania;817;Thüringen;11/09/2018 14:40;265.00
+11611;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4456;Louisiana;07/09/2018 12:45;180.00
+11384;6;Buenos Aires;San Martin;1650;74;Estados Unidos;4457;Massachusetts;04/09/2018 13:53;147.80
+11605;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;07/09/2018 12:12;95.00
+11775;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;167;Noruega;3098;Sør-Trøndelag;11/09/2018 14:30;89.00
+11602;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;07/09/2018 11:53;199.00
+11608;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;07/09/2018 12:21;125.00
+11688;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;10/09/2018 15:15;135.00
+11677;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4466;North Carolina;10/09/2018 13:46;145.00
+11080;2;Ciudad Autónoma de Buenos Aires;CABA;1419;177;Paraguay;3396;Asunción;30/08/2018 11:25;3642.13
+11668;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;10/09/2018 11:22;95.00
+11678;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;10/09/2018 13:51;69.00
+11603;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4490;Wisconsin;07/09/2018 11:59;320.00
+11610;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4470;New Jersey;07/09/2018 12:27;180.00
+11675;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4461;Minnesota;10/09/2018 13:35;150.00
+11536;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;06/09/2018 12:52;210.00
+11669;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;10/09/2018 11:37;295.00
+11093;14;Córdoba;RIO CUARTO;5800;135;Malasia;2978;Selangor;30/08/2018 08:56;1682.50
+9028;108;La Pampa;general pico;6360;29;Bolivia;420;La Paz;06/09/2018 11:29;765.00
+11676;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;10/09/2018 13:41;199.00
+11552;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;06/09/2018 13:21;175.20
+11768;6;Buenos Aires;Vicente Lopez;1638;110;Irlanda;1691;Kildare;11/09/2018 13:07;100.00
+11622;2;Ciudad Autónoma de Buenos Aires;CABA;1185;94;Guatemala;1522;Guatemala;07/09/2018 15:33;2002.40
+11664;6;Buenos Aires;Florida;1602;74;Estados Unidos;4441;California;10/09/2018 12:01;1000.00
+11471;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;94;Guatemala;1522;Guatemala;05/09/2018 12:18;1589.00
+11044;50;Mendoza;MENDOZA;5500;72;España;1005;Barcelona [Barcelona];29/08/2018 12:40;8.40
+11613;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;07/09/2018 12:56;180.00
+11779;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4443;Connecticut;11/09/2018 14:45;95.00
+11838;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;82;Francia;1137;Ille-et-Vilaine;12/09/2018 12:32;124.00
+11310;6;Buenos Aires;Boulogne;1609;149;México;2950;Jalisco;05/09/2018 16:15;5259.80
+11841;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4446;Florida;12/09/2018 12:49;260.00
+8216;50;Mendoza;Mendoza;5500;74;Estados Unidos;4446;Florida;06/09/2018 11:25;356.40
+12184;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4440;Arizona;18/09/2018 16:22;210.00
+12098;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4477;Pennsylvania;17/09/2018 13:12;75.00
+11893;6;Buenos Aires;Wilde;1875;74;Estados Unidos;4466;North Carolina;13/09/2018 16:14;2268.00
+11996;6;Buenos Aires;Vicente Lopez;1638;82;Francia;1171;Rhône;14/09/2018 16:01;300.00
+11621;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1202;177;Paraguay;3396;Asunción;11/09/2018 12:50;4499.63
+11942;6;Buenos Aires;Sarandi;1872;51;Colombia;717;Distrito Capital de Bogotá;13/09/2018 16:39;5722.18
+11733;6;Buenos Aires;la plata;1900;74;Estados Unidos;4485;Utah;14/09/2018 09:19;400.00
+11923;6;Buenos Aires;FRANCISCO ALVAREZ;1746;219;Tanzania;4261;Arusha;13/09/2018 16:11;4542.00
+11104;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1416;177;Paraguay;3396;Asunción;05/09/2018 15:46;8604.99
+11791;2;Ciudad Autónoma de Buenos Aires;ciudad autónoma de buenos aires;1426;74;Estados Unidos;4489;Washington;14/09/2018 13:26;150.00
+12131;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1439;149;México;2959;Quintana Roo;18/09/2018 16:48;1723.30
+12250;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;19/09/2018 12:43;150.00
+12157;6;Buenos Aires;Vicente Lopez;1638;213;Suiza;604;Aargau (de);18/09/2018 13:26;700.00
+11698;50;Mendoza;Luján de Cuyo;5507;62;Dinamarca;827;Hovedstaden;12/09/2018 15:29;27.18
+11924;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;13/09/2018 14:09;1900.00
+10573;6;Buenos Aires;MAR DEL PLATA;7600;47;Chile;656;Región Metropolitana de Santiago;24/08/2018 09:35;825.00
+12190;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;18/09/2018 16:28;150.00
+12242;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4480;South Carolina;19/09/2018 12:17;390.00
+12192;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;16;Australia;137;Victoria;18/09/2018 16:34;260.00
+11620;6;Buenos Aires;General San Martin;1657;29;Bolivia;420;La Paz;12/09/2018 11:54;453.80
+11886;2;Ciudad Autónoma de Buenos Aires;CABA;1431;51;Colombia;707;Bolívar;14/09/2018 16:56;13600.00
+12096;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;17/09/2018 12:59;219.00
+11955;6;Buenos Aires;Saenz Peña;1674;178;Perú;3181;Cuzco [Cusco];14/09/2018 11:54;90.00
+12283;6;Buenos Aires;BELLA VISTA;1661;177;Paraguay;3396;Asunción;19/09/2018 16:22;2656.94
+11914;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1439;149;México;2959;Quintana Roo;13/09/2018 15:16;4716.82
+11220;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;31/08/2018 15:39;180.00
+11367;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4465;Montana;04/09/2018 12:20;150.00
+11207;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;31/08/2018 13:17;180.00
+11271;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4441;California;03/09/2018 09:34;8000.00
+11210;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4485;Utah;31/08/2018 13:23;45.50
+11155;14;Córdoba;Córdoba;5012;149;México;2956;Oaxaca;30/08/2018 15:53;1650.00
+11311;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;04/09/2018 12:14;429.00
+9489;14;Córdoba;Villa María;5900;59;Costa Rica;738;Guanacaste;01/08/2018 11:08;1400.00
+11206;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;31/08/2018 13:06;129.85
+11245;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1416;183;Puerto Rico;4807;Mayagüez;31/08/2018 18:07;1090.00
+11373;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;04/09/2018 12:32;150.00
+11184;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1237;74;Estados Unidos;4449;Hawaii;31/08/2018 14:24;5837.00
+11200;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;31/08/2018 12:31;58.45
+11077;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1427;236;Uruguay;4502;Montevideo;31/08/2018 09:43;1290.00
+12333;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;20/09/2018 12:26;145.00
+12328;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;20/09/2018 11:35;1720.00
+12191;2;Ciudad Autónoma de Buenos Aires;CABA;1440;4;Alemania;803;Berlin;18/09/2018 16:39;4788.00
+12263;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1414;74;Estados Unidos;4473;New York;19/09/2018 14:00;75.00
+12348;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4489;Washington;20/09/2018 14:39;165.00
+12351;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4475;Oklahoma;20/09/2018 14:46;130.00
+12393;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4483;Texas;21/09/2018 15:04;165.00
+12251;6;Buenos Aires;Temperley;1834;135;Malasia;2978;Selangor;19/09/2018 12:44;2538.00
+12346;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4443;Connecticut;20/09/2018 14:32;140.00
+12381;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;21/09/2018 14:25;180.00
+12376;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4489;Washington;21/09/2018 14:18;69.00
+12340;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;20/09/2018 13:18;180.00
+12378;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4445;Delaware;21/09/2018 14:22;342.00
+12331;6;Buenos Aires;Villa Martelli;1603;178;Perú;3188;Lima;20/09/2018 12:16;6304.03
+12674;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;139;Malta;2846;Santa Venera;25/09/2018 14:57;274.00
+12658;6;Buenos Aires;Vicente Lopez;1638;82;Francia;1109;Ardennes;25/09/2018 13:02;200.00
+12545;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;24/09/2018 13:28;7160.00
+12653;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4449;Hawaii;25/09/2018 12:28;230.00
+12130;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4452;Illinois;19/09/2018 15:00;386.70
+12742;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;805;Bayern;26/09/2018 13:26;120.00
+12667;6;Buenos Aires;Vicente Lopez;1638;16;Australia;137;Victoria;25/09/2018 14:32;180.00
+12650;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;25/09/2018 12:11;75.00
+12662;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;25/09/2018 13:14;85.00
+12751;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4450;Iowa;26/09/2018 15:06;230.00
+12634;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;25/09/2018 11:28;389.00
+12753;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;4;Alemania;812;Rheinland-Pfalz;26/09/2018 15:12;145.00
+12682;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;25/09/2018 15:55;1390.00
+12661;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;112;Israel;1714;Tel-Aviv;25/09/2018 13:10;210.00
+12735;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;26/09/2018 12:38;155.00
+12509;6;Buenos Aires;City Bell;1896;178;Perú;3188;Lima;24/09/2018 11:08;12700.00
+12953;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;28/09/2018 14:49;7440.00
+12464;6;Buenos Aires;bahia blanca;8000;218;Taiwán;4257;Taipei;21/09/2018 20:25;1700.00
+12129;14;Córdoba;Villa María;5900;171;Países Bajos;3079;Noord-Holland;18/09/2018 09:22;1400.00
+12220;98;Salta;SALTA;4400;4;Alemania;803;Berlin;21/09/2018 15:46;22.84
+12741;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;26/09/2018 13:20;12040.00
+12619;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;51;Colombia;733;Valle del Cauca;25/09/2018 10:00;570.06
+12722;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1188;47;Chile;656;Región Metropolitana de Santiago;26/09/2018 11:28;1854.00
+12902;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4470;New Jersey;28/09/2018 11:08;3127.20
+12518;2;Ciudad Autónoma de Buenos Aires;CABA;1407;47;Chile;656;Región Metropolitana de Santiago;24/09/2018 11:50;334.06
+12884;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;74;Estados Unidos;4470;New Jersey;28/09/2018 09:34;3497.40
+13345;6;Buenos Aires;Mar del Plata;7600;59;Costa Rica;737;Cartago;03/10/2018 16:23;2677.00
+12937;6;Buenos Aires;MAR DEL PLATA;7600;236;Uruguay;4502;Montevideo;28/09/2018 13:33;6873.32
+11986;82;Santa Fe;ROSARIO;2000;178;Perú;3188;Lima;14/09/2018 13:50;400.00
+13187;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4490;Wisconsin;02/10/2018 13:12;170.00
+13270;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;03/10/2018 10:15;325.00
+13217;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;02/10/2018 15:01;2144.00
+13104;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4458;Maryland;01/10/2018 15:20;199.00
+12317;14;Córdoba;CORDOBA;5004;16;Australia;137;Victoria;20/09/2018 11:18;1731.00
+13305;2;Ciudad Autónoma de Buenos Aires;CABA;1427;149;México;2943;Ciudad de Mexico;03/10/2018 13:00;567.00
+12927;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1887;Reggio Calabria;28/09/2018 14:26;350.00
+12847;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1419;47;Chile;656;Región Metropolitana de Santiago;02/10/2018 12:41;550.00
+13185;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;02/10/2018 12:53;150.00
+12916;6;Buenos Aires;CORONEL SUAREZ;7540;177;Paraguay;3396;Asunción;28/09/2018 12:04;1100.00
+12925;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1818;Bari;28/09/2018 14:23;200.00
+13072;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;01/10/2018 12:41;180.00
+12503;14;Córdoba;Río Tercero;5850;29;Bolivia;424;Santa Cruz;24/09/2018 10:41;8305.50
+13303;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;16;Australia;135;South Australia;03/10/2018 12:58;199.00
+13067;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;01/10/2018 12:35;138.00
+13092;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;01/10/2018 14:04;10400.00
+13216;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;02/10/2018 15:00;500.01
+12196;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1186;74;Estados Unidos;4441;California;27/09/2018 13:54;340.00
+13163;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;02/10/2018 09:53;120.00
+13054;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4466;North Carolina;01/10/2018 11:24;300.00
+12198;14;Córdoba;Córdoba;5147;79;Filipinas;3222;National Capital Région (Manila);19/09/2018 10:16;250.00
+12718;6;Buenos Aires;Ituzaingó;1714;115;Japón;1958;Kanagawa;26/09/2018 12:07;2847.70
+12341;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4473;New York;20/09/2018 13:47;1005.50
+12256;6;Buenos Aires;Ituzaingó;1714;72;España;1048;Valencia / València;19/09/2018 13:35;1384.40
+12168;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4462;Missouri;18/09/2018 15:03;7585.70
+11824;14;Córdoba;Villa Allende;5105;72;España;1029;Málaga;12/09/2018 14:15;1257.35
+11967;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4441;California;14/09/2018 10:39;1043.00
+12259;6;Buenos Aires;El PALOMAR;1684;82;Francia;1170;Haut-Rhin;19/09/2018 13:42;11392.08
+12261;6;Buenos Aires;El PALOMAR;1684;72;España;1005;Barcelona [Barcelona];19/09/2018 13:51;7442.70
+12314;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;20/09/2018 10:38;7525.00
+12329;6;Buenos Aires;Don Torcuato;1611;24;Bélgica;299;Oost-Vlaanderen;20/09/2018 12:09;12470.00
+12383;6;Buenos Aires;Tigre;1648;185;Reino Unido;1351;Oxfordshire;21/09/2018 14:38;2580.00
+12498;6;Buenos Aires;BERISSO;1923;205;Singapur;3653;Central Singapore;24/09/2018 09:02;1198.00
+12508;14;Córdoba;Córdoba;5022;59;Costa Rica;739;Heredia;24/09/2018 11:32;1131.84
+12513;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;24/09/2018 11:21;2980.00
+12576;2;Ciudad Autónoma de Buenos Aires;CABA;1440;94;Guatemala;1522;Guatemala;24/09/2018 16:21;5342.00
+12586;6;Buenos Aires;AVELLANEDA;1870;210;Sudáfrica;4665;Northern Cape;24/09/2018 16:28;4817.12
+12607;82;Santa Fe;CARCARAÑA;2138;35;Bulgaria;373;Sofia;25/09/2018 08:31;10200.00
+12652;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;43;Canadá;544;Ontario;25/09/2018 12:22;1900.00
+12678;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;25/09/2018 15:18;5174.50
+13077;6;Buenos Aires;Sarandi;1872;178;Perú;3188;Lima;01/10/2018 13:13;6500.00
+13095;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4489;Washington;01/10/2018 14:35;160.00
+13100;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4489;Washington;01/10/2018 15:11;130.00
+12843;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;94;Guatemala;1522;Guatemala;27/09/2018 14:41;1180.00
+13235;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4483;Texas;02/10/2018 16:20;120.00
+12507;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1035;177;Paraguay;3396;Asunción;26/09/2018 09:16;3358.20
+13193;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;544;Ontario;02/10/2018 13:19;125.00
+13424;6;Buenos Aires;Quilmes;1878;74;Estados Unidos;4457;Massachusetts;04/10/2018 11:44;3979.00
+13357;98;Salta;Salta;4400;113;Italia;1914;Vicenza;04/10/2018 16:31;216.60
+13588;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4446;Florida;05/10/2018 15:25;89.00
+13458;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;04/10/2018 15:43;1300.00
+13592;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;169;Nueva Zelanda;3134;Bay of Plenty;05/10/2018 15:39;245.00
+13442;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;04/10/2018 14:27;13480.00
+13749;6;Buenos Aires;Buenos Aires;1425;177;Paraguay;3396;Asunción;08/10/2018 17:37;916.34
+12629;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1008;115;Japón;1945;Hokkaidô [Hokkaido];25/09/2018 10:53;300.00
+12636;6;Buenos Aires;TANDIL;7000;65;Ecuador;935;Guayas;27/09/2018 13:47;160.00
+12717;50;Mendoza;Godoy Cruz;5501;47;Chile;656;Región Metropolitana de Santiago;26/09/2018 11:17;924.67
+13466;6;Buenos Aires;AVELLANEDA;1871;178;Perú;3188;Lima;05/10/2018 12:12;2487.17
+13579;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4446;Florida;05/10/2018 15:05;150.00
+13555;2;Ciudad Autónoma de Buenos Aires;Caba;1006;212;Suecia;3632;Stockholms län;05/10/2018 16:53;820.00
+13583;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;4;Alemania;817;Thüringen;05/10/2018 15:21;132.00
+13729;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;08/10/2018 15:13;3720.00
+12389;2;Ciudad Autónoma de Buenos Aires;CABA;1431;47;Chile;656;Región Metropolitana de Santiago;21/09/2018 15:42;13600.00
+13612;2;Ciudad Autónoma de Buenos Aires;PALERMO;1425;72;España;1028;Madrid;05/10/2018 16:56;4153.24
+13596;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;05/10/2018 15:42;7376.00
+13319;6;Buenos Aires;Villa Martelli;1603;65;Ecuador;950;Cotopaxi;03/10/2018 14:01;7245.40
+13713;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;08/10/2018 13:34;89.00
+13299;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;04/10/2018 16:50;59.00
+13172;82;Santa Fe;Santa Fe;3000;70;Eslovaquia;3879;Tren?iansky kraj;04/10/2018 14:27;10.00
+13132;2;Ciudad Autónoma de Buenos Aires;CABA;1427;74;Estados Unidos;4446;Florida;05/10/2018 16:44;2300.00
+13779;6;Buenos Aires;Beccar;1643;183;Puerto Rico;4827;San Juan;09/10/2018 11:43;4200.00
+13700;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4471;New Mexico;08/10/2018 13:46;150.00
+13861;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;09/10/2018 15:47;6360.00
+13791;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4438;Arkansas;09/10/2018 11:53;170.00
+13935;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;10/10/2018 12:16;28.00
+13857;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;09/10/2018 15:40;225.00
+13951;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;10/10/2018 13:36;28.00
+13860;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4446;Florida;09/10/2018 15:46;60.00
+11663;14;Córdoba;Villa María;5900;236;Uruguay;4502;Montevideo;12/09/2018 09:31;2044.80
+13979;6;Buenos Aires;Wilde;1875;236;Uruguay;4502;Montevideo;10/10/2018 15:27;10.00
+14013;6;Buenos Aires;CIUDADELA;1702;47;Chile;656;Región Metropolitana de Santiago;11/10/2018 09:24;792.00
+13469;82;Santa Fe;Villa Constitucion;2919;74;Estados Unidos;4454;Kansas;05/10/2018 08:30;5500.00
+14014;6;Buenos Aires;CIUDADELA;1702;51;Colombia;704;Antioquia;11/10/2018 09:32;3000.00
+13809;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1888;Reggio Emilia;09/10/2018 13:30;150.00
+14181;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;12/10/2018 14:22;7652.00
+13934;2;Ciudad Autónoma de Buenos Aires;Saavedra;1429;62;Dinamarca;827;Hovedstaden;11/10/2018 11:42;750.00
+14161;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;805;Bayern;12/10/2018 11:47;28.00
+13899;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;51;Colombia;733;Valle del Cauca;10/10/2018 08:52;1195.62
+13884;6;Buenos Aires;Tigre;1648;29;Bolivia;418;Cochabamba;12/10/2018 12:19;2388.50
+14112;50;Mendoza;SAN JOSE - GUAYMALLEN;5519;178;Perú;3184;Ica;11/10/2018 17:36;112.00
+14059;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;17;Austria;130;Wien;11/10/2018 13:00;490.00
+13879;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1424;49;Chipre;782;Lefkosia;09/10/2018 16:55;1039.20
+13942;6;Buenos Aires;CIUDADELA;1702;149;México;2957;Puebla;10/10/2018 12:30;540.00
+14135;6;Buenos Aires;bahia blanca;8000;16;Australia;134;Queensland;11/10/2018 23:08;687.50
+14160;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4451;Idaho;12/10/2018 11:42;364.00
+13181;6;Buenos Aires;Mar del Plata;7600;47;Chile;656;Región Metropolitana de Santiago;09/10/2018 12:53;956.00
+14052;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;11/10/2018 12:32;59.00
+14058;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1896;Sondrio;11/10/2018 13:00;170.00
+13290;6;Buenos Aires;Ramos Mejia;1704;67;El Salvador;3958;San Salvador;10/10/2018 10:08;1950.00
+9490;14;Córdoba;Villa María;5900;51;Colombia;717;Distrito Capital de Bogotá;01/08/2018 11:09;1400.00
+13724;6;Buenos Aires;LOMA HERMOSA;1657;33;Brasil;451;Rio Grande do Sul;08/10/2018 15:08;2750.00
+13913;2;Ciudad Autónoma de Buenos Aires;CABA;1414;236;Uruguay;4502;Montevideo;10/10/2018 10:51;280.00
+14208;6;Buenos Aires;LOMA HERMOSA;1657;33;Brasil;451;Rio Grande do Sul;12/10/2018 16:08;2750.00
+14336;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;16/10/2018 15:26;6160.00
+14075;6;Buenos Aires;LOMA HERMOSA;1657;33;Brasil;451;Rio Grande do Sul;11/10/2018 14:40;2750.00
+14113;6;Buenos Aires;City Bell;1896;175;Panamá;3164;Colón;11/10/2018 17:42;4050.00
+13920;6;Buenos Aires;moron;1708;64;República Dominicana;870;Santo Domingo;10/10/2018 12:18;430.00
+14280;6;Buenos Aires;Villa Martelli;1603;149;México;2951;México;16/10/2018 11:41;2051.33
+13990;6;Buenos Aires;Avellaneda;1870;183;Puerto Rico;4798;Juana Diaz;11/10/2018 12:20;1999.00
+13544;6;Buenos Aires;Mar del Plata;7600;236;Uruguay;4501;Maldonado;05/10/2018 13:16;3170.00
+14435;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;811;Nordrhein-Westfalen;17/10/2018 12:32;350.00
+14425;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4461;Minnesota;17/10/2018 11:59;130.00
+14516;2;Ciudad Autónoma de Buenos Aires;CABA;1425;115;Japón;1957;Tôkyô [Tokyo];18/10/2018 09:13;9377.64
+14410;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4441;California;17/10/2018 11:39;9829.20
+14421;6;Buenos Aires;Sarandi;1872;51;Colombia;716;Cundinamarca;17/10/2018 11:53;2221.70
+14447;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;17/10/2018 13:08;69.00
+13536;82;Santa Fe;TOTORAS;2144;236;Uruguay;4494;Canelones;12/10/2018 16:59;1884.40
+14439;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;17/10/2018 12:53;210.00
+14460;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;17/10/2018 14:48;3920.00
+12395;14;Córdoba;Marcos Juárez;2580;47;Chile;656;Región Metropolitana de Santiago;21/09/2018 15:13;1594.00
+14436;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;17/10/2018 12:33;155.00
+14299;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;805;Bayern;16/10/2018 12:54;250.00
+14495;2;Ciudad Autónoma de Buenos Aires;CABA;1069;175;Panamá;3169;Panamá;18/10/2018 13:42;983.30
+14303;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4436;Alaska;16/10/2018 13:02;69.00
+14530;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;18/10/2018 10:55;2748.49
+14302;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4473;New York;16/10/2018 12:55;240.00
+14305;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1862;Milano;17/10/2018 09:21;50.00
+14428;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;16;Australia;132;New South Wales;17/10/2018 12:13;199.00
+14579;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;74;Estados Unidos;4441;California;18/10/2018 15:39;10935.10
+14170;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1172;236;Uruguay;4502;Montevideo;16/10/2018 10:14;530.00
+14202;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;12/10/2018 15:50;215.00
+12707;2;Ciudad Autónoma de Buenos Aires;CABA;1135;177;Paraguay;3396;Asunción;26/09/2018 08:48;4310.32
+12721;82;Santa Fe;alvear;2130;74;Estados Unidos;4486;Virginia;26/09/2018 11:22;2981.30
+12731;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;236;Uruguay;4502;Montevideo;26/09/2018 12:29;3034.57
+12798;6;Buenos Aires;Don Torcuato;1611;43;Canadá;544;Ontario;27/09/2018 10:28;2100.00
+12809;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;27/09/2018 11:51;7638.00
+12815;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1426;59;Costa Rica;742;San José;27/09/2018 12:11;4000.00
+12821;6;Buenos Aires;Vicente Lopez;1603;74;Estados Unidos;4477;Pennsylvania;27/09/2018 12:29;2734.99
+12830;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];27/09/2018 12:44;14640.00
+12849;6;Buenos Aires;Don Torcuato;1611;82;Francia;1179;Seine-et-Marne;27/09/2018 15:14;450.00
+12885;6;Buenos Aires;BERISSO;1923;185;Reino Unido;1288;Hampshire;28/09/2018 10:12;980.00
+12923;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;74;Estados Unidos;4446;Florida;28/09/2018 12:28;1662.16
+12929;6;Buenos Aires;AVELLANEDA;1870;181;Polonia;3326;Wielkopolskie;28/09/2018 13:00;2490.80
+12949;6;Buenos Aires;SAN MARTIN;1650;51;Colombia;717;Distrito Capital de Bogotá;28/09/2018 15:21;1836.50
+12958;6;Buenos Aires;SAN ANDRES Pdo. de SAN MARTIN;1651;47;Chile;656;Región Metropolitana de Santiago;28/09/2018 15:40;2400.00
+12968;6;Buenos Aires;AVELLANEDA;1870;94;Guatemala;1522;Guatemala;28/09/2018 17:27;8625.38
+13058;82;Santa Fe;Rosario;2000;74;Estados Unidos;4477;Pennsylvania;01/10/2018 12:20;1900.00
+13062;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4441;California;01/10/2018 12:20;250.00
+13076;6;Buenos Aires;Don Torcuato;1611;149;México;2951;México;01/10/2018 13:10;2086.00
+13112;14;Córdoba;Córdoba;5009;178;Perú;3188;Lima;01/10/2018 17:46;1830.00
+13180;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;02/10/2018 12:36;2304.00
+13200;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4441;California;02/10/2018 13:50;6013.00
+13279;14;Córdoba;Cordoba;5000;72;España;1029;Málaga;03/10/2018 11:04;4100.00
+13293;6;Buenos Aires;Don Torcuato;1611;212;Suecia;3639;Kronoborgs län;03/10/2018 11:49;6755.00
+13297;14;Córdoba;CORDOBA;5000;149;México;2951;México;04/10/2018 11:49;1200.00
+13339;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;03/10/2018 15:50;1080.00
+13435;6;Buenos Aires;Don Torcuato;1611;16;Australia;132;New South Wales;04/10/2018 13:12;4633.00
+13443;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;04/10/2018 14:27;2640.00
+13453;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;04/10/2018 15:12;3055.20
+13459;6;Buenos Aires;Quilmes;1878;29;Bolivia;424;Santa Cruz;04/10/2018 15:59;6584.00
+13522;6;Buenos Aires;AVELLANEDA;1870;47;Chile;650;Coquimbo;05/10/2018 11:00;10188.00
+13532;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;185;Reino Unido;1211;Isle of Anglesey [Sir Ynys Môn GB-YNM];05/10/2018 11:45;3494.00
+13538;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4480;South Carolina;05/10/2018 12:40;1750.00
+13584;6;Buenos Aires;PILAR;1629;74;Estados Unidos;4441;California;05/10/2018 15:25;3021.00
+13655;6;Buenos Aires;Lanus Oeste;1824;74;Estados Unidos;4460;Michigan;09/10/2018 12:50;700.00
+13656;6;Buenos Aires;Lanus Oeste;1824;74;Estados Unidos;4460;Michigan;09/10/2018 12:50;700.00
+13658;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1426;72;España;1017;Las Palmas;08/10/2018 10:24;1250.00
+13661;6;Buenos Aires;SAN MARTIN;1650;33;Brasil;454;São Paulo;08/10/2018 12:07;3012.70
+13687;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;08/10/2018 11:53;4424.00
+14205;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;12/10/2018 15:59;150.00
+13770;82;Santa Fe;ROSARIO;2000;178;Perú;3188;Lima;09/10/2018 09:43;1800.00
+14981;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;23/10/2018 14:57;69.00
+15097;6;Buenos Aires;Martinez;1640;236;Uruguay;4502;Montevideo;24/10/2018 13:08;6545.00
+14847;2;Ciudad Autónoma de Buenos Aires;CABA;1425;115;Japón;1957;Tôkyô [Tokyo];22/10/2018 15:27;4274.64
+14878;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1416;183;Puerto Rico;4807;Mayagüez;23/10/2018 11:58;970.00
+14936;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;544;Ontario;23/10/2018 12:41;150.00
+15028;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;74;Estados Unidos;4443;Connecticut;23/10/2018 18:06;1657.50
+14261;6;Buenos Aires;QUILMES;1878;47;Chile;656;Región Metropolitana de Santiago;18/10/2018 14:31;720.30
+14293;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1427;47;Chile;649;Biobío;18/10/2018 17:27;212.40
+15040;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4452;Illinois;23/10/2018 22:03;785.00
+14806;2;Ciudad Autónoma de Buenos Aires;CABA;1440;94;Guatemala;1522;Guatemala;22/10/2018 10:45;1550.00
+14922;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1172;47;Chile;656;Región Metropolitana de Santiago;23/10/2018 10:46;1296.00
+14423;6;Buenos Aires;LOMAS DEL MIRADOR;1752;149;México;2949;Hidalgo;18/10/2018 12:47;1980.00
+14931;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4441;California;23/10/2018 12:06;2100.00
+14982;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;23/10/2018 15:08;110.00
+14521;6;Buenos Aires;QUILMES;1878;178;Perú;3188;Lima;19/10/2018 16:57;627.30
+14311;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;16/10/2018 13:53;57.00
+13165;2;Ciudad Autónoma de Buenos Aires;CABA;1425;47;Chile;656;Región Metropolitana de Santiago;02/10/2018 11:24;2000.00
+14593;82;Santa Fe;SANTA FE;3000;47;Chile;656;Región Metropolitana de Santiago;18/10/2018 17:12;1819.46
+14544;6;Buenos Aires;bahia blanca;8000;218;Taiwán;4257;Taipei;18/10/2018 12:59;850.00
+14989;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;23/10/2018 15:21;150.00
+14381;14;Córdoba;Cordoba;5000;65;Ecuador;947;Tungurahua;17/10/2018 10:04;2100.00
+15136;6;Buenos Aires;MERCEDES;6600;64;República Dominicana;870;Santo Domingo;24/10/2018 15:15;4024.38
+14765;6;Buenos Aires;Ciudad Jardin;1684;82;Francia;1166;Pyrénées-Atlantiques;21/10/2018 03:19;1263.40
+15280;2;Ciudad Autónoma de Buenos Aires;Caba;1407;236;Uruguay;4502;Montevideo;25/10/2018 15:17;46.00
+15141;6;Buenos Aires;MERCEDES;6600;47;Chile;656;Región Metropolitana de Santiago;25/10/2018 11:45;5166.30
+15065;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;24/10/2018 10:47;60.00
+14819;6;Buenos Aires;bahia blanca;8000;74;Estados Unidos;4446;Florida;22/10/2018 11:54;931.00
+14441;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;4;Alemania;812;Rheinland-Pfalz;17/10/2018 12:59;346.00
+15045;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4458;Maryland;23/10/2018 22:07;286.00
+15240;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4486;Virginia;25/10/2018 12:42;180.00
+15270;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;25/10/2018 14:27;5520.00
+15137;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;24/10/2018 15:12;4944.00
+15010;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4458;Maryland;23/10/2018 15:48;170.00
+14933;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4480;South Carolina;23/10/2018 12:15;69.00
+13638;6;Buenos Aires;Buenos Aires;1414;74;Estados Unidos;4441;California;22/10/2018 09:46;860.08
+14688;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4446;Florida;19/10/2018 14:41;1205.00
+14925;6;Buenos Aires;Vicente Lopez;1638;16;Australia;136;Tasmania;23/10/2018 11:45;200.00
+14224;2;Ciudad Autónoma de Buenos Aires;CABA;1431;178;Perú;3188;Lima;16/10/2018 09:28;797.44
+14985;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4472;Nevada;23/10/2018 15:14;69.00
+15347;6;Buenos Aires;San Andres de Giles;6720;178;Perú;3188;Lima;26/10/2018 09:57;768.16
+15044;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4453;Indiana;23/10/2018 22:06;220.00
+14687;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;19/10/2018 14:14;2640.00
+14853;2;Ciudad Autónoma de Buenos Aires;CABA;1069;175;Panamá;3169;Panamá;22/10/2018 16:40;412.90
+15060;6;Buenos Aires;Vicente Lopez;1638;24;Bélgica;304;Luxembourg;24/10/2018 10:04;160.00
+14809;6;Buenos Aires;olivos;1636;183;Puerto Rico;4827;San Juan;22/10/2018 11:07;151.00
+14524;82;Santa Fe;ROSARIO;2000;177;Paraguay;3381;Central;18/10/2018 10:50;5304.90
+14118;6;Buenos Aires;Libertador San Martín;1657;51;Colombia;717;Distrito Capital de Bogotá;12/10/2018 15:10;3300.00
+14735;2;Ciudad Autónoma de Buenos Aires;Palermo;1414;74;Estados Unidos;4483;Texas;19/10/2018 17:18;100.00
+14899;2;Ciudad Autónoma de Buenos Aires;CABA;1426;72;España;1005;Barcelona [Barcelona];23/10/2018 11:32;2596.00
+14402;6;Buenos Aires;pergamino;2700;177;Paraguay;3396;Asunción;19/10/2018 09:13;3300.00
+15002;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4470;New Jersey;23/10/2018 15:29;170.00
+14829;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1603;21;Bangladesh;243;Dhaka;24/10/2018 10:20;4995.00
+15123;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4441;California;24/10/2018 14:25;400.00
+14619;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;67;El Salvador;3952;La Libertad;19/10/2018 10:49;1807.67
+14935;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;213;Suiza;619;Sankt Gallen (de);23/10/2018 12:36;536.95
+14451;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4471;New Mexico;19/10/2018 10:23;759.00
+14739;102;Entre Ríos;GUALEGUAYCHU;2820;149;México;2950;Jalisco;19/10/2018 17:35;1456.00
+15198;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1428;47;Chile;649;Biobío;25/10/2018 09:45;160.00
+14764;6;Buenos Aires;Ciudad Jardin;1684;82;Francia;1166;Pyrénées-Atlantiques;21/10/2018 03:12;2405.00
+15004;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4466;North Carolina;23/10/2018 15:36;69.00
+14557;6;Buenos Aires;SAN ANDRES Pdo. de SAN MARTIN;1651;82;Francia;1114;Bouches-du-Rhône;18/10/2018 13:47;2360.00
+14974;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4472;Nevada;23/10/2018 14:44;89.00
+15554;2;Ciudad Autónoma de Buenos Aires;Ciudad autónoma de buenos aires;1184;74;Estados Unidos;4441;California;29/10/2018 11:42;4000.00
+15007;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;185;Reino Unido;1351;Oxfordshire;23/10/2018 15:43;69.00
+15042;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4440;Arizona;23/10/2018 22:06;154.00
+9250;6;Buenos Aires;GRAL SAN MARTIN;1651;82;Francia;1119;Cher;02/08/2018 15:28;8330.00
+2351;6;Buenos Aires;MARTINEZ;1640;178;Perú;3195;Puno;31/01/2018 16:34;96.00
+13719;2;Ciudad Autónoma de Buenos Aires;CABA;1431;29;Bolivia;420;La Paz;09/10/2018 09:31;521.86
+13781;6;Buenos Aires;Beccar;1643;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];09/10/2018 10:38;5150.00
+13804;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;74;Estados Unidos;4470;New Jersey;09/10/2018 13:11;9106.03
+13823;82;Santa Fe;Rosario;2000;149;México;2950;Jalisco;09/10/2018 14:16;1092.00
+13926;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4469;New Hampshire;10/10/2018 11:31;1945.82
+13930;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;10/10/2018 11:57;1874.00
+13931;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;10/10/2018 12:03;2828.00
+13996;82;Santa Fe;alvear;2130;82;Francia;1107;Alpes-Maritimes;10/10/2018 17:02;2450.90
+14030;6;Buenos Aires;El PALOMAR;1684;90;Grecia;1505;Kentrikí Makedonía;11/10/2018 10:49;2259.40
+14078;82;Santa Fe;alvear;2130;149;México;2955;Nuevo León;11/10/2018 14:49;3969.30
+14081;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;11/10/2018 15:17;1771.00
+14088;6;Buenos Aires;VALENTIN ALSINA;1822;72;España;1028;Madrid;11/10/2018 15:47;435.17
+14095;6;Buenos Aires;El PALOMAR;1684;113;Italia;1862;Milano;11/10/2018 16:11;4468.20
+14124;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;11/10/2018 19:44;2642.47
+14140;2;Ciudad Autónoma de Buenos Aires;CABA;1135;82;Francia;1170;Haut-Rhin;12/10/2018 09:19;71.82
+14209;2;Ciudad Autónoma de Buenos Aires;CABA;1440;29;Bolivia;418;Cochabamba;12/10/2018 16:11;8763.22
+14296;6;Buenos Aires;Don Torcuato;1611;82;Francia;1115;Calvados;16/10/2018 12:36;4224.00
+14337;2;Ciudad Autónoma de Buenos Aires;CABA;1414;115;Japón;1955;Saitama;16/10/2018 15:29;5501.08
+14379;82;Santa Fe;alvear;2130;184;Qatar;3402;Al Wakrah;17/10/2018 09:23;4912.13
+14392;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;17/10/2018 10:32;2700.00
+14406;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1430;109;Iraq;1753;Arb?l;17/10/2018 11:15;4028.00
+14426;6;Buenos Aires;AVELLANEDA;1870;175;Panamá;3169;Panamá;17/10/2018 12:32;2341.36
+14430;2;Ciudad Autónoma de Buenos Aires;CABA;1414;185;Reino Unido;1315;Leicestershire;17/10/2018 12:10;4247.60
+14432;2;Ciudad Autónoma de Buenos Aires;CABA;1414;185;Reino Unido;1315;Leicestershire;17/10/2018 12:22;5136.56
+14482;6;Buenos Aires;TORTUGUITAS;1667;210;Sudáfrica;4662;Gauteng;17/10/2018 16:40;5146.00
+14503;6;Buenos Aires;Vicente Lopez;1603;74;Estados Unidos;4477;Pennsylvania;17/10/2018 19:45;3634.84
+14535;6;Buenos Aires;Avellaneda;1870;74;Estados Unidos;4446;Florida;18/10/2018 11:40;1823.00
+14560;14;Córdoba;Córdoba;5147;79;Filipinas;3222;National Capital Région (Manila);18/10/2018 13:58;500.00
+14564;82;Santa Fe;alvear;2130;107;Indonesia;1659;Jakarta Raya;18/10/2018 14:02;7181.50
+15814;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4483;Texas;31/10/2018 10:18;7297.90
+15588;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4488;Vermont;29/10/2018 13:11;69.00
+16448;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;07/11/2018 12:38;199.00
+15966;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4462;Missouri;01/11/2018 13:25;199.00
+15584;6;Buenos Aires;villa ballester;1653;74;Estados Unidos;4482;Tennessee;29/10/2018 12:54;400.00
+16166;6;Buenos Aires;Vicente Lopez;1638;82;Francia;1121;Côte-d'Or;05/11/2018 12:57;150.00
+14620;106;San Juan;CHIMBAS;5413;48;China;679;Zhejiang;19/10/2018 11:03;208.00
+15704;6;Buenos Aires;Don Torcuato;1611;16;Australia;132;New South Wales;30/10/2018 10:58;1340.00
+14589;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1428;115;Japón;1955;Saitama;18/10/2018 16:23;14849.00
+15953;6;Buenos Aires;General San Martin;1653;65;Ecuador;942;Pichincha;01/11/2018 12:42;2601.00
+15605;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;29/10/2018 14:13;2000.00
+15319;50;Mendoza;Mendoza;5500;47;Chile;656;Región Metropolitana de Santiago;26/10/2018 18:00;4487.00
+15319;50;Mendoza;Mendoza;5500;47;Chile;656;Región Metropolitana de Santiago;26/10/2018 18:00;4487.00
+16034;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4483;Texas;02/11/2018 10:39;1850.00
+14917;14;Córdoba;cordoba;5011;178;Perú;3188;Lima;23/10/2018 11:46;1900.00
+15589;6;Buenos Aires;MERCEDES;6600;64;República Dominicana;870;Santo Domingo;29/10/2018 13:24;6289.81
+15602;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;16;Australia;132;New South Wales;29/10/2018 14:10;175.00
+15648;2;Ciudad Autónoma de Buenos Aires;CABA;1069;47;Chile;656;Región Metropolitana de Santiago;29/10/2018 16:46;801.50
+16470;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;07/11/2018 14:41;130.00
+15969;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;546;Quebec;01/11/2018 13:42;136.00
+16450;2;Ciudad Autónoma de Buenos Aires;CABA;1057;51;Colombia;704;Antioquia;07/11/2018 12:41;100.00
+15906;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4471;New Mexico;05/11/2018 09:47;721.60
+16025;2;Ciudad Autónoma de Buenos Aires;CABA;1425;115;Japón;1957;Tôkyô [Tokyo];02/11/2018 09:18;4340.16
+15607;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;29/10/2018 14:16;69.00
+15127;106;San Juan;Caucete;5442;218;Taiwán;4255;Taoyuan;25/10/2018 17:05;64.00
+15380;14;Córdoba;San Francisco;2400;178;Perú;3188;Lima;26/10/2018 11:46;160.00
+16455;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;07/11/2018 13:27;180.00
+15747;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;30/10/2018 14:28;4680.00
+15367;82;Santa Fe;Rosario;2000;48;China;677;Shanghai;26/10/2018 11:02;13.75
+16059;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;02/11/2018 13:20;90.00
+15595;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;29/10/2018 13:56;69.30
+15598;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;169;Nueva Zelanda;3135;Canterbury;29/10/2018 14:04;125.00
+15382;6;Buenos Aires;bahia blanca;8000;115;Japón;1957;Tôkyô [Tokyo];26/10/2018 11:28;450.00
+15143;6;Buenos Aires;TIGRE;1648;74;Estados Unidos;4441;California;24/10/2018 15:58;255.00
+15874;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;31/10/2018 15:05;5120.00
+14947;6;Buenos Aires;SARANDI;1872;113;Italia;1864;Modena;26/10/2018 12:44;9760.00
+16146;6;Buenos Aires;Vicente Lopez;1602;74;Estados Unidos;4457;Massachusetts;05/11/2018 11:16;1013.00
+16044;2;Ciudad Autónoma de Buenos Aires;CABA;1057;178;Perú;3188;Lima;02/11/2018 11:24;369.00
+16190;6;Buenos Aires;DON TORCUATO;1611;51;Colombia;728;Risaralda;05/11/2018 14:43;1022.60
+14774;6;Buenos Aires;Villa Lynch;1672;236;Uruguay;4508;San José;23/10/2018 13:05;500.00
+16287;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;546;Quebec;06/11/2018 11:59;199.00
+16400;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1414;74;Estados Unidos;4477;Pennsylvania;07/11/2018 09:44;105.48
+15880;6;Buenos Aires;AVELLANEDA;1871;47;Chile;656;Región Metropolitana de Santiago;05/11/2018 10:30;614.30
+15564;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4483;Texas;29/10/2018 11:42;165.00
+15929;6;Buenos Aires;CORONEL SUAREZ;7540;177;Paraguay;3396;Asunción;01/11/2018 09:35;1295.00
+15765;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1428;74;Estados Unidos;4441;California;30/10/2018 15:47;80.00
+15055;6;Buenos Aires;LA PLATA;1900;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];24/10/2018 09:24;1925.00
+15565;2;Ciudad Autónoma de Buenos Aires;CABA;1440;94;Guatemala;1522;Guatemala;29/10/2018 12:13;2686.50
+16219;106;San Juan;San Juan;5400;48;China;679;Zhejiang;05/11/2018 16:55;162.00
+16444;2;Ciudad Autónoma de Buenos Aires;CABA;1425;115;Japón;1957;Tôkyô [Tokyo];07/11/2018 11:47;723.74
+16263;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;236;Uruguay;4502;Montevideo;06/11/2018 09:37;44.00
+16162;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1894;Salerno;05/11/2018 12:38;150.00
+15753;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;30/10/2018 15:02;941.91
+15705;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;16;Australia;132;New South Wales;30/10/2018 11:03;245.00
+15208;2;Ciudad Autónoma de Buenos Aires;CABA;1020;74;Estados Unidos;4473;New York;25/10/2018 11:00;300.00
+15203;14;Córdoba;Córdoba;5014;47;Chile;656;Región Metropolitana de Santiago;25/10/2018 09:55;6750.00
+15257;6;Buenos Aires;DON TORCUATO;1611;51;Colombia;709;Caldas;25/10/2018 13:49;1416.17
+13499;6;Buenos Aires;MORON;1708;47;Chile;656;Región Metropolitana de Santiago;24/10/2018 08:22;346.50
+16170;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4470;New Jersey;05/11/2018 13:17;529.20
+16447;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4473;New York;07/11/2018 12:17;3352.50
+16253;6;Buenos Aires;Bernal;1876;113;Italia;1823;Bologna;05/11/2018 20:31;3606.59
+16029;6;Buenos Aires;Vicente Lopez;1638;115;Japón;1957;Tôkyô [Tokyo];02/11/2018 09:35;1650.00
+16313;2;Ciudad Autónoma de Buenos Aires;CABA;1414;181;Polonia;3314;Lubuskie;06/11/2018 13:57;4310.00
+15686;6;Buenos Aires;Wilde;1875;74;Estados Unidos;4466;North Carolina;31/10/2018 10:29;7102.70
+15237;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;25/10/2018 12:24;69.00
+16242;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;51;Colombia;704;Antioquia;05/11/2018 19:38;55.00
+15846;2;Ciudad Autónoma de Buenos Aires;CABA;1426;72;España;1005;Barcelona [Barcelona];31/10/2018 13:17;2020.00
+16413;6;Buenos Aires;VILLA MARTELLI;1603;149;México;2943;Ciudad de Mexico;07/11/2018 12:27;3430.00
+16050;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;67;El Salvador;3952;La Libertad;02/11/2018 12:20;2154.26
+15628;50;Mendoza;Agrelo;5519;43;Canadá;544;Ontario;29/10/2018 15:28;567.00
+15153;6;Buenos Aires;CORONEL SUAREZ;7540;236;Uruguay;4494;Canelones;24/10/2018 16:37;940.00
+16179;82;Santa Fe;Rosario;2000;178;Perú;3188;Lima;05/11/2018 14:24;2230.62
+16238;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;05/11/2018 19:25;60.00
+15614;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;212;Suecia;3646;Värmlands län;29/10/2018 14:34;155.00
+16160;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4441;California;05/11/2018 12:33;198.00
+15710;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;185;Reino Unido;1319;London, City of;30/10/2018 11:18;61.00
+15459;6;Buenos Aires;MERCEDES;6600;64;República Dominicana;870;Santo Domingo;26/10/2018 16:32;1080.57
+12406;6;Buenos Aires;Gral San Martin;1650;51;Colombia;717;Distrito Capital de Bogotá;21/09/2018 15:40;8345.00
+14572;14;Córdoba;San Francisco;2400;149;México;2950;Jalisco;18/10/2018 15:06;2481.00
+14574;6;Buenos Aires;SAN MARTIN;1650;82;Francia;1133;Haute-Garonne;18/10/2018 15:11;1832.00
+14634;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4441;California;19/10/2018 11:12;780.00
+14661;6;Buenos Aires;Beccar;1643;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];19/10/2018 12:29;8150.00
+14678;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];19/10/2018 13:22;14112.00
+14742;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;19/10/2018 18:31;9310.00
+14794;6;Buenos Aires;El PALOMAR;1684;72;España;1005;Barcelona [Barcelona];22/10/2018 10:14;6681.40
+14797;6;Buenos Aires;SAN FERNANDO;1644;117;Jordania;1941;AI Karak;22/10/2018 10:27;440.00
+14805;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;74;Estados Unidos;4446;Florida;22/10/2018 10:37;4655.00
+14814;6;Buenos Aires;VICTORIA;1644;74;Estados Unidos;4474;Ohio;22/10/2018 11:44;4160.00
+14845;50;Mendoza;GUAYMALLEN;5519;4;Alemania;802;Brandenburg;22/10/2018 14:42;2150.00
+14914;6;Buenos Aires;VALENTIN ALSINA;1822;47;Chile;656;Región Metropolitana de Santiago;23/10/2018 10:09;2640.43
+15011;82;Santa Fe;Rosario;2000;74;Estados Unidos;4485;Utah;23/10/2018 16:04;1100.00
+15077;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;24/10/2018 11:50;1080.00
+15082;2;Ciudad Autónoma de Buenos Aires;CABA;1427;178;Perú;3188;Lima;24/10/2018 12:57;245.00
+15150;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;24/10/2018 16:10;1770.96
+15214;82;Santa Fe;ROSARIO;2000;113;Italia;1843;Foggia;25/10/2018 11:35;2411.55
+15200;6;Buenos Aires;AVELLANEDA;1870;90;Grecia;1512;Attikí;25/10/2018 09:45;2940.72
+15224;2;Ciudad Autónoma de Buenos Aires;CABA;1414;113;Italia;1914;Vicenza;25/10/2018 11:35;4005.51
+15229;50;Mendoza;GUAYMALLEN;5519;240;Venezuela;4533;Distrito Capital;25/10/2018 11:45;6527.35
+15235;6;Buenos Aires;Don Torcuato;1611;82;Francia;1151;Maine-et-Loire;25/10/2018 12:18;1875.00
+15244;6;Buenos Aires;AVELLANEDA;1870;149;México;2943;Ciudad de Mexico;25/10/2018 12:59;10514.40
+15267;6;Buenos Aires;Villa Ballester;1653;51;Colombia;733;Valle del Cauca;25/10/2018 14:19;1110.00
+15277;6;Buenos Aires;AVELLANEDA;1870;149;México;2943;Ciudad de Mexico;25/10/2018 15:09;9328.68
+15286;2;Ciudad Autónoma de Buenos Aires;CABA;1417;74;Estados Unidos;4477;Pennsylvania;25/10/2018 15:29;2290.00
+15289;6;Buenos Aires;AVELLANEDA;1870;149;México;2943;Ciudad de Mexico;25/10/2018 15:47;5095.20
+15310;6;Buenos Aires;VILLA LYNCH;1672;47;Chile;656;Región Metropolitana de Santiago;25/10/2018 17:43;10424.26
+15345;14;Córdoba;Cordoba;5000;65;Ecuador;942;Pichincha;26/10/2018 09:40;400.00
+15356;2;Ciudad Autónoma de Buenos Aires;CABA;1414;115;Japón;1954;Gunma;26/10/2018 10:37;3852.80
+15421;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4441;California;26/10/2018 14:48;800.00
+15452;6;Buenos Aires;AVELLANEDA;1870;65;Ecuador;935;Guayas;26/10/2018 16:07;3502.40
+15485;14;Córdoba;Córdoba;5147;74;Estados Unidos;4476;Oregon;27/10/2018 15:10;1600.00
+15513;6;Buenos Aires;Beccar;1643;90;Grecia;1516;Kríti;29/10/2018 14:39;3360.00
+15637;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4483;Texas;29/10/2018 15:48;380.00
+15645;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1431;74;Estados Unidos;4441;California;29/10/2018 16:58;14875.30
+15651;6;Buenos Aires;SAN MARTIN;1650;85;Georgia;1443;T'bilisi;30/10/2018 14:57;1064.10
+15718;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4483;Texas;30/10/2018 12:23;1260.00
+15733;6;Buenos Aires;SAN FERNANDO;1644;29;Bolivia;424;Santa Cruz;30/10/2018 13:54;2500.00
+15819;2;Ciudad Autónoma de Buenos Aires;CABA;1439;82;Francia;1129;Finistère;31/10/2018 11:30;202.50
+15883;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4483;Texas;31/10/2018 15:54;885.00
+15892;6;Buenos Aires;Beccar;1643;169;Nueva Zelanda;3135;Canterbury;31/10/2018 16:06;220.00
+15956;82;Santa Fe;Villa Constitucion;2919;74;Estados Unidos;4454;Kansas;01/11/2018 12:10;6685.00
+15960;6;Buenos Aires;VILLA LYNCH;1672;103;Honduras;1563;Cortés;01/11/2018 12:42;2656.50
+15970;2;Ciudad Autónoma de Buenos Aires;CABA;1426;72;España;1005;Barcelona [Barcelona];02/11/2018 10:45;6000.00
+15977;2;Ciudad Autónoma de Buenos Aires;CABA;1414;115;Japón;1955;Saitama;01/11/2018 15:07;4483.54
+16032;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;02/11/2018 09:53;3420.00
+16036;6;Buenos Aires;BERISSO;1923;57;Corea del Sur;2105;Busan Gwang'yeogsi [Pusan?Kwangy?kshi];02/11/2018 10:42;1530.00
+16037;82;Santa Fe;ROSARIO;2000;29;Bolivia;424;Santa Cruz;02/11/2018 10:57;1122.78
+16038;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;02/11/2018 10:54;1100.00
+16046;6;Buenos Aires;Villa Ballester;1653;236;Uruguay;4507;Salto;02/11/2018 11:44;4520.00
+16062;6;Buenos Aires;Adrogue;1846;82;Francia;1177;Paris;02/11/2018 13:42;14356.00
+16063;82;Santa Fe;Rosario;2000;33;Brasil;451;Rio Grande do Sul;02/11/2018 13:53;12896.15
+16123;6;Buenos Aires;D.F.Sarmiento;1706;74;Estados Unidos;4446;Florida;05/11/2018 14:05;4600.00
+16125;6;Buenos Aires;VALENTIN ALSINA;1822;72;España;1028;Madrid;05/11/2018 08:33;1255.34
+16126;2;Ciudad Autónoma de Buenos Aires;CABA;1427;149;México;2943;Ciudad de Mexico;05/11/2018 08:46;804.00
+16167;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;05/11/2018 13:00;1764.70
+16185;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;05/11/2018 14:37;3186.00
+16189;6;Buenos Aires;Don Torcuato;1611;24;Bélgica;298;Limburg;05/11/2018 14:40;620.00
+16213;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;4743;74;Estados Unidos;4441;California;05/11/2018 15:59;2749.68
+16261;82;Santa Fe;RAFAELA;2300;29;Bolivia;418;Cochabamba;06/11/2018 09:58;1245.00
+16267;82;Santa Fe;SANTA FE;3001;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];06/11/2018 10:14;5700.00
+16303;6;Buenos Aires;PILAR;1629;74;Estados Unidos;4441;California;06/11/2018 13:32;3190.00
+16334;6;Buenos Aires;Florida Oeste;1604;51;Colombia;717;Distrito Capital de Bogotá;06/11/2018 15:31;1176.60
+16386;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;06/11/2018 22:13;9343.82
+16402;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4446;Florida;07/11/2018 09:49;5867.44
+16427;6;Buenos Aires;Villa Adelina;1607;236;Uruguay;4502;Montevideo;07/11/2018 10:56;490.00
+16489;6;Buenos Aires;La Plata;1900;47;Chile;656;Región Metropolitana de Santiago;07/11/2018 15:34;289.40
+16545;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4469;New Hampshire;08/11/2018 09:58;8718.92
+16553;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;08/11/2018 10:23;312.32
+16555;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4457;Massachusetts;08/11/2018 10:27;1240.00
+16560;6;Buenos Aires;CAMPANA;2804;47;Chile;656;Región Metropolitana de Santiago;08/11/2018 14:52;10053.55
+15836;6;Buenos Aires;Don Torcuato;1611;110;Irlanda;1691;Kildare;31/10/2018 11:59;1410.00
+16087;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4473;New York;02/11/2018 17:18;1995.00
+16562;82;Santa Fe;alvear;2130;218;Taiwán;4257;Taipei;08/11/2018 11:23;3294.99
+16565;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4469;New Hampshire;08/11/2018 11:26;13254.13
+16612;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;115;Japón;1970;Hyôgo [Kyoto];08/11/2018 15:17;6798.00
+16622;6;Buenos Aires;General Pacheco;1617;59;Costa Rica;742;San José;08/11/2018 16:05;650.00
+16663;2;Ciudad Autónoma de Buenos Aires;Belgrano;1428;185;Reino Unido;1422;West Sussex;09/11/2018 09:02;2470.94
+16671;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;09/11/2018 09:52;1190.00
+16704;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];09/11/2018 11:31;8220.00
+16727;6;Buenos Aires;Don Torcuato;1611;212;Suecia;3639;Kronoborgs län;09/11/2018 12:53;4580.00
+16729;6;Buenos Aires;El PALOMAR;1684;72;España;1031;Murcia;09/11/2018 14:37;14773.08
+16739;6;Buenos Aires;VALENTIN ALSINA;1822;24;Bélgica;295;Bruxelles-Capitale, Région de;09/11/2018 13:48;341.06
+16748;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1057;74;Estados Unidos;4457;Massachusetts;09/11/2018 14:38;300.00
+16750;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1057;115;Japón;1966;Sizuoka [Shizuoka];09/11/2018 14:43;600.00
+16751;6;Buenos Aires;Vicente Lopez;1604;149;México;2951;México;09/11/2018 14:45;400.00
+16753;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;09/11/2018 15:08;14296.68
+16827;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4457;Massachusetts;12/11/2018 12:28;987.00
+16840;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1427;115;Japón;1957;Tôkyô [Tokyo];12/11/2018 14:29;9028.50
+16927;118;Corrientes;MERCEDES;3470;185;Reino Unido;1263;Dorset;13/11/2018 10:54;3105.49
+16971;6;Buenos Aires;VILLA LYNCH;1672;236;Uruguay;4502;Montevideo;13/11/2018 14:17;3900.85
+14469;2;Ciudad Autónoma de Buenos Aires;CABA;1230;177;Paraguay;3396;Asunción;01/11/2018 12:16;2424.68
+16234;2;Ciudad Autónoma de Buenos Aires;ciudad autónoma de buenos aires;1195;149;México;2951;México;06/11/2018 11:25;1019.60
+15590;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;185;Reino Unido;1310;Lancashire;29/10/2018 13:22;190.00
+15973;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;01/11/2018 14:18;1144.04
+16010;14;Córdoba;Villa Allende;5105;4;Alemania;812;Rheinland-Pfalz;01/11/2018 18:43;816.00
+15708;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4473;New York;30/10/2018 11:15;200.00
+15772;82;Santa Fe;RAFAELA;2300;4;Alemania;802;Brandenburg;30/10/2018 16:08;82.00
+16293;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;537;British Columbia;06/11/2018 12:33;130.00
+15530;2;Ciudad Autónoma de Buenos Aires;CABA;1057;16;Australia;134;Queensland;29/10/2018 11:58;180.00
+16298;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1862;Milano;06/11/2018 13:10;125.00
+16442;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4442;Colorado;07/11/2018 11:37;2180.00
+15225;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;25/10/2018 11:32;42.00
+15787;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;31/10/2018 08:14;14719.20
+2542;2;Ciudad Autónoma de Buenos Aires;CABA;1414;113;Italia;1823;Bologna;05/02/2018 17:12;3135.21
+16973;6;Buenos Aires;RAMOS MEJIA;1704;178;Perú;3188;Lima;13/11/2018 14:25;213.00
+16979;6;Buenos Aires;El PALOMAR;1684;82;Francia;1170;Haut-Rhin;13/11/2018 14:47;11379.94
+16982;6;Buenos Aires;El PALOMAR;1684;82;Francia;1170;Haut-Rhin;13/11/2018 14:58;8248.09
+17051;82;Santa Fe;alvear;2130;133;ARY Macedonia;2731;Skopje;14/11/2018 11:06;3995.91
+17064;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4483;Texas;14/11/2018 11:52;500.00
+17084;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;14/11/2018 13:05;1753.46
+17126;6;Buenos Aires;Buenos Aires;1293;74;Estados Unidos;4441;California;14/11/2018 16:17;3150.00
+17168;6;Buenos Aires;AVELLANEDA;1870;178;Perú;3188;Lima;15/11/2018 09:51;9575.64
+17190;6;Buenos Aires;Don Torcuato;1611;4;Alemania;811;Nordrhein-Westfalen;15/11/2018 12:03;3285.00
+17207;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;15/11/2018 13:17;14698.11
+17210;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;15/11/2018 13:37;3257.00
+17217;6;Buenos Aires;Don Torcuato;1611;82;Francia;1151;Maine-et-Loire;15/11/2018 14:53;625.00
+17237;2;Ciudad Autónoma de Buenos Aires;CABA;1414;167;Noruega;3085;Akershus;15/11/2018 16:17;2352.16
+17251;6;Buenos Aires;Hudson;1885;213;Suiza;606;Appenzell Ausserrhoden (de);20/11/2018 10:48;4920.00
+17317;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4441;California;16/11/2018 12:40;600.00
+17495;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;4743;29;Bolivia;418;Cochabamba;20/11/2018 16:59;985.25
+17547;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4473;New York;21/11/2018 10:54;1000.00
+17574;6;Buenos Aires;Florida Oeste;1604;74;Estados Unidos;4441;California;21/11/2018 12:07;7266.60
+17793;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;22/11/2018 21:06;789.26
+16997;6;Buenos Aires;GARIN;1619;47;Chile;656;Región Metropolitana de Santiago;13/11/2018 15:58;2884.32
+17303;2;Ciudad Autónoma de Buenos Aires;CABA;1414;72;España;1036;Balears [Baleares];16/11/2018 11:02;3607.09
+17357;90;Tucumán;San Miguel de Tucuman;4000;146;Mauricio;2866;Flacq;16/11/2018 17:09;960.00
+17407;82;Santa Fe;Villa Constitucion;2919;74;Estados Unidos;4454;Kansas;20/11/2018 08:21;5500.00
+17476;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1428;236;Uruguay;4502;Montevideo;20/11/2018 16:11;1445.50
+17516;2;Ciudad Autónoma de Buenos Aires;CABA;1439;74;Estados Unidos;4483;Texas;20/11/2018 20:54;1688.50
+17525;6;Buenos Aires;ITUZAINGO;1714;149;México;2959;Quintana Roo;21/11/2018 09:34;980.00
+17534;2;Ciudad Autónoma de Buenos Aires;CABA;1439;82;Francia;1171;Rhône;21/11/2018 10:08;26.70
+17552;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];21/11/2018 11:08;13290.00
+16327;6;Buenos Aires;Villa Ballester;1653;29;Bolivia;424;Santa Cruz;06/11/2018 14:49;4068.20
+17332;2;Ciudad Autónoma de Buenos Aires;CABA;1427;149;México;2947;Guerrero;16/11/2018 14:26;458.00
+17283;6;Buenos Aires;Quilmes;1879;236;Uruguay;4502;Montevideo;16/11/2018 09:57;3440.00
+17412;14;Córdoba;SAN FRANCISCO;2400;236;Uruguay;4502;Montevideo;20/11/2018 09:47;5753.80
+17433;6;Buenos Aires;Adrogue;1846;104;Hong Kong;4757;Yuen Long;20/11/2018 12:19;4904.50
+17448;6;Buenos Aires;San Martín;1650;183;Puerto Rico;4767;Bayamon;20/11/2018 14:07;379.00
+17645;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4473;New York;21/11/2018 18:37;1525.00
+17683;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1427;47;Chile;656;Región Metropolitana de Santiago;22/11/2018 11:19;1300.00
+17740;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4452;Illinois;22/11/2018 14:34;3635.00
+17755;6;Buenos Aires;VALENTIN ALSINA;1822;74;Estados Unidos;4446;Florida;22/11/2018 15:37;8708.00
+17828;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;23/11/2018 12:32;3815.00
+17852;82;Santa Fe;alvear;2130;106;India;1744;Rajasthan;23/11/2018 14:50;4480.73
+17868;6;Buenos Aires;San Martín;1650;213;Suiza;626;Vaud (fr);23/11/2018 16:27;2823.88
+17821;6;Buenos Aires;Don Torcuato;1611;212;Suecia;3639;Kronoborgs län;23/11/2018 11:52;7375.00
+17835;6;Buenos Aires;Don Torcuato;1611;4;Alemania;808;Hamburg;23/11/2018 12:51;800.00
+17943;6;Buenos Aires;pacheco;1618;169;Nueva Zelanda;3142;Northland;26/11/2018 12:10;3440.00
+17977;6;Buenos Aires;pacheco;1618;11;Arabia Saudita;3566;Ar Riy?d;26/11/2018 13:13;1890.00
+18021;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;26/11/2018 16:38;1999.51
+16514;6;Buenos Aires;GRAL PACHECO;1617;74;Estados Unidos;4447;Georgia;07/11/2018 17:28;1000.00
+17273;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;15/11/2018 22:42;3348.88
+16977;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;13/11/2018 18:01;7906.04
+15251;6;Buenos Aires;Sarandí;1872;236;Uruguay;4504;Río Negro;25/10/2018 13:39;3850.00
+16251;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;178;Perú;3188;Lima;06/11/2018 16:23;5218.23
+16446;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;439;Minas Gerais;07/11/2018 13:16;258.00
+17310;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;47;Chile;656;Región Metropolitana de Santiago;16/11/2018 12:49;2832.48
+16526;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;171;Países Bajos;3079;Noord-Holland;07/11/2018 17:57;2333.86
+14491;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1185;65;Ecuador;942;Pichincha;17/10/2018 17:32;4015.00
+16743;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4446;Florida;09/11/2018 13:52;4920.00
+16951;6;Buenos Aires;Berazategui;1885;72;España;1048;Valencia / València;13/11/2018 12:40;2775.84
+16462;50;Mendoza;GUAYMALLEN;5519;57;Corea del Sur;2116;Jeonranamdo [Ch?llanam-do];07/11/2018 13:47;1300.00
+17250;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;82;Francia;1177;Paris;15/11/2018 17:17;412.00
+17263;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;169;Nueva Zelanda;3143;Otago;15/11/2018 18:46;362.00
+16272;50;Mendoza;GUAYMALLEN;5519;90;Japón;1967;Aiti [Aichi];06/11/2018 11:01;10489.80
+16274;50;Mendoza;GUAYMALLEN;5519;90;Japón;1967;Aiti [Aichi];06/11/2018 11:13;7144.00
+16468;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4462;Missouri;07/11/2018 14:22;1650.00
+17239;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;33;Brasil;454;São Paulo;15/11/2018 16:42;363.30
+16159;6;Buenos Aires;LOMA HERMOSA;1657;236;Uruguay;4502;Montevideo;05/11/2018 12:28;6700.00
+16928;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1406;33;Brasil;446;Paraná;14/11/2018 13:43;131.60
+17228;14;Córdoba;Cordoba;5010;149;México;2944;Coahuila de Zaragoza;15/11/2018 15:35;2100.00
+17339;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;16/11/2018 15:26;3200.00
+17018;2;Ciudad Autónoma de Buenos Aires;Parque Patricios;1437;175;Panamá;3169;Panamá;15/11/2018 15:42;2258.25
+17348;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4470;New Jersey;16/11/2018 16:05;10000.00
+17352;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4482;Tennessee;16/11/2018 16:38;10000.00
+17355;2;Ciudad Autónoma de Buenos Aires;CABA;1419;236;Uruguay;4502;Montevideo;16/11/2018 16:58;12155.50
+17336;6;Buenos Aires;Berazategui;1885;94;Guatemala;1522;Guatemala;16/11/2018 14:54;3438.60
+15938;6;Buenos Aires;LOMAS DE ZAMORA;1832;20;Bahréin;381;Al Mu?arraq;01/11/2018 16:41;2631.20
+17085;6;Buenos Aires;CIUDAD JARDIN LOMAS DEL PALOMAR;1684;236;Uruguay;4502;Montevideo;14/11/2018 13:13;3888.00
+12254;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;74;Estados Unidos;4441;California;19/09/2018 13:15;14161.40
+14090;6;Buenos Aires;Lomas del Mirador;1752;47;Chile;656;Región Metropolitana de Santiago;11/10/2018 15:48;4782.00
+13840;2;Ciudad Autónoma de Buenos Aires;CABA;1440;47;Chile;656;Región Metropolitana de Santiago;09/10/2018 15:15;6264.00
+13987;50;Mendoza;GUAYMALLEN;5519;33;Brasil;451;Rio Grande do Sul;11/10/2018 08:29;1500.00
+14201;6;Buenos Aires;MERCEDES;6600;149;México;2967;Yucatán;12/10/2018 15:49;1696.60
+14114;6;Buenos Aires;Lomas del Mirador;1752;47;Chile;656;Región Metropolitana de Santiago;12/10/2018 10:59;4191.00
+14096;6;Buenos Aires;Lomas del Mirador;1752;47;Chile;656;Región Metropolitana de Santiago;11/10/2018 16:22;5160.00
+14157;6;Buenos Aires;Lomas del Mirador;1752;47;Chile;656;Región Metropolitana de Santiago;12/10/2018 11:27;3688.00
+14084;6;Buenos Aires;Lomas del Mirador;1752;47;Chile;656;Región Metropolitana de Santiago;11/10/2018 15:33;4950.00
+14566;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4471;New Mexico;18/10/2018 14:43;5000.00
+14475;6;Buenos Aires;Adrogué;1846;185;Reino Unido;1351;Oxfordshire;18/10/2018 12:04;10960.00
+14945;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;23/10/2018 13:12;12000.00
+14934;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4441;California;23/10/2018 12:24;7500.00
+15279;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;25/10/2018 15:17;3200.00
+15268;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4468;Nebraska;25/10/2018 14:20;3200.00
+15318;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1425;185;Reino Unido;1409;Wiltshire;25/10/2018 18:46;510.00
+14638;2;Ciudad Autónoma de Buenos Aires;CABA;1440;29;Bolivia;423;Potosí;19/10/2018 11:26;108.00
+15222;6;Buenos Aires;ITUZAINGO;1714;48;China;680;Anhui;25/10/2018 14:47;308.00
+15301;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1282;74;Estados Unidos;4458;Maryland;25/10/2018 16:54;2442.24
+13616;6;Buenos Aires;Florencio Varela;1888;79;Filipinas;3222;National Capital Région (Manila);08/10/2018 15:13;1887.00
+15646;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;29/10/2018 16:25;6400.00
+15848;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4471;New Mexico;31/10/2018 12:34;3200.00
+15633;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;29/10/2018 15:38;3200.00
+15882;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;31/10/2018 15:46;6400.00
+15197;6;Buenos Aires;Villa Martelli;1603;178;Perú;3188;Lima;25/10/2018 09:41;7616.03
+15679;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;82;Francia;1133;Haute-Garonne;30/10/2018 00:45;9134.89
+14924;6;Buenos Aires;ADOLFO SORDEAUX;1612;74;Estados Unidos;4446;Florida;24/10/2018 11:02;4730.00
+15972;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4483;Texas;01/11/2018 14:15;5000.00
+15957;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4452;Illinois;01/11/2018 12:11;5000.00
+15961;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;01/11/2018 12:46;5000.00
+19933;6;Buenos Aires;SAN MARTIN;1650;4;Alemania;816;Sachsen-Anhalt;20/12/2018 14:54;1970.00
+20177;2;Ciudad Autónoma de Buenos Aires;CABA;1406;74;Estados Unidos;4446;Florida;19/12/2018 16:49;6959.00
+20288;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;20/12/2018 14:58;2908.00
+20305;6;Buenos Aires;tigre;1648;104;Hong Kong;4757;Yuen Long;20/12/2018 16:13;819.50
+20621;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;27/12/2018 10:57;3938.40
+20648;6;Buenos Aires;Don Torcuato;1611;4;Alemania;807;Hessen;27/12/2018 13:39;1100.00
+20683;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;74;Estados Unidos;4441;California;27/12/2018 16:32;3175.92
+17068;102;Entre Ríos;Colonia Avellaneda;3107;74;Estados Unidos;4441;California;16/11/2018 16:14;4986.16
+17116;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1054;115;Japón;1957;Tôkyô [Tokyo];14/11/2018 15:56;5995.50
+17915;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;26/11/2018 09:04;2405.50
+18085;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;27/11/2018 10:44;1590.61
+18159;90;Tucumán;San Miguel de Tucuman;4000;51;Colombia;712;Cauca;27/11/2018 16:40;360.00
+18289;6;Buenos Aires;Avellaneda;1870;183;Puerto Rico;4798;Juana Diaz;28/11/2018 19:48;1600.00
+18291;2;Ciudad Autónoma de Buenos Aires;CABA;1414;4;Alemania;803;Berlin;29/11/2018 00:43;2547.17
+18297;2;Ciudad Autónoma de Buenos Aires;CABA;1414;110;Irlanda;1688;Dublin;29/11/2018 09:23;1838.20
+18317;82;Santa Fe;ROSARIO;2000;177;Paraguay;3396;Asunción;29/11/2018 10:56;1350.00
+18353;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;51;Colombia;704;Antioquia;29/11/2018 13:20;2496.00
+18442;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;30/11/2018 09:37;4964.70
+18447;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;30/11/2018 10:32;7209.00
+18452;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;74;Estados Unidos;4441;California;30/11/2018 12:00;4940.00
+18459;6;Buenos Aires;VALENTIN ALSINA;1822;65;Ecuador;947;Tungurahua;30/11/2018 14:00;3340.00
+18113;14;Córdoba;Cordoba;5010;182;Portugal;3343;Aveiro;27/11/2018 14:14;3326.86
+18462;14;Córdoba;Cordoba;5010;47;Chile;658;Valparaíso;30/11/2018 14:25;7444.80
+18463;6;Buenos Aires;San Martín;1650;74;Estados Unidos;4446;Florida;05/12/2018 17:33;1434.44
+18464;6;Buenos Aires;Buenos Aires;1650;47;Chile;656;Región Metropolitana de Santiago;30/11/2018 14:35;8342.44
+18473;14;Córdoba;Cordoba;5010;47;Chile;658;Valparaíso;30/11/2018 15:49;8217.60
+18477;6;Buenos Aires;SAN FERNANDO;1644;177;Paraguay;3396;Asunción;30/11/2018 15:55;12600.00
+18515;82;Santa Fe;alvear;2130;218;Taiwán;4255;Taoyuan;03/12/2018 09:47;7612.72
+18521;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;175;Panamá;3164;Colón;03/12/2018 10:25;1100.00
+18539;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;03/12/2018 11:57;8484.00
+18560;6;Buenos Aires;HAEDO;1706;236;Uruguay;4502;Montevideo;04/12/2018 10:23;1642.50
+18633;6;Buenos Aires;Adrogue;1846;185;Reino Unido;1351;Oxfordshire;04/12/2018 06:30;14885.00
+18621;6;Buenos Aires;Avellaneda;1870;183;Puerto Rico;4798;Juana Diaz;03/12/2018 18:44;1212.00
+18701;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;04/12/2018 15:36;3660.00
+18771;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1414;74;Estados Unidos;4473;New York;05/12/2018 13:19;1414.00
+18775;6;Buenos Aires;SANTOS LUGARES;1676;74;Estados Unidos;4477;Pennsylvania;05/12/2018 11:11;10800.00
+18821;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;05/12/2018 13:34;8975.00
+19014;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4446;Florida;07/12/2018 09:48;3276.70
+19105;82;Santa Fe;Rosario;2000;149;México;2950;Jalisco;08/12/2018 23:23;4230.80
+19204;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4469;New Hampshire;10/12/2018 16:45;3021.05
+19287;2;Ciudad Autónoma de Buenos Aires;CABA;1439;82;Francia;1107;Alpes-Maritimes;11/12/2018 14:59;172.50
+15734;6;Buenos Aires;La Tablada;1766;236;Uruguay;4502;Montevideo;30/10/2018 13:57;7698.98
+13786;6;Buenos Aires;AVELLANEDA;1870;149;México;2950;Jalisco;09/10/2018 11:20;8275.56
+15872;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1427;178;Perú;3188;Lima;31/10/2018 15:12;1116.00
+15630;6;Buenos Aires;BERAZATEGUI;1885;94;Guatemala;1522;Guatemala;29/10/2018 15:58;4289.16
+15568;6;Buenos Aires;Villa Martelli;1603;103;Honduras;1565;Francisco Morazán;29/10/2018 12:58;9080.00
+15689;6;Buenos Aires;Martinez;1640;149;México;2943;Ciudad de Mexico;30/10/2018 09:46;12000.00
+16017;2;Ciudad Autónoma de Buenos Aires;CABA;1419;236;Uruguay;4502;Montevideo;01/11/2018 18:47;13694.10
+15877;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1427;178;Perú;3188;Lima;31/10/2018 15:19;1920.98
+15079;50;Mendoza;GUAYMALLEN;5519;33;Brasil;451;Rio Grande do Sul;24/10/2018 11:54;1500.00
+15850;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;31/10/2018 13:00;4764.20
+11719;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;178;Perú;3188;Lima;10/09/2018 19:24;1410.74
+11742;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1427;178;Perú;3188;Lima;11/09/2018 10:38;1248.27
+17761;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;454;São Paulo;22/11/2018 15:49;2994.75
+17970;6;Buenos Aires;BELLA VISTA;1661;74;Estados Unidos;4446;Florida;27/11/2018 21:43;1200.00
+17802;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;23/11/2018 13:39;1700.00
+17840;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;447;Rio de Janeiro;23/11/2018 13:21;1343.10
+17838;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;447;Rio de Janeiro;23/11/2018 13:08;1932.97
+17774;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;454;São Paulo;22/11/2018 16:17;2631.02
+17772;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;454;São Paulo;22/11/2018 16:00;2024.46
+17646;2;Ciudad Autónoma de Buenos Aires;CABA;1419;236;Uruguay;4502;Montevideo;21/11/2018 19:55;6391.60
+17791;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;447;Rio de Janeiro;22/11/2018 19:40;2210.64
+17792;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;33;Brasil;447;Rio de Janeiro;22/11/2018 19:35;2413.95
+18248;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4489;Washington;28/11/2018 15:13;12000.00
+18236;6;Buenos Aires;La Tablada;1766;236;Uruguay;4502;Montevideo;28/11/2018 13:34;2199.49
+18118;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4441;California;27/11/2018 14:44;9000.00
+18147;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;27/11/2018 16:10;12000.00
+17593;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4471;New Mexico;21/11/2018 13:59;3200.00
+17530;6;Buenos Aires;La Tablada;1766;236;Uruguay;4502;Montevideo;21/11/2018 09:56;7089.90
+17515;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1425;74;Estados Unidos;4446;Florida;20/11/2018 19:07;115.00
+17462;2;Ciudad Autónoma de Buenos Aires;caba;1126;74;Estados Unidos;4446;Florida;20/11/2018 15:41;364.80
+17458;2;Ciudad Autónoma de Buenos Aires;CABA;1419;236;Uruguay;4502;Montevideo;20/11/2018 14:52;8741.38
+19663;2;Ciudad Autónoma de Buenos Aires;buenos aires;1007;74;Estados Unidos;4473;New York;14/12/2018 14:53;2000.00
+19510;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;47;Chile;656;Región Metropolitana de Santiago;13/12/2018 13:52;7209.57
+19298;50;Mendoza;GUAYMALLEN;5519;4;Alemania;802;Brandenburg;11/12/2018 14:24;1597.60
+19509;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4466;North Carolina;13/12/2018 13:45;3200.00
+19412;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;33;Brasil;454;São Paulo;12/12/2018 13:16;787.67
+19405;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4458;Maryland;12/12/2018 12:23;25.00
+19401;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;43;Canadá;544;Ontario;12/12/2018 12:00;111.75
+19445;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4442;Colorado;12/12/2018 16:14;5000.00
+19430;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4492;Wyoming;12/12/2018 15:13;5000.00
+19397;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4452;Illinois;12/12/2018 11:48;3200.00
+19183;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1121;178;Perú;3188;Lima;10/12/2018 16:22;6077.23
+18902;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;57;Corea del Sur;2115;Jeonrabugdo [Ch?llabuk-do];07/12/2018 09:36;1423.00
+19088;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4489;Washington;08/12/2018 10:13;6400.00
+19057;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;07/12/2018 15:23;13500.00
+19026;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;07/12/2018 11:45;10400.00
+18241;6;Buenos Aires;ADOLFO SORDEAUX;1612;177;Paraguay;3396;Asunción;03/12/2018 10:17;14523.00
+18613;6;Buenos Aires;villa martelli;1603;33;Brasil;444;Pernambuco;03/12/2018 17:17;196.15
+18931;6;Buenos Aires;Ituzaingó;1714;72;España;1048;Valencia / València;06/12/2018 11:52;1255.25
+18810;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;82;Francia;1177;Paris;05/12/2018 12:58;7008.00
+18729;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;185;Reino Unido;1319;London, City of;04/12/2018 18:14;404.85
+18460;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;185;Reino Unido;1288;Hampshire;30/11/2018 14:09;321.49
+18751;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4441;California;05/12/2018 09:52;867.69
+10527;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4452;Illinois;23/08/2018 13:57;1269.00
+5066;50;Mendoza;GUAYMALLEN;5519;90;Japón;1967;Aiti [Aichi];28/08/2018 09:46;2909.95
+10557;6;Buenos Aires;Mercedes;6600;236;Uruguay;4502;Montevideo;23/08/2018 16:59;13974.00
+18111;50;Mendoza;GUAYMALLEN;5519;57;Corea del Sur;2105;Busan Gwang'yeogsi [Pusan?Kwangy?kshi];27/11/2018 13:47;1174.32
+18265;6;Buenos Aires;VALENTIN ALSINA;1822;72;España;1028;Madrid;28/11/2018 16:17;1336.13
+18208;50;Mendoza;GUAYMALLEN;5519;167;Noruega;3086;Oslo;28/11/2018 11:43;524.00
+18531;6;Buenos Aires;Villa Martelli;1603;74;Estados Unidos;4446;Florida;03/12/2018 11:25;14793.50
+18596;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4438;Arkansas;03/12/2018 15:58;10000.00
+18637;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4441;California;04/12/2018 09:18;10000.00
+18540;2;Ciudad Autónoma de Buenos Aires;CABA;1440;178;Perú;3188;Lima;03/12/2018 14:31;1890.00
+17916;6;Buenos Aires;lomas del mirador;1752;47;Chile;656;Región Metropolitana de Santiago;26/11/2018 09:57;3936.00
+18523;6;Buenos Aires;SAN FERNANDO;1644;174;Palestina (ANP);3335;Nablus;03/12/2018 10:31;3500.00
+17839;6;Buenos Aires;AVELLANEDA;1870;236;Uruguay;4502;Montevideo;23/11/2018 13:10;6407.40
+18022;6;Buenos Aires;SAN MARTIN;1650;74;Estados Unidos;4441;California;26/11/2018 16:38;4482.00
+18026;14;Córdoba;cordoba;5011;94;Guatemala;1532;Sacatepéquez;26/11/2018 17:02;200.00
+18027;14;Córdoba;cordoba;5011;94;Guatemala;1532;Sacatepéquez;26/11/2018 17:00;200.00
+18767;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma Buenos Aires;1414;74;Estados Unidos;4446;Florida;05/12/2018 10:42;10033.00
+19058;82;Santa Fe;ROSARIO;2000;51;Colombia;716;Cundinamarca;07/12/2018 15:42;3045.60
+19076;6;Buenos Aires;SANTOS LUGARES;1676;217;Tailandia;4007;Pathum Thani;17/12/2018 11:17;10800.00
+19208;82;Santa Fe;Rosario;2000;47;Chile;652;Los Lagos;10/12/2018 16:54;14000.00
+19243;6;Buenos Aires;AVELLANEDA;1870;47;Chile;656;Región Metropolitana de Santiago;11/12/2018 10:20;14938.60
+19345;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1054;236;Uruguay;4502;Montevideo;11/12/2018 17:53;7410.21
+19469;6;Buenos Aires;Martinez;1640;74;Estados Unidos;4466;North Carolina;13/12/2018 15:02;10827.00
+19651;6;Buenos Aires;SAN MARTIN;1650;51;Colombia;717;Distrito Capital de Bogotá;14/12/2018 14:13;1877.30
+19653;6;Buenos Aires;Villa Martelli;1603;178;Perú;3188;Lima;14/12/2018 14:20;3539.28
+19925;6;Buenos Aires;Don Torcuato;1611;169;Nueva Zelanda;3133;Auckland;18/12/2018 10:00;3330.00
+19952;82;Santa Fe;ROSARIO;2000;43;Canadá;546;Quebec;19/12/2018 11:45;4400.00
+20050;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];18/12/2018 16:56;12619.00
+20132;2;Ciudad Autónoma de Buenos Aires;CABA;1417;4;Alemania;807;Hessen;19/12/2018 14:17;5200.00
+20398;6;Buenos Aires;BERISSO;1923;62;Dinamarca;825;Midtjylland;21/12/2018 14:30;2980.00
+20408;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;21/12/2018 15:36;1800.00
+20411;6;Buenos Aires;Buenos Aires;1650;47;Chile;656;Región Metropolitana de Santiago;21/12/2018 15:48;7750.57
+20506;2;Ciudad Autónoma de Buenos Aires;CABA;1414;115;Japón;1954;Gunma;26/12/2018 12:39;3961.64
+20575;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;51;Colombia;706;Atlántico;26/12/2018 17:32;1325.00
+20689;6;Buenos Aires;PILAR;1629;74;Estados Unidos;4441;California;27/12/2018 16:51;9457.00
+20644;6;Buenos Aires;Don Torcuato;1611;62;Dinamarca;827;Hovedstaden;27/12/2018 12:41;4120.00
+20543;2;Ciudad Autónoma de Buenos Aires;CABA;1406;74;Estados Unidos;4446;Florida;26/12/2018 15:53;10480.00
+20402;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;82;Francia;1155;Mayenne;21/12/2018 15:02;6840.00
+17732;6;Buenos Aires;tigre;1648;104;Hong Kong;4757;Yuen Long;22/11/2018 13:43;1785.00
+17991;6;Buenos Aires;AVELLANEDA;1870;51;Colombia;704;Antioquia;26/11/2018 14:40;5146.08
+18215;6;Buenos Aires;SAN ANDRES Pdo. de SAN MARTIN;1651;16;Australia;135;South Australia;28/11/2018 12:19;2620.00
+18239;6;Buenos Aires;pacheco;1618;16;Australia;138;Western Australia;28/11/2018 13:45;4500.00
+18595;6;Buenos Aires;Hurlingham;1686;213;Suiza;626;Vaud (fr);03/12/2018 16:03;2340.00
+18600;6;Buenos Aires;Hurlingham;1686;213;Suiza;626;Vaud (fr);03/12/2018 16:05;3600.00
+18784;2;Ciudad Autónoma de Buenos Aires;CABA;1417;24;Bélgica;295;Bruxelles-Capitale, Région de;05/12/2018 11:54;7360.00
+19133;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;10/12/2018 11:18;1526.00
+19152;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1119;74;Estados Unidos;4446;Florida;11/12/2018 17:36;1740.00
+19264;118;Corrientes;MERCEDES;3470;185;Reino Unido;1263;Dorset;11/12/2018 11:59;1989.39
+19306;6;Buenos Aires;Don Torcuato;1611;4;Alemania;811;Nordrhein-Westfalen;11/12/2018 14:50;3360.00
+19381;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4457;Massachusetts;12/12/2018 10:16;2332.50
+19459;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;12/12/2018 18:26;1562.00
+19515;2;Ciudad Autónoma de Buenos Aires;CABA;1417;185;Reino Unido;1351;Oxfordshire;13/12/2018 14:09;2800.00
+19724;2;Ciudad Autónoma de Buenos Aires;CABA;1439;82;Francia;1125;Doubs;17/12/2018 10:05;1.95
+19883;2;Ciudad Autónoma de Buenos Aires;CABA;1417;68;Emiratos Árabes Unidos;10;Dubayy [Dubai];17/12/2018 17:45;6900.00
+19983;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4473;New York;18/12/2018 13:04;700.00
+20015;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;18/12/2018 15:40;1708.00
+20018;6;Buenos Aires;VALENTIN ALSINA;1822;74;Estados Unidos;4446;Florida;18/12/2018 15:44;522.50
+20090;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3077;Limburg;19/12/2018 11:17;450.00
+20204;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4470;New Jersey;20/12/2018 09:37;600.00
+20234;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;20/12/2018 12:10;6235.00
+20381;6;Buenos Aires;Don Torcuato;1611;4;Alemania;811;Nordrhein-Westfalen;21/12/2018 12:07;2480.00
+20412;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;21/12/2018 15:49;1156.00
+19108;116;Chubut;ESQUEL;9200;74;Estados Unidos;4453;Indiana;09/12/2018 23:44;14956.60
+20223;6;Buenos Aires;Ramos Mejía, Buenos Aires;1704;74;Estados Unidos;4473;New York;20/12/2018 12:05;7810.06
+20616;6;Buenos Aires;BERISSO;1923;33;Brasil;454;São Paulo;27/12/2018 10:06;4136.00
+20761;6;Buenos Aires;BERISSO;1923;171;Países Bajos;3083;Zuid-Holland;28/12/2018 14:34;3300.00
+20788;6;Buenos Aires;La Plata;1900;47;Chile;656;Región Metropolitana de Santiago;28/12/2018 16:02;586.78
+17634;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;236;Uruguay;4502;Montevideo;21/11/2018 17:15;450.00
+17877;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;23/11/2018 17:22;1277.50
+17918;90;Tucumán;Tafí Viejo;4103;113;Italia;1837;Cosenza;26/11/2018 10:07;100.00
+18272;6;Buenos Aires;tigre;1648;185;Reino Unido;1351;Oxfordshire;28/11/2018 17:03;3564.00
+18354;2;Ciudad Autónoma de Buenos Aires;CABA;1414;236;Uruguay;4501;Maldonado;01/12/2018 09:40;1872.10
+18497;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma Buenos Aires;1414;74;Estados Unidos;4446;Florida;03/12/2018 13:46;1840.00
+18559;82;Santa Fe;VENADO TUERTO;2600;74;Estados Unidos;4446;Florida;03/12/2018 14:35;3570.00
+18646;6;Buenos Aires;San Martín;1650;47;Chile;654;Magallanes;04/12/2018 11:09;516.00
+18717;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;47;Chile;658;Valparaíso;06/12/2018 15:35;1840.00
+18741;6;Buenos Aires;Escobar;1625;33;Brasil;452;Santa Catarina;05/12/2018 10:40;295.00
+18769;6;Buenos Aires;Quilmes Oeste;1879;74;Estados Unidos;4441;California;05/12/2018 10:27;2850.00
+18814;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4441;California;05/12/2018 13:09;2360.00
+18887;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1012;149;México;2943;Ciudad de Mexico;06/12/2018 16:09;2084.00
+19035;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1067;72;España;1036;Balears [Baleares];07/12/2018 15:22;1000.00
+19038;2;Ciudad Autónoma de Buenos Aires;CABA;1414;48;China;677;Shanghai;07/12/2018 12:41;3716.83
+19044;6;Buenos Aires;SAN FERNANDO;1644;72;España;1017;Las Palmas;07/12/2018 13:35;2275.60
+19114;6;Buenos Aires;Villa Martelli;1603;29;Bolivia;424;Santa Cruz;10/12/2018 10:22;3864.48
+19181;6;Buenos Aires;Vicente Lopez;1603;74;Estados Unidos;4477;Pennsylvania;10/12/2018 14:18;1655.94
+19200;14;Córdoba;Córdoba;5021;59;Costa Rica;742;San José;11/12/2018 17:40;362.50
+19299;6;Buenos Aires;Wilde;1875;33;Brasil;451;Rio Grande do Sul;11/12/2018 15:16;5.00
+19415;6;Buenos Aires;Florida Oeste;1604;149;México;2951;México;12/12/2018 14:01;9068.92
+19648;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;171;Países Bajos;3073;Flevoland;14/12/2018 13:38;2410.00
+19661;6;Buenos Aires;Villa Ballester;1653;178;Perú;3180;El Callao;14/12/2018 14:32;1589.50
+19723;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;17/12/2018 10:01;4270.65
+19727;90;Tucumán;SAN MIGUEL DE TUCUMAN;4000;236;Uruguay;4502;Montevideo;17/12/2018 10:22;950.00
+19895;14;Córdoba;Unquillo;5019;212;Suecia;3645;Västra Götalands län;18/12/2018 11:24;2419.74
+20083;6;Buenos Aires;Adrogue;1846;74;Estados Unidos;4446;Florida;19/12/2018 10:25;1620.00
+20300;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;20/12/2018 16:04;2193.00
+20353;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;21/12/2018 10:08;4570.07
+21086;2;Ciudad Autónoma de Buenos Aires;CABA;1414;48;China;677;Shanghai;04/01/2019 09:11;8011.36
+21024;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;74;Estados Unidos;4446;Florida;03/01/2019 14:28;14005.59
+21004;6;Buenos Aires;Villa Ballester;1653;181;Polonia;3322;Pomorskie;03/01/2019 12:44;1448.00
+20971;6;Buenos Aires;Hudson;1885;213;Suiza;606;Appenzell Ausserrhoden (de);03/01/2019 11:08;4920.00
+20964;6;Buenos Aires;Martinez;1640;74;Estados Unidos;4466;North Carolina;03/01/2019 10:54;14917.20
+20735;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1426;74;Estados Unidos;4441;California;28/12/2018 11:56;10485.99
+20721;6;Buenos Aires;AVELLANEDA;1870;183;Puerto Rico;4827;San Juan;28/12/2018 11:10;4263.60
+20688;6;Buenos Aires;AVELLANEDA;1870;213;Suiza;620;Schaffhausen (de);27/12/2018 16:45;2957.48
+21620;6;Buenos Aires;GRAN BUENOS AIRES;1650;72;España;1028;Madrid;10/01/2019 17:24;2555.06
+19192;6;Buenos Aires;San Martín;1650;177;Paraguay;3396;Asunción;10/12/2018 15:51;2558.72
+21082;6;Buenos Aires;VILLA LYNCH;1672;65;Ecuador;942;Pichincha;04/01/2019 08:24;3773.40
+21182;14;Córdoba;San Francisco;2400;149;México;2966;Veracruz de Ignacio de la Llave;04/01/2019 16:43;4540.00
+21187;6;Buenos Aires;Vicente Lopez;1604;48;China;687;Guangdong;04/01/2019 17:02;500.00
+21324;6;Buenos Aires;Villa Ballester;1653;65;Ecuador;935;Guayas;07/01/2019 15:33;1771.10
+21422;6;Buenos Aires;La Plata;1900;47;Chile;656;Región Metropolitana de Santiago;09/01/2019 12:57;1400.00
+21450;6;Buenos Aires;Vicente López;1602;85;Georgia;1443;T'bilisi;11/01/2019 11:21;5850.00
+21619;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;10/01/2019 10:25;6367.00
+21627;2;Ciudad Autónoma de Buenos Aires;CABA;1231;43;Canadá;537;British Columbia;10/01/2019 12:13;760.00
+21629;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1437;82;Francia;1126;Drôme;10/01/2019 12:26;9177.00
+21726;6;Buenos Aires;Avellaneda;1870;183;Puerto Rico;4798;Juana Diaz;11/01/2019 16:07;1725.00
+21731;6;Buenos Aires;El PALOMAR;1684;74;Estados Unidos;4461;Minnesota;11/01/2019 16:17;9122.37
+21929;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;149;México;2950;Jalisco;15/01/2019 10:05;14977.00
+20272;6;Buenos Aires;AVELLANEDA;1870;59;Costa Rica;742;San José;20/12/2018 13:07;3235.08
+21328;6;Buenos Aires;El PALOMAR;1684;82;Francia;1170;Haut-Rhin;07/01/2019 16:02;10442.08
+21376;6;Buenos Aires;SAN MARTIN;1650;17;Austria;124;Niederösterreich;08/01/2019 08:21;4284.04
+21435;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4452;Illinois;08/01/2019 13:02;470.00
+21476;6;Buenos Aires;pacheco;1618;212;Suecia;3643;Skåne län;08/01/2019 16:59;5160.00
+21481;6;Buenos Aires;Vicente Lopez;1604;74;Estados Unidos;4441;California;08/01/2019 17:26;424.00
+21550;2;Ciudad Autónoma de Buenos Aires;CABA;1414;171;Países Bajos;3079;Noord-Holland;09/01/2019 15:06;1105.60
+21647;6;Buenos Aires;Vicente Lopez;1603;74;Estados Unidos;4477;Pennsylvania;10/01/2019 15:16;6789.10
+21674;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1414;74;Estados Unidos;4446;Florida;10/01/2019 23:54;3115.17
+22366;50;Mendoza;GUAYMALLEN;5519;167;Noruega;3086;Oslo;18/01/2019 09:34;832.70
+23120;6;Buenos Aires;Florida Oeste;1604;149;México;2950;Jalisco;23/01/2019 15:07;13248.00
+23385;6;Buenos Aires;Martinez;1640;74;Estados Unidos;4466;North Carolina;25/01/2019 08:03;6640.56
+22830;6;Buenos Aires;Florida Oeste;1604;74;Estados Unidos;4441;California;22/01/2019 06:59;3414.00
+23303;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;24/01/2019 14:13;1212.00
+23073;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4441;California;23/01/2019 11:13;1826.00
+23047;6;Buenos Aires;Beccar;1643;16;Australia;132;New South Wales;23/01/2019 09:36;1270.00
+22905;6;Buenos Aires;BERISSO;1923;62;Dinamarca;827;Hovedstaden;22/01/2019 12:30;1354.00
+22721;82;Santa Fe;alvear;2130;90;Grecia;1508; Thessalía;21/01/2019 12:31;2670.93
+16388;82;Santa Fe;SUNCHALES;2322;72;España;1009;A Coruña [La Coruña];08/11/2018 11:46;1116.00
+21702;6;Buenos Aires;Capilla del Señor;2812;212;Suecia;3632;Stockholms län;11/01/2019 12:38;1300.00
+17725;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4440;Arizona;22/11/2018 12:44;69.00
+20724;6;Buenos Aires;Adrogue;1846;178;Perú;3188;Lima;28/12/2018 12:03;813.00
+17672;6;Buenos Aires;pergamino;2700;177;Paraguay;3396;Asunción;23/11/2018 09:07;3000.00
+18299;6;Buenos Aires;san martin;1650;48;China;687;Guangdong;29/11/2018 09:45;10.00
+21375;6;Buenos Aires;LA PLATA;1900;48;China;669;Beijing;07/01/2019 23:34;351.00
+22027;6;Buenos Aires;Bella Vista;1661;47;Chile;656;Región Metropolitana de Santiago;16/01/2019 10:20;851.00
+22822;6;Buenos Aires;Villa Martelli;1603;178;Perú;3188;Lima;22/01/2019 06:52;2272.51
+20035;6;Buenos Aires;San Fernando;1646;74;Estados Unidos;4446;Florida;18/12/2018 16:18;150.00
+17843;6;Buenos Aires;QUILMES;1878;236;Uruguay;4502;Montevideo;23/11/2018 14:06;8811.46
+18186;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4441;California;28/11/2018 10:06;3081.60
+18075;6;Buenos Aires;La Plata;1900;74;Estados Unidos;4441;California;27/11/2018 10:24;14563.20
+18361;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;29/11/2018 13:36;8610.00
+19970;6;Buenos Aires;Buenos Aires;1426;33;Brasil;454;São Paulo;20/12/2018 12:40;247.50
+21658;2;Ciudad Autónoma de Buenos Aires;CABA;1437;149;México;2951;México;11/01/2019 11:25;50.00
+19294;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;11/12/2018 13:54;4632.00
+20756;6;Buenos Aires;QUILMES;1876;64;República Dominicana;870;Santo Domingo;10/01/2019 16:18;0.60
+17869;2;Ciudad Autónoma de Buenos Aires;PALERMO;1425;236;Uruguay;4501;Maldonado;23/11/2018 16:35;3427.36
+18270;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4483;Texas;18/12/2018 16:29;9000.00
+22215;2;Ciudad Autónoma de Buenos Aires;Autonoma de Bs As;1013;74;Estados Unidos;4483;Texas;17/01/2019 11:37;6146.00
+19145;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;10/12/2018 12:09;95.00
+18973;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;06/12/2018 15:51;45.00
+22160;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;17/01/2019 07:38;310.00
+22554;6;Buenos Aires;City Bell;1896;175;Panamá;3164;Colón;21/01/2019 07:59;3610.00
+20379;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1414;82;Francia;1161;Nord;27/12/2018 09:54;1440.00
+21336;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1272;74;Estados Unidos;4441;California;07/01/2019 16:32;440.00
+19041;2;Ciudad Autónoma de Buenos Aires;CABA;1416;175;Panamá;3169;Panamá;07/12/2018 15:22;5600.00
+23178;2;Ciudad Autónoma de Buenos Aires;CIUDAD DE BUENOS AIRES;1226;47;Chile;658;Valparaíso;24/01/2019 07:05;227.00
+17829;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;23/11/2018 12:33;199.00
+18163;6;Buenos Aires;Lomas de Zamora;1832;236;Uruguay;4502;Montevideo;28/11/2018 13:57;59.00
+17974;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4466;North Carolina;26/11/2018 13:01;250.00
+19906;6;Buenos Aires;VILLA DOMINICO;1874;175;Panamá;3162;Panamá Oeste;02/01/2019 16:06;249.18
+18454;2;Ciudad Autónoma de Buenos Aires;CABA;1416;236;Uruguay;4502;Montevideo;30/11/2018 12:47;880.20
+22996;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1429;177;Paraguay;3396;Asunción;23/01/2019 07:14;3512.00
+21682;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;62;Dinamarca;825;Midtjylland;11/01/2019 09:45;923.05
+21679;6;Buenos Aires;Victoria;1644;74;Estados Unidos;4446;Florida;11/01/2019 09:12;500.00
+21891;2;Ciudad Autónoma de Buenos Aires;CABA;1407;74;Estados Unidos;4446;Florida;15/01/2019 13:34;1080.00
+21138;14;Córdoba;Córdoba;5123;74;Estados Unidos;4473;New York;04/01/2019 14:26;97.92
+17241;2;Ciudad Autónoma de Buenos Aires;Caba;1437;213;Suiza;626;Vaud (fr);15/11/2018 17:01;14000.00
+20832;6;Buenos Aires;CIUDADELA;1702;43;Canadá;544;Ontario;29/12/2018 21:22;348.00
+21021;6;Buenos Aires;Boulogne;1609;149;México;2950;Jalisco;03/01/2019 14:27;6435.00
+21365;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;178;Perú;3188;Lima;08/01/2019 08:59;286.80
+22623;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4474;Ohio;21/01/2019 10:05;180.00
+18203;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;28/11/2018 11:22;150.00
+20680;2;Ciudad Autónoma de Buenos Aires;CABA;1416;47;Chile;656;Región Metropolitana de Santiago;27/12/2018 16:55;1734.00
+17611;2;Ciudad Autónoma de Buenos Aires;CABA;1440;72;España;1005;Barcelona [Barcelona];21/11/2018 15:09;3157.17
+20170;2;Ciudad Autónoma de Buenos Aires;CABA;1414;65;Ecuador;942;Pichincha;26/12/2018 12:07;10380.00
+17375;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;17/11/2018 14:46;47.00
+21712;2;Ciudad Autónoma de Buenos Aires;CABA;1426;74;Estados Unidos;4486;Virginia;11/01/2019 14:05;160.00
+17151;6;Buenos Aires;Martinez;1640;82;Francia;1140;Isère;14/11/2018 20:13;10820.00
+16952;113;Río Negro;Viedm;8500;74;Estados Unidos;4483;Texas;13/11/2018 12:45;7000.00
+18663;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;04/12/2018 12:13;69.00
+23304;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;74;Estados Unidos;4446;Florida;24/01/2019 14:20;1393.09
+18242;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1172;74;Estados Unidos;4483;Texas;28/11/2018 14:09;210.00
+20029;6;Buenos Aires;BERAZATEGUI;1885;94;Guatemala;1522;Guatemala;18/12/2018 16:01;7277.64
+20252;2;Ciudad Autónoma de Buenos Aires;CABA;1429;115;Japón;1972;Hyôgo[Hyogo];20/12/2018 12:47;1994.50
+20206;6;Buenos Aires;Ituzaingó;1714;57;Corea del Sur;2104;Seoul-teukbyeolsi [Seoul];20/12/2018 09:58;995.50
+20311;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4447;Georgia;20/12/2018 16:20;4650.00
+20373;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4447;Georgia;21/12/2018 11:33;4600.00
+20125;6;Buenos Aires;La Tablada;1766;236;Uruguay;4502;Montevideo;19/12/2018 13:40;2789.59
+20120;6;Buenos Aires;La Tablada;1766;236;Uruguay;4502;Montevideo;19/12/2018 13:33;2355.12
+20371;6;Buenos Aires;TEMPERLEY;1834;149;México;2966;Veracruz de Ignacio de la Llave;21/12/2018 11:33;974.77
+20324;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4489;Washington;20/12/2018 18:48;473.35
+20474;6;Buenos Aires;HAEDO;1706;47;Chile;656;Región Metropolitana de Santiago;26/12/2018 10:37;5220.00
+20591;6;Buenos Aires;Ituzaingó;1714;46;República Checa;798;Jihomoravský kraj;26/12/2018 22:05;2073.50
+20400;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;82;Francia;1133;Haute-Garonne;21/12/2018 15:05;9514.70
+20393;6;Buenos Aires;Villa Martelli;1603;74;Estados Unidos;4446;Florida;21/12/2018 14:15;14665.00
+20263;6;Buenos Aires;DE BUENOS AIRES;1602;178;Perú;3188;Lima;20/12/2018 13:06;2850.58
+20715;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1185;178;Perú;3188;Lima;28/12/2018 09:30;2610.00
+21030;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;82;Francia;1177;Paris;03/01/2019 14:48;4992.00
+20891;6;Buenos Aires;ITUZAINGO;1714;29;Bolivia;418;Cochabamba;02/01/2019 10:39;638.00
+20904;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;74;Estados Unidos;4441;California;02/01/2019 13:53;14859.00
+20919;6;Buenos Aires;Martinez;1640;113;Italia;1862;Milano;02/01/2019 16:20;14560.00
+21144;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;04/01/2019 14:29;5000.00
+21126;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónima de Buenos Aires;1289;74;Estados Unidos;4473;New York;04/01/2019 13:23;3600.00
+21165;6;Buenos Aires;Martinez;1640;113;Italia;1862;Milano;04/01/2019 15:47;7280.00
+21106;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4489;Washington;04/01/2019 11:41;916.00
+21171;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4486;Virginia;04/01/2019 15:48;828.00
+21117;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;171;Países Bajos;3079;Noord-Holland;04/01/2019 12:20;884.00
+21154;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;74;Estados Unidos;4441;California;04/01/2019 15:03;9789.20
+21319;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1102;171;Países Bajos;3077;Limburg;07/01/2019 15:27;7077.70
+20569;6;Buenos Aires;BERAZATEGUI;1884;51;Colombia;723;Meta;04/01/2019 17:36;7450.00
+21316;6;Buenos Aires;Victoria;1644;65;Ecuador;935;Guayas;07/01/2019 15:24;500.00
+20180;6;Buenos Aires;Pergamino;2700;177;Paraguay;3396;Asunción;26/12/2018 11:28;1800.00
+21231;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1414;74;Estados Unidos;4442;Colorado;05/01/2019 17:52;602.00
+21528;6;Buenos Aires;Ituzaingó;1714;115;Japón;1958;Kanagawa;09/01/2019 11:46;3666.63
+21052;6;Buenos Aires;VALENTIN ALSINA;1822;72;España;1028;Madrid;03/01/2019 17:11;1869.42
+20882;82;Santa Fe;Santa Fe;3000;177;Paraguay;3396;Asunción;08/01/2019 11:01;7000.00
+22193;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1080;217;Tailandia;4010;Lop Buri;17/01/2019 09:35;20.00
+18634;2;Ciudad Autónoma de Buenos Aires;CABA;1184;64;República Dominicana;870;Santo Domingo;05/12/2018 15:47;3300.00
+22626;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;21/01/2019 10:20;160.00
+21423;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4482;Tennessee;08/01/2019 12:35;238.00
+19034;6;Buenos Aires;VILLA MARTELLI;1603;47;Chile;656;Región Metropolitana de Santiago;07/12/2018 12:23;2911.00
+21880;2;Ciudad Autónoma de Buenos Aires;Autonoma de Bs As;1013;74;Estados Unidos;4446;Florida;15/01/2019 07:48;3392.50
+15773;2;Ciudad Autónoma de Buenos Aires;Ciudad de Buenos Aires;1186;74;Estados Unidos;4441;California;30/10/2018 16:04;50.00
+21633;2;Ciudad Autónoma de Buenos Aires;CABA;1440;65;Ecuador;942;Pichincha;11/01/2019 15:55;1909.82
+17729;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;185;Reino Unido;1319;London, City of;22/11/2018 13:08;205.00
+17450;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4461;Minnesota;20/11/2018 14:15;125.00
+17715;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;22/11/2018 12:18;180.00
+18566;6;Buenos Aires;SAN FERNANDO;1646;178;Perú;3188;Lima;03/12/2018 15:13;11134.00
+21307;6;Buenos Aires;Vicente Lopez;1638;213;Suiza;611;Genève (fr);07/01/2019 13:14;170.00
+21503;6;Buenos Aires;Buenos Aires;1426;94;Guatemala;1522;Guatemala;09/01/2019 15:19;1500.08
+21536;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;09/01/2019 12:11;65.00
+18568;102;Entre Ríos;Crespo;3116;47;Chile;656;Región Metropolitana de Santiago;05/12/2018 15:45;295.19
+18819;6;Buenos Aires;San Andres de Giles;6720;178;Perú;3188;Lima;07/12/2018 07:24;1270.12
+19508;90;Tucumán;Tafí Viejo;4103;113;Italia;1837;Cosenza;13/12/2018 13:32;100.00
+17709;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4486;Virginia;22/11/2018 12:12;52.50
+21554;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;178;Perú;3188;Lima;09/01/2019 15:07;1039.88
+14110;113;Río Negro;bariloche;8400;178;Perú;3188;Lima;29/11/2018 20:46;2390.00
+18071;2;Ciudad Autónoma de Buenos Aires;capital federal;1425;74;Estados Unidos;4446;Florida;27/11/2018 09:51;100.00
+20520;6;Buenos Aires;AVELLANEDA;1871;65;Ecuador;935;Guayas;03/01/2019 14:24;321.20
+20784;6;Buenos Aires;La Plata;1900;185;Reino Unido;1251;Coventry;15/01/2019 10:02;857.04
+20525;6;Buenos Aires;Olivos;1636;72;España;1028;Madrid;03/01/2019 17:24;5245.00
+21622;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;47;Chile;656;Región Metropolitana de Santiago;10/01/2019 11:12;1950.01
+18820;112;Neuquén;SAN MARTIN DE LOS ANDES;8370;74;Estados Unidos;4473;New York;05/12/2018 13:29;980.00
+21111;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;236;Uruguay;4502;Montevideo;04/01/2019 12:19;45.00
+20226;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;20/12/2018 12:07;1125.10
+19731;2;Ciudad Autónoma de Buenos Aires;CABA;1425;72;España;1028;Madrid;17/12/2018 10:41;2840.00
+20449;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1041;74;Estados Unidos;4446;Florida;24/12/2018 11:22;2516.00
+21157;6;Buenos Aires;San Justo;1754;51;Colombia;733;Valle del Cauca;07/01/2019 13:12;1060.00
+17595;14;Córdoba;Córdoba;5014;47;Chile;656;Región Metropolitana de Santiago;21/11/2018 14:10;5625.00
+21432;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4453;Indiana;08/01/2019 12:55;35.00
+19518;6;Buenos Aires;V. Dominico - Avellaneda;1874;172;Pakistán;3310;Sindh;02/01/2019 09:06;999.60
+20667;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;546;Quebec;27/12/2018 15:39;231.00
+18676;6;Buenos Aires;Martinez;1640;47;Chile;656;Región Metropolitana de Santiago;05/12/2018 14:09;1168.00
+22285;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;17/01/2019 14:46;63.00
+18190;2;Ciudad Autónoma de Buenos Aires;capital federal;1425;74;Estados Unidos;4446;Florida;28/11/2018 10:35;661.00
+22881;6;Buenos Aires;Vicente Lopez;1638;213;Suiza;624;Ticino (it);22/01/2019 11:00;250.00
+17935;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4477;Pennsylvania;26/11/2018 11:50;200.00
+21384;6;Buenos Aires;Villa Martelli;1603;149;México;2948;Guanajuato;08/01/2019 09:29;221.85
+18774;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1007;74;Estados Unidos;4473;New York;05/12/2018 11:05;290.00
+18432;6;Buenos Aires;Martinez;1640;149;México;2943;Ciudad de Mexico;29/11/2018 20:45;8500.00
+21995;2;Ciudad Autónoma de Buenos Aires;CABA;1184;149;México;2955;Nuevo León;15/01/2019 13:42;11740.00
+18484;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4473;New York;30/11/2018 18:51;2240.00
+17931;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4437;Alabama;26/11/2018 11:34;235.00
+18212;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;72;España;1036;Balears [Baleares];28/11/2018 12:08;216.00
+21380;82;Santa Fe;Rosario;2000;33;Brasil;454;São Paulo;08/01/2019 09:21;9.40
+21436;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4452;Illinois;08/01/2019 13:04;257.00
+21002;6;Buenos Aires;QUILMES;1878;113;Italia;1826;Barletta-Andria-Trani;03/01/2019 12:30;6177.00
+21887;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;15/01/2019 08:19;66.00
+19253;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;74;Estados Unidos;4441;California;11/12/2018 11:12;7507.20
+21502;6;Buenos Aires;Buenos Aires;1426;94;Guatemala;1522;Guatemala;09/01/2019 15:40;1916.80
+21042;82;Santa Fe;Rosario;2000;65;Ecuador;937;Imbabura;03/01/2019 16:05;5709.00
+18704;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;04/12/2018 15:56;6400.00
+17889;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;48;China;680;Anhui;24/11/2018 07:57;4615.68
+22245;2;Ciudad Autónoma de Buenos Aires;Parque Patricios;1437;47;Chile;656;Región Metropolitana de Santiago;17/01/2019 12:24;11880.00
+18824;6;Buenos Aires;Don Torcuato;1611;185;Reino Unido;1225;Birmingham;05/12/2018 14:01;1180.00
+18691;2;Ciudad Autónoma de Buenos Aires;CABA;1414;113;Italia;1846;Frosinone;04/12/2018 14:10;2528.40
+17571;6;Buenos Aires;La Plata;1900;57;Corea del Sur;2115;Jeonrabugdo [Ch?llabuk-do];21/11/2018 11:51;1350.80
+17803;2;Ciudad Autónoma de Buenos Aires;CABA;1428;149;México;2958;Querétaro;23/11/2018 10:42;7500.00
+17570;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1070;29;Bolivia;420;La Paz;21/11/2018 11:47;360.00
+20717;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;28/12/2018 10:35;1666.02
+17422;2;Ciudad Autónoma de Buenos Aires;CABA;1427;149;México;2943;Ciudad de Mexico;21/11/2018 09:31;1391.00
+17830;6;Buenos Aires;CIUDADELA;1702;47;Chile;658;Valparaíso;23/11/2018 12:37;695.00
+19018;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;07/12/2018 10:44;66.00
+21828;82;Santa Fe;Santa Fe;3000;236;Uruguay;4502;Montevideo;15/01/2019 14:52;680.00
+18014;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1016;213;Suiza;609;Basel-Stadt (de);27/11/2018 15:39;720.00
+18587;6;Buenos Aires;Vicente Lopez;1638;236;Uruguay;4502;Montevideo;03/12/2018 15:43;941.00
+22862;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4483;Texas;22/01/2019 08:52;75.00
+23033;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4477;Pennsylvania;23/01/2019 09:04;145.00
+17874;82;Santa Fe;SANTA FE;3000;72;España;1005;Barcelona [Barcelona];23/11/2018 17:31;2000.00
+20020;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1428;65;Ecuador;935;Guayas;18/12/2018 15:52;1482.50
+18687;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;04/12/2018 14:02;255.00
+18332;6;Buenos Aires;Vicente Lopez;1638;16;Australia;132;New South Wales;29/11/2018 12:30;450.00
+17871;6;Buenos Aires;MARTINEZ;1640;185;Reino Unido;1371;Suffolk;23/11/2018 16:53;565.00
+17976;6;Buenos Aires;Vicente Lopez;1638;82;Francia;1112;Aude;26/11/2018 13:05;150.00
+22427;2;Ciudad Autónoma de Buenos Aires;caba;1416;236;Uruguay;4501;Maldonado;18/01/2019 11:33;100.00
+21429;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;08/01/2019 12:49;150.00
+18107;108;La Pampa;Santa Rosa;6300;74;Estados Unidos;4455;Kentucky;27/11/2018 12:58;2910.00
+18512;2;Ciudad Autónoma de Buenos Aires;CABA;1426;185;Reino Unido;1297;Hertfordshire;10/12/2018 15:11;2200.50
+17233;6;Buenos Aires;Buenos Aires;1431;72;España;1005;Barcelona [Barcelona];21/11/2018 11:29;1000.00
+17832;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4455;Kentucky;23/11/2018 12:39;210.00
+18145;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4441;California;27/11/2018 16:08;1488.00
+16569;82;Santa Fe;Rosario;2000;33;Brasil;446;Paraná;13/11/2018 14:48;6.00
+20306;50;Mendoza;San rafael;5600;178;Perú;3188;Lima;20/12/2018 16:14;4.00
+19940;82;Santa Fe;EL TREBOL;2535;178;Perú;3186;La Libertad;18/12/2018 11:29;540.60
+16938;50;Mendoza;GODOY CRUZ;5501;104;Hong Kong;4753;Wong Chuk Hang;13/11/2018 15:37;472.27
+18340;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1419;29;Bolivia;420;La Paz;03/12/2018 14:46;1260.00
+17324;6;Buenos Aires;Mercedes;6600;177;Paraguay;3396;Asunción;16/11/2018 13:14;12493.50
+22047;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;16/01/2019 11:00;2520.00
+22035;14;Córdoba;Cordoba;5000;4;Alemania;807;Hessen;16/01/2019 09:52;1077.22
+19197;2;Ciudad Autónoma de Buenos Aires;capital federal;1424;47;Chile;656;Región Metropolitana de Santiago;10/12/2018 16:06;75.00
+21537;6;Buenos Aires;Vicente Lopez;1638;16;Australia;134;Queensland;09/01/2019 12:12;600.00
+21315;6;Buenos Aires;Victoria;1644;47;Chile;656;Región Metropolitana de Santiago;07/01/2019 15:12;952.00
+21851;6;Buenos Aires;Vicente Lopez;1638;213;Suiza;624;Ticino (it);15/01/2019 06:25;200.00
+21718;6;Buenos Aires;CORONEL SUAREZ;7540;177;Paraguay;3396;Asunción;11/01/2019 14:49;1465.00
+23254;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;24/01/2019 11:10;5216.00
+18518;2;Ciudad Autónoma de Buenos Aires;CABA;1425;72;España;1005;Barcelona [Barcelona];03/12/2018 10:09;1310.00
+21706;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1426;74;Estados Unidos;4458;Maryland;11/01/2019 13:34;2293.10
+21547;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4474;Ohio;09/01/2019 14:47;268.81
+20673;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4452;Illinois;27/12/2018 15:47;255.00
+20156;98;Salta;Salta;4400;113;Italia;1862;Milano;27/12/2018 11:09;4776.00
+20625;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4457;Massachusetts;27/12/2018 11:26;1840.00
+18355;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;47;Chile;656;Región Metropolitana de Santiago;29/11/2018 13:30;90.00
+17989;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;26/11/2018 14:26;4050.00
+18850;6;Buenos Aires;Vicente Lopez;1638;171;Países Bajos;3078;Noord-Brabant;05/12/2018 15:37;270.00
+18753;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;05/12/2018 11:16;2855.52
+21399;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1407;47;Chile;656;Región Metropolitana de Santiago;08/01/2019 11:27;787.98
+22769;6;Buenos Aires;Martinez;1640;68;Emiratos Árabes Unidos;9;Ab? Z?aby [Abu Dhabi];21/01/2019 14:42;525.00
+18366;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1431;74;Estados Unidos;4441;California;05/12/2018 15:27;126.60
+18686;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;04/12/2018 13:48;190.00
+17751;6;Buenos Aires;Vicente Lopez;1638;51;Colombia;733;Valle del Cauca;22/11/2018 15:47;320.00
+19473;82;Santa Fe;LAS PAREJAS;2505;189;Rusia;3544;Tatarstan, Respublika;18/12/2018 14:17;631.06
+19912;82;Santa Fe;LAS PAREJAS;2505;46;República Checa;788;Praha, Hlavní mešto;26/12/2018 11:19;808.00
+22249;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4470;New Jersey;17/01/2019 12:38;625.20
+18745;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4477;Pennsylvania;05/12/2018 08:44;250.00
+18844;6;Buenos Aires;Vicente Lopez;1638;185;Reino Unido;1276;Essex;05/12/2018 15:20;250.00
+18207;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4460;Michigan;28/11/2018 11:45;69.00
+16941;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4486;Virginia;13/11/2018 13:44;555.60
+20248;50;Mendoza;San rafael;5600;24;Bélgica;295;Bruxelles-Capitale, Région de;20/12/2018 12:36;4.00
+22597;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;181;Polonia;3313;Kujawsko-pomorskie;21/01/2019 09:50;69.00
+18951;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4466;North Carolina;06/12/2018 13:32;170.00
+20634;14;Córdoba;Arroyito;2434;47;Chile;656;Región Metropolitana de Santiago;27/12/2018 12:17;126.55
+17302;6;Buenos Aires;City Bell;1896;178;Perú;3188;Lima;16/11/2018 11:01;12200.00
+21649;82;Santa Fe;SUNCHALES;2322;72;España;1046;Santa Cruz de Tenerife;11/01/2019 14:25;462.60
+18603;6;Buenos Aires;LA TABLADA;1766;72;España;1028;Madrid;07/12/2018 12:23;135.00
+17727;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;544;Ontario;22/11/2018 12:53;69.00
+22586;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;21/01/2019 09:34;199.00
+20104;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1414;72;España;1020;Guadalajara;19/12/2018 15:34;1106.30
+18439;2;Ciudad Autónoma de Buenos Aires;CABA;1414;183;Puerto Rico;4783;Dorado;30/11/2018 09:30;878.40
+18185;6;Buenos Aires;CIUDADELA;1702;47;Chile;656;Región Metropolitana de Santiago;28/11/2018 10:24;792.00
+20370;6;Buenos Aires;Vicente Lopez;1602;74;Estados Unidos;4489;Washington;26/12/2018 14:10;458.15
+21621;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;10/01/2019 11:13;220.00
+20638;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4474;Ohio;27/12/2018 12:18;295.00
+18362;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1425;74;Estados Unidos;4457;Massachusetts;29/11/2018 13:38;45.00
+17537;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;72;España;1005;Barcelona [Barcelona];21/11/2018 10:24;122.00
+20695;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1419;51;Colombia;707;Bolívar;04/01/2019 10:28;700.00
+22169;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4477;Pennsylvania;17/01/2019 08:37;199.00
+18861;6;Buenos Aires;Vicente Lopez;1638;113;Italia;1904;Torino;05/12/2018 16:19;280.00
+20723;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;28/12/2018 11:15;2875.00
+18964;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;06/12/2018 14:58;4016.00
+17919;6;Buenos Aires;San Isidro;1642;177;Paraguay;3381;Central;26/11/2018 10:19;350.00
+18331;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;806;Bremen;29/11/2018 12:28;350.00
+18584;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;03/12/2018 15:38;2160.00
+17539;6;Buenos Aires;Olivos;1636;205;Singapur;3653;Central Singapore;21/11/2018 10:27;566.64
+19860;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1414;74;Estados Unidos;4446;Florida;27/12/2018 17:00;782.79
+18551;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;03/12/2018 12:27;66.00
+17424;2;Ciudad Autónoma de Buenos Aires;CABA;1414;72;España;1033;Asturias;20/11/2018 11:13;1500.00
+17663;6;Buenos Aires;Sarandi;1872;51;Colombia;716;Cundinamarca;22/11/2018 09:36;192.78
+23284;2;Ciudad Autónoma de Buenos Aires;CABA;1184;178;Perú;3188;Lima;24/01/2019 13:43;3601.11
+23284;2;Ciudad Autónoma de Buenos Aires;CABA;1184;178;Perú;3188;Lima;24/01/2019 13:43;3601.11
+21043;50;Mendoza;Mendoza;5500;177;Paraguay;3396;Asunción;03/01/2019 16:09;4.00
+19029;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4441;California;07/12/2018 12:08;185.76
+18089;6;Buenos Aires;PIGUE;8170;178;Perú;3188;Lima;27/11/2018 11:05;699.91
+19082;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1425;74;Estados Unidos;4473;New York;10/12/2018 12:02;400.00
+17997;2;Ciudad Autónoma de Buenos Aires;CABA;1431;51;Colombia;717;Distrito Capital de Bogotá;28/11/2018 14:23;12165.00
+17353;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1053;236;Uruguay;4502;Montevideo;16/11/2018 16:44;282.90
+17693;82;Santa Fe;Santa Fe;3000;177;Paraguay;3396;Asunción;22/11/2018 11:45;154.65
+19580;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1172;47;Chile;656;Región Metropolitana de Santiago;13/12/2018 19:15;1465.05
+18488;6;Buenos Aires;Martinez;1640;74;Estados Unidos;4490;Wisconsin;30/11/2018 23:57;1400.00
+20282;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;67;El Salvador;3952;La Libertad;20/12/2018 14:37;627.00
+18662;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;43;Canadá;536;Alberta;04/12/2018 12:04;199.00
+20240;2;Ciudad Autónoma de Buenos Aires;CABA;1406;164;Nigeria;3032;Abuja Capital Territory;20/12/2018 12:21;650.00
+17844;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;94;Guatemala;1522;Guatemala;23/11/2018 13:44;999.00
+20998;2;Ciudad Autónoma de Buenos Aires;CABA;1440;72;España;1026;La Rioja;03/01/2019 11:59;1556.00
+20372;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;175;Panamá;3169;Panamá;28/12/2018 08:59;3178.08
+19209;6;Buenos Aires;Beccar;1643;171;Países Bajos;3079;Noord-Holland;10/12/2018 17:06;2040.00
+21439;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4452;Illinois;08/01/2019 13:14;307.00
+18683;6;Buenos Aires;lomas del mirador;1752;48;China;679;Zhejiang;04/12/2018 13:46;42.00
+20642;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;169;Nueva Zelanda;3135;Canterbury;27/12/2018 12:36;180.00
+20105;6;Buenos Aires;bahia blanca;8000;74;Estados Unidos;4446;Florida;19/12/2018 12:30;949.62
+19064;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1406;178;Perú;3188;Lima;20/12/2018 13:16;11079.00
+21425;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4440;Arizona;08/01/2019 12:42;200.00
+18846;6;Buenos Aires;Vicente Lopez;1638;185;Reino Unido;1380;South Lanarkshire;05/12/2018 15:29;250.00
+18987;2;Ciudad Autónoma de Buenos Aires;CABA;1417;59;Costa Rica;736;Alajuela;06/12/2018 17:44;1275.00
+19696;6;Buenos Aires;Villa Martelli;1603;177;Paraguay;3396;Asunción;19/12/2018 11:23;3100.00
+21757;6;Buenos Aires;Martinez;1440;51;Colombia;717;Distrito Capital de Bogotá;11/01/2019 18:46;127.20
+17309;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1180;47;Chile;656;Región Metropolitana de Santiago;16/11/2018 11:48;2040.00
+19880;2;Ciudad Autónoma de Buenos Aires;CABA;1437;149;México;2943;Ciudad de Mexico;19/12/2018 13:38;1000.00
+17544;6;Buenos Aires;Olivos;1636;205;Singapur;3653;Central Singapore;21/11/2018 10:33;566.64
+22916;6;Buenos Aires;Vicente Lopez;1638;4;Alemania;804;Baden-Württemberg;22/01/2019 12:59;200.00
+20797;6;Buenos Aires;CIUDADELA;1702;236;Uruguay;4502;Montevideo;28/12/2018 17:05;1112.00
+17719;2;Ciudad Autónoma de Buenos Aires;buenos aires;1425;47;Chile;656;Región Metropolitana de Santiago;22/11/2018 13:50;4175.00
+22163;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;110;Irlanda;1688;Dublin;17/01/2019 08:01;270.00
+21534;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4483;Texas;09/01/2019 11:54;263.96
+16502;6;Buenos Aires;Avellaneda;1868;210;Sudáfrica;4662;Gauteng;07/11/2018 16:44;370.00
+18544;6;Buenos Aires;Victoria;1644;178;Perú;3188;Lima;05/12/2018 09:39;6096.00
+21433;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;171;Países Bajos;3075;Gelderland;08/01/2019 13:01;150.00
+22739;6;Buenos Aires;CORONEL SUAREZ;7540;236;Uruguay;4494;Canelones;21/01/2019 13:32;700.00
+20646;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4440;Arizona;27/12/2018 12:47;199.00
+19115;6;Buenos Aires;SAN JUSTO;7118;47;Chile;649;Biobío;21/12/2018 12:50;954.00
+21158;6;Buenos Aires;Victoria;1644;90;Grecia;1512;Attikí;04/01/2019 15:07;625.00
+22887;118;Corrientes;Corrientes;3400;74;Estados Unidos;4483;Texas;22/01/2019 11:07;4620.00
+20793;6;Buenos Aires;ituzaingo;1714;74;Estados Unidos;4446;Florida;22/01/2019 11:24;64.00
+21426;6;Buenos Aires;CIUDADELA;1702;74;Estados Unidos;4461;Minnesota;08/01/2019 12:44;144.00
+18680;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4438;Arkansas;04/12/2018 13:24;170.00
+23039;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;23/01/2019 09:17;75.00
+18193;2;Ciudad Autónoma de Buenos Aires;CABA;1425;72;España;1005;Barcelona [Barcelona];28/11/2018 11:51;4774.00
+17386;6;Buenos Aires;bahia blanca;8000;218;Taiwán;4257;Taipei;18/11/2018 21:51;1700.16
+17447;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4458;Maryland;20/11/2018 14:02;324.00
+20038;6;Buenos Aires;San Fernando;1646;74;Estados Unidos;4446;Florida;20/12/2018 19:51;50.00
+23357;2;Ciudad Autónoma de Buenos Aires;caba;1406;177;Paraguay;3396;Asunción;25/01/2019 06:34;4300.00
+22870;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1425;236;Uruguay;4501;Maldonado;22/01/2019 10:20;405.89
+23289;2;Ciudad Autónoma de Buenos Aires;CABA;1184;149;México;2955;Nuevo León;24/01/2019 13:55;9878.18
+23289;2;Ciudad Autónoma de Buenos Aires;CABA;1184;149;México;2955;Nuevo León;24/01/2019 13:55;9878.18
+20428;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1431;48;China;687;Guangdong;27/12/2018 20:41;640.00
+18087;6;Buenos Aires;Martinez;1640;82;Francia;1140;Isère;27/11/2018 11:05;12180.00
+18202;6;Buenos Aires;Beccar;1643;74;Estados Unidos;4441;California;28/11/2018 11:19;500.00
+21274;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;07/01/2019 10:49;1996.20
+18204;6;Buenos Aires;CIUDADELA;1702;149;México;2957;Puebla;28/11/2018 13:04;180.00
+20276;2;Ciudad Autónoma de Buenos Aires;Villa crespo;1414;47;Chile;656;Región Metropolitana de Santiago;20/12/2018 14:06;8600.00
+20280;2;Ciudad Autónoma de Buenos Aires;Villa crespo;1414;47;Chile;656;Región Metropolitana de Santiago;20/12/2018 14:23;8600.00
+20283;2;Ciudad Autónoma de Buenos Aires;Villa crespo;1414;47;Chile;656;Región Metropolitana de Santiago;20/12/2018 14:36;8600.00
+20466;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma Buenos Aires;1414;74;Estados Unidos;4446;Florida;26/12/2018 10:09;5380.00
+21773;113;Río Negro;San carlos de bariloche;8400;4;Alemania;805;Bayern;14/01/2019 12:32;1540.00
+21892;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma Buenos Aires;1414;74;Estados Unidos;4446;Florida;15/01/2019 08:54;14255.00
+21953;6;Buenos Aires;AVELLANEDA;1870;149;México;2943;Ciudad de Mexico;15/01/2019 11:42;9531.96
+21978;6;Buenos Aires;Villa Ballester;1653;236;Uruguay;4507;Salto;16/01/2019 07:35;4068.00
+22337;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1007;74;Estados Unidos;4441;California;18/01/2019 08:18;6500.00
+22392;6;Buenos Aires;Adrogue;1846;185;Reino Unido;1351;Oxfordshire;18/01/2019 10:09;10715.50
+22436;2;Ciudad Autónoma de Buenos Aires;C.A.B.A.;1115;72;España;1005;Barcelona [Barcelona];18/01/2019 12:25;14964.40
+22625;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma Buenos Aires;1414;74;Estados Unidos;4446;Florida;21/01/2019 10:09;1800.00
+21498;116;Chubut;ESQUEL;9200;74;Estados Unidos;4453;Indiana;08/01/2019 20:42;14960.00
+23399;50;Mendoza;GUAYMALLEN;5519;74;Estados Unidos;4462;Missouri;25/01/2019 09:03;3069.30
+22702;6;Buenos Aires;San Martín;1650;213;Suiza;626;Vaud (fr);21/01/2019 11:48;2532.10
+23456;50;Mendoza;GUAYMALLEN;5519;72;España;1048;Valencia / València;25/01/2019 10:44;959.37
+23671;6;Buenos Aires;Florida Oeste;1604;74;Estados Unidos;4441;California;28/01/2019 10:35;6696.18
+23468;6;Buenos Aires;AVELLANEDA;1870;17;Austria;124;Niederösterreich;25/01/2019 12:27;360.72
+21745;82;Santa Fe;ROSARIO;2000;177;Paraguay;3380;Alto Paraná;11/01/2019 17:08;405.75
+22910;2;Ciudad Autónoma de Buenos Aires;CABA;1426;74;Estados Unidos;4446;Florida;22/01/2019 12:40;12025.00
+23436;6;Buenos Aires;Don Torcuato;1611;4;Alemania;810;Niedersachsen;25/01/2019 10:06;2275.00
+23036;2;Ciudad Autónoma de Buenos Aires;CABA;1439;82;Francia;1136;Hérault;23/01/2019 14:14;802.50
+21634;2;Ciudad Autónoma de Buenos Aires;CABA;1231;74;Estados Unidos;4452;Illinois;10/01/2019 13:26;3510.00
+23681;50;Mendoza;GUAYMALLEN;5519;4;Alemania;802;Brandenburg;28/01/2019 11:00;1545.35
+18330;2;Ciudad Autónoma de Buenos Aires;CABA;1440;64;República Dominicana;839;Distrito Nacional (Santo Domingo);29/11/2018 12:54;176.00
+17717;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4476;Oregon;22/11/2018 12:26;150.00
+18833;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4483;Texas;05/12/2018 14:49;2380.00
+17738;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1419;29;Bolivia;420;La Paz;26/11/2018 17:53;2590.50
+21574;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1429;178;Perú;3188;Lima;09/01/2019 17:35;2250.00
+21716;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1292;72;España;1028;Madrid;11/01/2019 14:21;2626.50
+19223;2;Ciudad Autónoma de Buenos Aires;CABA;1417;47;Chile;656;Región Metropolitana de Santiago;10/12/2018 19:52;50.00
+20497;2;Ciudad Autónoma de Buenos Aires;buenos aires;1414;82;Francia;1177;Paris;26/12/2018 13:44;510.00
+17398;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1425;51;Colombia;717;Distrito Capital de Bogotá;21/11/2018 12:34;444.00
+17569;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;94;Guatemala;1522;Guatemala;21/11/2018 11:46;1167.00
+21544;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;09/01/2019 13:56;3395.00
+18802;6;Buenos Aires;Lanus;1824;113;Italia;1864;Modena;06/12/2018 14:42;890.00
+21630;6;Buenos Aires;Martinez;1640;33;Brasil;454;São Paulo;10/01/2019 12:27;5680.00
+17275;14;Córdoba;San Francisco;2400;175;Panamá;3169;Panamá;16/11/2018 10:55;18.50
+19359;2;Ciudad Autónoma de Buenos Aires;caba;1086;72;España;1005;Barcelona [Barcelona];07/01/2019 16:56;450.00
+21411;2;Ciudad Autónoma de Buenos Aires;CABA;1018;104;Hong Kong;4705;Kowloon;08/01/2019 12:02;15000.00
+17586;6;Buenos Aires;Don Torcuato;1611;171;Países Bajos;3078;Noord-Brabant;21/11/2018 13:24;4960.00
+19305;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1292;67;El Salvador;3952;La Libertad;11/12/2018 14:49;1478.55
+22825;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1424;74;Estados Unidos;4446;Florida;22/01/2019 06:58;325.08
+17546;6;Buenos Aires;Olivos;1636;205;Singapur;3653;Central Singapore;21/11/2018 10:37;566.64
+17313;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1180;47;Chile;656;Región Metropolitana de Santiago;16/11/2018 12:12;4910.00
+22363;82;Santa Fe;Rosario;2000;177;Paraguay;3381;Central;18/01/2019 09:29;20.00
+19128;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;47;Chile;656;Región Metropolitana de Santiago;10/12/2018 11:13;63.00
+20590;6;Buenos Aires;Bella vista;1661;177;Paraguay;3396;Asunción;28/12/2018 16:31;1190.00
+21109;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4441;California;04/01/2019 12:17;440.00
+21868;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;15/01/2019 07:23;47.00
+21155;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1237;67;El Salvador;3958;San Salvador;04/01/2019 15:00;2038.40
+21312;2;Ciudad Autónoma de Buenos Aires;CABA;1440;175;Panamá;3169;Panamá;07/01/2019 14:23;2060.05
+18743;6;Buenos Aires;Sarandi;1872;51;Colombia;717;Distrito Capital de Bogotá;05/12/2018 08:28;698.80
+18747;2;Ciudad Autónoma de Buenos Aires;Villa Luro Capital Federal;1408;74;Estados Unidos;4477;Pennsylvania;05/12/2018 09:21;245.00
+21542;82;Santa Fe;Rosario;2000;175;Panamá;3169;Panamá;09/01/2019 13:35;11.20
+21522;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;236;Uruguay;4502;Montevideo;09/01/2019 11:38;45.00
+17034;6;Buenos Aires;Mar Del Plata;7600;113;Italia;1862;Milano;14/11/2018 08:05;510.00
+20536;2;Ciudad Autónoma de Buenos Aires;Capital Federal;1120;74;Estados Unidos;4483;Texas;26/12/2018 15:04;1504.00
+21449;6;Buenos Aires;Don Torcuato;1611;185;Reino Unido;1225;Birmingham;08/01/2019 13:57;1780.98
+22865;2;Ciudad Autónoma de Buenos Aires;CABA;1184;178;Perú;3188;Lima;22/01/2019 09:43;5034.00
+20510;6;Buenos Aires;Vicente Lopez;1638;74;Estados Unidos;4441;California;26/12/2018 13:19;150.00
+22130;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;16/01/2019 15:46;66.00
+20880;2;Ciudad Autónoma de Buenos Aires;Capital;1237;72;España;1036;Balears [Baleares];02/01/2019 09:06;490.92
+21714;2;Ciudad Autónoma de Buenos Aires;CABA;1407;74;Estados Unidos;4441;California;15/01/2019 06:28;2145.00
+17577;2;Ciudad Autónoma de Buenos Aires;Ciudad Autónoma de Buenos Aires;1237;236;Uruguay;4502;Montevideo;22/11/2018 11:18;1626.50
+20344;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1086;74;Estados Unidos;4441;California;21/12/2018 10:02;4421.32
+20997;50;Mendoza;GUAYMALLÉN;5527;47;Chile;656;Región Metropolitana de Santiago;03/01/2019 11:48;139.20
+22788;112;Neuquén;plottier;8316;33;Brasil;454;São Paulo;21/01/2019 16:22;48.00
+22159;2;Ciudad Autónoma de Buenos Aires;Ciudad Autonoma de Buenos Aires;1016;47;Chile;656;Región Metropolitana de Santiago;17/01/2019 07:39;960.00
+17816;2;Ciudad Autónoma de Buenos Aires;CABA;1057;74;Estados Unidos;4483;Texas;23/11/2018 11:13;3929.00
+18813;82;Santa Fe;Rosario;2000;72;España;1015;Castellón / Castelló;05/12/2018 13:06;727.20
+17927;2;Ciudad Autónoma de Buenos Aires;Villa Urquiza;1437;65;Ecuador;935;Guayas;05/12/2018 12:12;2448.50
+18673;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4474;Ohio;04/12/2018 12:50;75.00
+17890;2;Ciudad Autónoma de Buenos Aires;CASEROS;1678;236;Uruguay;4502;Montevideo;24/11/2018 08:48;2620.66
+18606;2;Ciudad Autónoma de Buenos Aires;Caseros;1678;236;Uruguay;4494;Canelones;19/12/2018 16:05;350.00
+21087;2;Ciudad Autónoma de Buenos Aires;Boedo;1256;106;India;1747;Tamil Nadu;04/01/2019 10:12;490.00
+18436;6;Buenos Aires;Quilmes;1878;178;Perú;3188;Lima;30/11/2018 09:10;3600.00
+20452;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4441;California;24/12/2018 13:51;1488.00
+21039;2;Ciudad Autónoma de Buenos Aires;CABA;1407;74;Estados Unidos;4446;Florida;03/01/2019 17:00;1260.00
+18990;6;Buenos Aires;San Martin;1650;236;Uruguay;4502;Montevideo;06/12/2018 17:47;4326.00
+16623;82;Santa Fe;SUNCHALES;2322;72;España;1005;Barcelona [Barcelona];08/11/2018 16:08;751.00
+18585;6;Buenos Aires;olivos;1636;67;El Salvador;3952;La Libertad;05/12/2018 18:32;195.84
+17280;6;Buenos Aires;Lomas del Mirador;1752;182;Portugal;3353;Lisboa;16/11/2018 09:19;130.00
+23176;2;Ciudad Autónoma de Buenos Aires;Buenos Aires;1414;72;España;1020;Guadalajara;24/01/2019 06:44;992.68
+23278;2;Ciudad Autónoma de Buenos Aires;CABA;1018;74;Estados Unidos;4440;Arizona;24/01/2019 13:18;1594.00
+23626;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4441;California;28/01/2019 08:19;650.16
+23651;82;Santa Fe;ROSARIO;2000;178;Perú;3188;Lima;28/01/2019 10:04;14972.50
+23618;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4441;California;28/01/2019 08:10;650.16
+23389;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;213;Suiza;615;Luzern (de);25/01/2019 08:43;138.00
+23400;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4446;Florida;25/01/2019 08:56;199.00
+23437;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;233;Ucrania;4300;Kyiv;25/01/2019 10:04;100.00
+23653;6;Buenos Aires;FLORIDA;1602;178;Perú;3188;Lima;28/01/2019 10:06;2120.00
+23432;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4442;Colorado;25/01/2019 09:48;135.00
+23052;2;Ciudad Autónoma de Buenos Aires;CABA;1414;74;Estados Unidos;4483;Texas;23/01/2019 09:52;1700.40
+22763;2;Ciudad Autónoma de Buenos Aires;CABA;1407;47;Chile;656;Región Metropolitana de Santiago;22/01/2019 10:06;2808.00
+23672;6;Buenos Aires;Don Torcuato;1611;74;Estados Unidos;4446;Florida;28/01/2019 10:38;8980.00
+23426;2;Ciudad Autónoma de Buenos Aires;CAPITAL FEDERAL;1414;74;Estados Unidos;4441;California;25/01/2019 09:33;120.00
+23687;2;Ciudad Autónoma de Buenos Aires;CABA;1425;236;Uruguay;4501;Maldonado;28/01/2019 11:39;9557.16
+23074;2;Ciudad Autónoma de Buenos Aires;CABA;1437;33;Brasil;447;Rio de Janeiro;23/01/2019 12:52;300.00
+22036;2;Ciudad Autónoma de Buenos Aires;CABA;1220;24;Bélgica;295;Bruxelles-Capitale, Région de;16/01/2019 13:58;4800.00
+23842;2;Ciudad Autónoma de Buenos Aires;CABA;1407;74;Estados Unidos;4446;Florida;29/01/2019 07:33;1303.00
+23708;2;Ciudad Autónoma de Buenos Aires;BUENOS AIRES;1431;178;Perú;3188;Lima;28/01/2019 12:39;70.00
+23242;6;Buenos Aires;Ituzaingo;1714;236;Uruguay;4502;Montevideo;24/01/2019 10:33;3475.90

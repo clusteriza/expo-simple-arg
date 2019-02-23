@@ -1,0 +1,1079 @@
+id_orden,id_provincia,provincia,origen_especifico,cp_origen_especifico,id_pais_destino,pais_destino,id_destino_especifico,destino_especifico,fecha,monto_operacion
+37,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1129,47,Chile,656,Region Metropolitana de Santiago,30/10/2017,1872
+44,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1135,113,Italia,1877,Perugia,26/10/2017,"3510,65"
+106,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,10/11/2017,"1835,3"
+133,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,17/11/2017,"1853,2"
+135,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,17/11/2017,"11450,02"
+518,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,6/12/2017,"7402,8"
+520,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,6/12/2017,1342
+119,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,113,Italia,1891,Roma,14/11/2017,"2388,4"
+918,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4470,New Jersey,14/12/2017,"2871,25"
+54,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1057,74,Estados Unidos,4473,New York,27/10/2017,"1761,41"
+1096,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,16,Australia,132,New South Wales,19/12/2017,"7260,72"
+59,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,72,España,1005,Barcelona [Barcelona],30/10/2017,"4571,88"
+130,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,16/11/2017,15000
+1463,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,5/1/2018,"12524,8"
+959,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,14/12/2017,"9984,4"
+449,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,82,Francia,1133,Haute-Garonne,6/12/2017,"7343,14"
+456,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,82,Francia,1133,Haute-Garonne,6/12/2017,"6317,6"
+1257,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,82,Francia,1177,Paris,27/12/2017,"2173,92"
+76,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,2/11/2017,"5257,49"
+101,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,9/11/2017,"8989,34"
+1063,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,18/12/2017,"8137,47"
+136,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1017,47,Chile,656,Region Metropolitana de Santiago,20/11/2017,7840
+1469,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,65,Ecuador,942,Pichincha,5/1/2018,"1990,33"
+1195,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,21/12/2017,2200
+231,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1126,177,Paraguay,3396,Asuncion,28/11/2017,1037
+344,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1188,65,Ecuador,942,Pichincha,5/12/2017,"1993,87"
+251,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,72,España,1002,Albacete,30/11/2017,8560
+269,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,72,España,1017,Las Palmas,1/12/2017,9156
+841,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,72,España,1017,Las Palmas,12/12/2017,"5178,25"
+1168,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,74,Estados Unidos,4473,New York,20/12/2017,8654
+284,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4477,Pennsylvania,1/12/2017,1150
+638,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,64,Republica Dominicana,839,Distrito Nacional (Santo Domingo),13/12/2017,"2495,1"
+953,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4478,Puerto Rico (see also separate entry under PR),14/12/2017,"3105,9"
+1099,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,94,Guatemala,1522,Guatemala,19/12/2017,"2061,05"
+1258,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,64,Republica Dominicana,839,Distrito Nacional (Santo Domingo),26/12/2017,"2894,7"
+951,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,149,Mexico,2955,Nuevo Leon,14/12/2017,8200
+796,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,113,Italia,1823,Bologna,12/12/2017,"2651,95"
+1199,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1424,47,Chile,655,Maule,21/12/2017,1200
+1069,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1424,47,Chile,655,Maule,18/12/2017,200
+874,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1185,178,Peru,3188,Lima,13/12/2017,4000
+833,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,82,Francia,1170,Haut-Rhin,18/12/2017,1000
+877,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,113,Italia,1862,Milano,13/12/2017,"1234,5"
+905,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,94,Guatemala,1522,Guatemala,13/12/2017,"2686,5"
+1529,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,181,Polonia,3314,Lubuskie,8/1/2018,2770
+983,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1408,47,Chile,656,Region Metropolitana de Santiago,15/12/2017,384
+1078,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,171,Paises Bajos,3080,Overijssel,18/12/2017,"3053,44"
+1056,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,74,Estados Unidos,4483,Texas,20/12/2017,"2219,98"
+1167,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,177,Paraguay,3396,Asuncion,20/12/2017,4200
+1601,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,57,Corea del Sur,2115,Jeonrabugdo [Chollabuk-do],10/1/2018,"5283,2"
+1875,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,115,Japon,1967,Aiti [Aichi],22/1/2018,"2983,88"
+2258,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1315,Leicestershire,29/1/2018,"7467,56"
+1911,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,22/1/2018,"14045,4"
+1970,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,23/1/2018,12177
+2946,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,65,Ecuador,942,Pichincha,19/2/2018,"1501,94"
+2590,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,6/2/2018,"14999,35"
+875,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,13/12/2017,"8483,03"
+1161,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,20/12/2017,"4088,88"
+241,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,109,Iraq,1753,Arbil,29/11/2017,5033
+187,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,68,Emiratos arabes Unidos,10,Dubayy [Dubai],26/11/2017,11959
+716,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,51,Colombia,717,Distrito Capital de Bogota,11/12/2017,1188
+1175,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,113,Italia,1884,Pavia,21/12/2017,1788
+1065,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,178,Peru,3188,Lima,18/12/2017,7829
+1906,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,11,Arabia Saudita,3569,Ash Sharqiyah,22/1/2018,8394
+1817,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,82,Francia,1120,Correze,18/1/2018,"8730,65"
+1483,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,72,España,1002,Albacete,5/1/2018,"1095,93"
+1278,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,236,Uruguay,4502,Montevideo,27/12/2017,1050
+1927,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,29,Bolivia,424,Santa Cruz,23/1/2018,9400
+1765,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,51,Colombia,717,Distrito Capital de Bogota,16/1/2018,14943
+1788,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,178,Peru,3188,Lima,17/1/2018,8800
+2570,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4452,Illinois,6/2/2018,"2471,85"
+1505,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4483,Texas,8/1/2018,14082
+2291,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,30/1/2018,10800
+1602,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,10/1/2018,5021
+1924,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,23/1/2018,2050
+1218,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,236,Uruguay,4501,Maldonado,22/12/2017,4732
+1287,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1185,65,Ecuador,942,Pichincha,27/12/2017,5170
+895,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1407,236,Uruguay,4507,Salto,13/12/2017,3000
+1533,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,82,Francia,1126,Drome,8/1/2018,10830
+2048,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,74,Estados Unidos,4446,Florida,24/1/2018,"3343,6"
+1536,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4447,Georgia,9/1/2018,3000
+1303,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,72,España,1051,Zaragoza,28/12/2017,3817
+2443,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,231,Turquia,4169,Izmir,15/2/2018,3300
+2963,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1417,59,Costa Rica,736,Alajuela,19/2/2018,648
+1296,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1041,236,Uruguay,4501,Maldonado,28/12/2017,"5220,8"
+1431,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,4/1/2018,"1068,16"
+591,82,Santa Fe,Rosario,2000,177,Paraguay,3381,Central,7/12/2017,1485
+1475,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,65,Ecuador,942,Pichincha,5/1/2018,4235
+1680,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,74,Estados Unidos,4483,Texas,11/1/2018,7435
+1651,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4446,Florida,11/1/2018,8192
+1546,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4446,Florida,9/1/2018,5280
+747,82,Santa Fe,Rafaela,2300,74,Estados Unidos,4446,Florida,12/12/2017,"2635,52"
+1689,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1088,47,Chile,656,Region Metropolitana de Santiago,12/1/2018,1120
+1192,14,Córdoba,Las Varillas,5940,33,Brasil,438,Maranhao,26/12/2017,480
+1833,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,115,Japon,1957,Tokyo [Tokyo],19/1/2018,"3954,4"
+2441,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4474,Ohio,2/2/2018,"708,75"
+1696,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1057,74,Estados Unidos,4470,New Jersey,12/1/2018,352
+1698,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1057,74,Estados Unidos,4470,New Jersey,12/1/2018,"376,75"
+1205,14,Córdoba,Cordoba,5000,236,Uruguay,4501,Maldonado,22/12/2017,4060
+1798,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,74,Estados Unidos,4470,New Jersey,24/1/2018,2031
+1868,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1292,178,Peru,3188,Lima,22/1/2018,"2152,8"
+2404,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,82,Francia,1194,Hauts-de-Seine,2/2/2018,"3124,49"
+3354,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,28/2/2018,"12218,89"
+3331,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4470,New Jersey,28/2/2018,"1990,66"
+3870,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,15/3/2018,12106
+2640,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,7/2/2018,"6417,4"
+2799,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,14/2/2018,"5482,23"
+3012,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,20/2/2018,"5344,03"
+3618,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,7/3/2018,"6501,74"
+2670,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,109,Iraq,1753,Arbil,8/2/2018,5660
+1103,50,Mendoza,Mendoza,5500,47,Chile,647,La Araucania,19/12/2017,"854,65"
+2996,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1188,65,Ecuador,942,Pichincha,20/2/2018,"1938,5"
+2435,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,115,Japon,1957,Tokyo [Tokyo],2/2/2018,"2878,42"
+2877,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4452,Illinois,15/2/2018,"1673,56"
+2909,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,16/2/2018,"3847,5"
+3003,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,20/2/2018,8136
+3274,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4476,Oregon,27/2/2018,9564
+2330,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,65,Ecuador,942,Pichincha,31/1/2018,3760
+4074,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,103,Honduras,1563,Cortes,21/3/2018,"1925,23"
+3543,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,181,Polonia,3314,Lubuskie,6/3/2018,2765
+2783,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1408,74,Estados Unidos,4446,Florida,14/2/2018,350
+2895,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1408,74,Estados Unidos,4446,Florida,16/2/2018,850
+2584,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,82,Francia,1155,Mayenne,6/2/2018,9380
+3091,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4468,Nebraska,22/2/2018,5000
+3633,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4460,Michigan,8/3/2018,3800
+3679,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4477,Pennsylvania,9/3/2018,6480
+1803,14,Córdoba,Cordoba,5009,29,Bolivia,424,Santa Cruz,17/1/2018,3600
+3344,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,149,Mexico,2951,Mexico,1/3/2018,4200
+2894,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,4,Alemania,804,Baden-Wurttemberg,16/2/2018,"8402,73"
+3542,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,178,Peru,3188,Lima,6/3/2018,3780
+2791,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1021,68,Emiratos arabes Unidos,10,Dubayy [Dubai],15/2/2018,3815
+3641,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1075,113,Italia,1862,Milano,8/3/2018,1750
+2724,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,74,Estados Unidos,4446,Florida,9/2/2018,"2158,85"
+2395,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,236,Uruguay,4502,Montevideo,1/2/2018,1671
+3716,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1439,74,Estados Unidos,4489,Washington,9/3/2018,1110
+113,50,Mendoza,Guaymallen,5519,178,Peru,3194,Piura,13/11/2017,1575
+111,50,Mendoza,Guaymallen,5519,213,Suiza,607,Bern (de),13/11/2017,1900
+3107,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1315,Leicestershire,22/2/2018,"2525,5"
+2539,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4476,Oregon,5/2/2018,"3439,66"
+2540,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4450,Iowa,5/2/2018,"2375,88"
+2541,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,5/2/2018,"2728,12"
+2544,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4450,Iowa,5/2/2018,"3985,16"
+2549,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,5/2/2018,3503
+3760,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1135,90,Grecia,1516,Kriti,13/3/2018,8880
+3793,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1241,177,Paraguay,3381,Central,13/3/2018,6975
+2695,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1037,74,Estados Unidos,4446,Florida,8/2/2018,1840
+2973,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1222,171,Paises Bajos,3079,Noord-Holland,19/2/2018,"2499,2"
+3009,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1009,64,Republica Dominicana,870,Santo Domingo,20/2/2018,"3,45"
+3209,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,171,Paises Bajos,3083,Zuid-Holland,23/2/2018,"1149,57"
+3765,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,64,Republica Dominicana,870,Santo Domingo,13/3/2018,"2323,84"
+4746,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,12/4/2018,"10622,8"
+4614,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,212,Suecia,3644,Hallands lan,9/4/2018,1519
+3704,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,175,Panama,3169,Panama,9/3/2018,2006
+4808,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,109,Iraq,1753,Arbil,13/4/2018,4185
+4967,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,109,Iraq,1753,Arbil,19/4/2018,2084
+5043,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,106,India,1735,Maharashtra,19/4/2018,2228
+5095,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,74,Estados Unidos,4473,New York,20/4/2018,"3202,5"
+4076,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,74,Estados Unidos,4459,Maine,21/3/2018,1068
+4944,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,74,Estados Unidos,4483,Texas,17/4/2018,5730
+4289,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,115,Japon,1957,Tokyo [Tokyo],28/3/2018,"4198,78"
+5132,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,115,Japon,1957,Tokyo [Tokyo],23/4/2018,2979
+1728,14,Córdoba,Cordoba,5001,177,Paraguay,3396,Asuncion,15/1/2018,1798
+3689,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,16,Australia,138,Western Australia,9/3/2018,6350
+4104,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,74,Estados Unidos,4446,Florida,22/3/2018,"9309,1"
+3691,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4477,Pennsylvania,9/3/2018,6400
+3975,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4476,Oregon,19/3/2018,2400
+4012,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4466,North Carolina,20/3/2018,9900
+4033,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4453,Indiana,20/3/2018,7700
+5638,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4446,Florida,8/5/2018,8000
+5426,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,149,Mexico,2951,Mexico,3/5/2018,8110
+1720,82,Santa Fe,Rosario,2000,47,Chile,656,Region Metropolitana de Santiago,15/1/2018,2440
+2263,82,Santa Fe,Rosario,2000,149,Mexico,2950,Jalisco,31/1/2018,3717
+5275,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1419,236,Uruguay,4501,Maldonado,26/4/2018,"13380,8"
+4246,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4446,Florida,27/3/2018,12288
+4196,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,115,Japon,1972,Hyogo[Hyogo],26/3/2018,"2558,4"
+3891,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,236,Uruguay,4501,Maldonado,16/3/2018,"5736,12"
+4561,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,16,Australia,132,New South Wales,6/4/2018,"3188,64"
+4714,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,4,Alemania,811,Nordrhein-Westfalen,11/4/2018,"2632,23"
+4532,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1190,115,Japon,1957,Tokyo [Tokyo],5/4/2018,"1624,5"
+1701,14,Córdoba,Cordoba,5000,236,Uruguay,4496,Colonia,12/1/2018,"1959,75"
+3690,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],9/3/2018,13584
+5026,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],19/4/2018,6600
+4983,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1417,59,Costa Rica,736,Alajuela,18/4/2018,3150
+3876,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1295,236,Uruguay,4502,Montevideo,15/3/2018,"859,8"
+3872,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,185,Reino Unido,1351,Oxfordshire,15/3/2018,1526
+5209,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,185,Reino Unido,1422,West Sussex,26/4/2018,"1138,94"
+4021,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1135,111,Islandia,1801,Hofuðborgarsvæði utan Reykjavikur,20/3/2018,3900
+4310,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1231,74,Estados Unidos,4441,California,28/3/2018,2880
+5088,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1231,74,Estados Unidos,4473,New York,20/4/2018,2400
+4692,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,33,Brasil,454,Sao Paulo,11/4/2018,6300
+5881,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,14/5/2018,"13728,4"
+6941,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1102,74,Estados Unidos,4441,California,6/6/2018,"7680,4"
+6240,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4446,Florida,22/5/2018,"1934,96"
+5994,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,106,India,1735,Maharashtra,17/5/2018,2568
+5644,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4441,California,8/5/2018,"3396,42"
+7105,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,171,Paises Bajos,3080,Overijssel,11/6/2018,1760
+5932,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,74,Estados Unidos,4446,Florida,16/5/2018,13357
+5467,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4447,Georgia,3/5/2018,10290
+5640,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4446,Florida,8/5/2018,6500
+1690,14,Córdoba,Villa Maria,5900,47,Chile,656,Region Metropolitana de Santiago,12/1/2018,1130
+7084,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,115,Japon,1955,Saitama,8/6/2018,"3164,8"
+5918,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],15/5/2018,14996
+6103,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],18/5/2018,8336
+1371,14,Córdoba,General Cabrera,5809,171,Paises Bajos,3078,Noord-Brabant,2/1/2018,"1200,08"
+7146,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],11/6/2018,13776
+6334,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,51,Colombia,704,Antioquia,24/5/2018,5645
+5934,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1295,236,Uruguay,4502,Montevideo,17/5/2018,861
+5451,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,74,Estados Unidos,4441,California,3/5/2018,"2136,56"
+6157,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,185,Reino Unido,1422,West Sussex,21/5/2018,2131
+6413,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,185,Reino Unido,1422,West Sussex,28/5/2018,2428
+6321,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1231,74,Estados Unidos,4441,California,24/5/2018,1560
+5266,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4461,Minnesota,26/4/2018,"662,95"
+5639,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,82,Francia,1194,Hauts-de-Seine,8/5/2018,"239,56"
+6205,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4488,Vermont,22/5/2018,"486,8"
+5611,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,51,Colombia,707,Bolivar,9/5/2018,2023
+5600,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,74,Estados Unidos,4473,New York,7/5/2018,7262
+5691,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,47,Chile,656,Region Metropolitana de Santiago,9/5/2018,3783
+5972,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1072,4,Alemania,803,Berlin,17/5/2018,1370
+6051,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1067,74,Estados Unidos,4465,Montana,18/5/2018,2000
+1687,18,Corrientes,Mercedes,3470,185,Reino Unido,1263,Dorset,11/1/2018,"3116,4"
+6641,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,29,Bolivia,424,Santa Cruz,31/5/2018,"1600,1"
+8097,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,82,Francia,1120,Correze,3/7/2018,"10041,04"
+5030,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,227,Trinidad y Tobago,4225,San Fernando,20/4/2018,12800
+5928,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,82,Francia,1132,Gard,16/5/2018,"1150,6"
+7028,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4483,Texas,7/6/2018,"184,9"
+4954,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1424,16,Australia,134,Queensland,18/4/2018,"769,2"
+4144,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4483,Texas,23/3/2018,10075
+4193,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4460,Michigan,26/3/2018,5250
+7208,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4441,California,12/6/2018,"4160,77"
+5756,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,113,Italia,1862,Milano,10/5/2018,4120
+7162,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,74,Estados Unidos,4441,California,12/6/2018,"1904,15"
+6806,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4443,Connecticut,4/6/2018,3200
+7001,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4443,Connecticut,7/6/2018,8000
+6835,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4473,New York,5/6/2018,8000
+6942,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4446,Florida,6/6/2018,5900
+7151,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4441,California,11/6/2018,6700
+7934,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4443,Connecticut,28/6/2018,9600
+7260,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4473,New York,13/6/2018,5500
+7624,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4473,New York,21/6/2018,8000
+7226,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,149,Mexico,2951,Mexico,13/6/2018,12165
+6333,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1407,74,Estados Unidos,4446,Florida,24/5/2018,1765
+5861,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1292,67,El Salvador,3952,La Libertad,14/5/2018,"5080,92"
+6812,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,4,Alemania,811,Nordrhein-Westfalen,4/6/2018,1520
+7182,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1315,Leicestershire,12/6/2018,"6792,32"
+4551,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,29,Bolivia,424,Santa Cruz,10/4/2018,"974,66"
+4587,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,29,Bolivia,418,Cochabamba,10/4/2018,"717,04"
+5789,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,67,El Salvador,3952,La Libertad,14/5/2018,"1565,4"
+2591,14,Córdoba,Cordoba,5009,177,Paraguay,3381,Central,6/2/2018,1665
+6416,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,29,Bolivia,418,Cochabamba,30/5/2018,"420,82"
+4150,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,72,España,1028,Madrid,23/3/2018,4290
+4266,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4441,California,28/3/2018,2985
+4679,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4437,Alabama,10/4/2018,"1130,5"
+5243,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4446,Florida,25/4/2018,3112
+6935,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4489,Washington,6/6/2018,1755
+8220,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1258,47,Chile,656,Region Metropolitana de Santiago,5/7/2018,2450
+4119,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1258,47,Chile,656,Region Metropolitana de Santiago,22/3/2018,1470
+5103,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1258,64,Republica Dominicana,870,Santo Domingo,20/4/2018,1812
+6203,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1424,49,Chipre,782,Lefkosia,22/5/2018,"1125,38"
+7282,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1215,74,Estados Unidos,4470,New Jersey,14/6/2018,10016
+5137,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,236,Uruguay,4502,Montevideo,14/5/2018,4852
+5488,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4473,New York,4/5/2018,1158
+6427,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,233,Ucrania,4300,Kyiv,28/5/2018,380
+6608,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4489,Washington,30/5/2018,160
+7078,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4485,Utah,8/6/2018,290
+7057,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1056,65,Ecuador,942,Pichincha,8/6/2018,"5772,5"
+5850,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,14/5/2018,"7153,71"
+5874,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,74,Estados Unidos,4441,California,14/5/2018,"7670,31"
+5844,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,113,Italia,1891,Roma,14/5/2018,"5224,48"
+5852,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,29,Bolivia,420,La Paz,14/5/2018,3450
+6239,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,22/5/2018,"1688,88"
+8520,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,68,Emiratos arabes Unidos,10,Dubayy [Dubai],12/7/2018,4701
+5940,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,74,Estados Unidos,4483,Texas,16/5/2018,"4441,45"
+6547,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,74,Estados Unidos,4483,Texas,31/5/2018,3700
+5996,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,74,Estados Unidos,4473,New York,17/5/2018,2600
+7058,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1184,178,Peru,3188,Lima,8/6/2018,5700
+7441,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,18/6/2018,3399
+6171,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,21/5/2018,"3847,5"
+5980,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,17/5/2018,6886
+7320,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,14/6/2018,9826
+6263,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4483,Texas,23/5/2018,4800
+5570,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4485,Utah,7/5/2018,4032
+5787,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4456,Louisiana,11/5/2018,4028
+7503,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1185,51,Colombia,717,Distrito Capital de Bogota,19/6/2018,"12650,02"
+7128,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1408,47,Chile,656,Region Metropolitana de Santiago,11/6/2018,600
+7490,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4446,Florida,19/6/2018,12000
+7993,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1289,74,Estados Unidos,4447,Georgia,29/6/2018,13000
+5863,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1292,67,El Salvador,3952,La Libertad,14/5/2018,"4074,84"
+6782,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1292,94,Guatemala,1522,Guatemala,4/6/2018,"2151,9"
+6219,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1135,113,Italia,1876,Pescara,22/5/2018,11000
+4096,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1201,51,Colombia,717,Distrito Capital de Bogota,22/3/2018,"194,85"
+6634,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,47,Chile,656,Region Metropolitana de Santiago,31/5/2018,3600
+4154,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1417,115,Japon,1957,Tokyo [Tokyo],23/3/2018,2592
+6564,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,48,China,687,Guangdong,30/5/2018,2610
+7239,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4482,Tennessee,13/6/2018,1750
+7540,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1231,74,Estados Unidos,4441,California,19/6/2018,3100
+6412,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1015,115,Japon,1957,Tokyo [Tokyo],28/5/2018,880
+7129,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,11/6/2018,180
+7131,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4477,Pennsylvania,11/6/2018,200
+6425,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4468,Nebraska,28/5/2018,150
+6991,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,233,Ucrania,4300,Kyiv,7/6/2018,120
+6429,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4477,Pennsylvania,28/5/2018,115
+6527,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1251,Coventry,29/5/2018,69
+6530,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,171,Paises Bajos,3078,Noord-Brabant,29/5/2018,100
+6532,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,29/5/2018,180
+6534,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4489,Washington,29/5/2018,110
+6586,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4442,Colorado,30/5/2018,180
+6615,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,30/5/2018,180
+7527,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,19/6/2018,99
+6649,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4470,New Jersey,31/5/2018,95
+6650,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4470,New Jersey,31/5/2018,180
+6741,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,1/6/2018,130
+6743,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,233,Ucrania,4294,Dnipropetrovska oblast,1/6/2018,351
+6745,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,536,Alberta,1/6/2018,124
+2561,82,Santa Fe,Esperanza,3080,51,Colombia,716,Cundinamarca,6/2/2018,2955
+6746,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4482,Tennessee,1/6/2018,69
+6747,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4466,North Carolina,1/6/2018,199
+6748,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,1/6/2018,140
+6802,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4460,Michigan,4/6/2018,75
+6852,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4485,Utah,5/6/2018,215
+6855,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4442,Colorado,5/6/2018,199
+2924,14,Córdoba,Rio Tercero,5850,29,Bolivia,420,La Paz,19/2/2018,150
+6856,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4482,Tennessee,5/6/2018,219
+6931,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,6/6/2018,150
+6933,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4453,Indiana,6/6/2018,190
+6990,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4483,Texas,7/6/2018,87
+7059,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,8/6/2018,110
+7060,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4473,New York,8/6/2018,210
+7083,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4466,North Carolina,8/6/2018,180
+7127,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4474,Ohio,11/6/2018,52
+7132,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4476,Oregon,11/6/2018,180
+7148,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,68,Emiratos arabes Unidos,10,Dubayy [Dubai],11/6/2018,180
+7472,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4477,Pennsylvania,18/6/2018,371
+6877,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4441,California,7/6/2018,"6190,85"
+6868,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,43,Canada,546,Quebec,5/6/2018,1650
+2551,26,Chubut,Esquel,9200,82,Francia,1161,Nord,6/2/2018,9600
+7444,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1237,178,Peru,3188,Lima,18/6/2018,1737
+8627,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,57,Corea del Sur,2115,Jeonrabugdo [Chollabuk-do],16/7/2018,"3487,7"
+6148,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,65,Ecuador,942,Pichincha,21/5/2018,"1743,93"
+5866,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,14/5/2018,1180
+2624,14,Córdoba,Cordoba,5008,68,Emiratos arabes Unidos,10,Dubayy [Dubai],8/2/2018,9450
+8269,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,6/7/2018,1790
+2840,82,Santa Fe,Santa Fe,3000,236,Uruguay,4502,Montevideo,21/2/2018,"3149,81"
+8698,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,17/7/2018,"1471,02"
+8575,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1217,185,Reino Unido,1363,Reading,13/7/2018,"10017,9"
+8141,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1430,109,Iraq,1753,Arbil,4/7/2018,1480
+3244,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1126,236,Uruguay,4502,Montevideo,26/2/2018,2714
+3116,14,Córdoba,Cordoba,5001,4,Alemania,808,Hamburg,22/2/2018,"10243,4"
+3142,82,Santa Fe,Rosario,2000,47,Chile,656,Region Metropolitana de Santiago,23/2/2018,400
+6865,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1054,115,Japon,1957,Tokyo [Tokyo],5/6/2018,4063
+3492,90,Tucumán,San Miguel de Tucumán,4000,74,Estados Unidos,4453,Indiana,5/3/2018,1850
+4126,82,Santa Fe,Las Parejas,2505,82,Francia,1134,Gers,22/3/2018,"1864,1"
+4099,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,22/3/2018,4116
+4061,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,21/3/2018,5616
+5933,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4476,Oregon,16/5/2018,"3310,4"
+4014,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4483,Texas,20/3/2018,10075
+7984,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,43,Canada,537,British Columbia,29/6/2018,"1037,5"
+3472,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,178,Peru,3184,Ica,2/3/2018,3800
+8165,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],4/7/2018,8176
+7907,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,72,España,1005,Barcelona [Barcelona],27/6/2018,14046
+3797,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1417,59,Costa Rica,736,Alajuela,14/3/2018,4860
+4049,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4457,Massachusetts,21/3/2018,"1270,75"
+8142,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,205,Singapur,3653,Central Singapore,6/7/2018,9152
+8279,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1425,74,Estados Unidos,4480,South Carolina,6/7/2018,"7676,6"
+7477,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4461,Minnesota,18/6/2018,150
+7483,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1310,Lancashire,18/6/2018,170
+7485,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4447,Georgia,18/6/2018,130
+7521,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4480,South Carolina,19/6/2018,145
+7525,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4474,Ohio,19/6/2018,291
+7528,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4454,Kansas,19/6/2018,210
+7548,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4473,New York,19/6/2018,"69,65"
+7556,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,19/6/2018,150
+7557,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4460,Michigan,19/6/2018,125
+7685,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4490,Wisconsin,22/6/2018,364
+7686,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,22/6/2018,159
+7687,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4489,Washington,22/6/2018,219
+7688,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,22/6/2018,180
+7690,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,171,Paises Bajos,3079,Noord-Holland,22/6/2018,180
+7691,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,76,Estonia,961,Parnumaa,22/6/2018,210
+7698,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4460,Michigan,22/6/2018,199
+7699,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,22/6/2018,199
+7776,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4485,Utah,25/6/2018,199
+7893,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4470,New Jersey,27/6/2018,210
+7894,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,94,Guatemala,1522,Guatemala,27/6/2018,315
+7938,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,536,Alberta,28/6/2018,135
+7949,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4477,Pennsylvania,28/6/2018,150
+7985,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4480,South Carolina,29/6/2018,395
+7986,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4457,Massachusetts,29/6/2018,155
+8147,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4476,Oregon,4/7/2018,175
+8150,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,4/7/2018,251
+6426,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4472,Nevada,28/5/2018,180
+6606,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4457,Massachusetts,30/5/2018,325
+6740,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4483,Texas,1/6/2018,220
+6800,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,4/6/2018,378
+7681,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,22/6/2018,270
+7484,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,18/6/2018,105
+7552,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4453,Indiana,19/6/2018,199
+7708,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,22/6/2018,274
+7555,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,167,Noruega,3086,Oslo,19/6/2018,171
+2824,82,Santa Fe,Rafaela,2300,236,Uruguay,4502,Montevideo,15/2/2018,"3863,98"
+7778,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,25/6/2018,275
+7887,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,105,Hungria,1634,Szeged,27/6/2018,194
+4730,14,Córdoba,Cordoba,5000,236,Uruguay,4496,Colonia,13/4/2018,"1025,46"
+7939,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,546,Quebec,28/6/2018,180
+7948,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,28/6/2018,90
+8531,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1037,51,Colombia,717,Distrito Capital de Bogota,12/7/2018,3396
+7672,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,149,Mexico,2941,Chihuahua,22/6/2018,1800
+8331,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,72,España,1028,Madrid,10/7/2018,3229
+8663,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1086,62,Dinamarca,825,Midtjylland,16/7/2018,4284
+8891,2,Ciudad Autónoma de Buenos Aires,Buenos Aires,1086,74,Estados Unidos,4441,California,20/7/2018,"2849,82"
+8889,2,Ciudad Autónoma de Buenos Aires,Buenos Aires,1086,74,Estados Unidos,4441,California,20/7/2018,"8613,2"
+4778,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,65,Ecuador,942,Pichincha,12/4/2018,"1817,36"
+9221,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,26/7/2018,2800
+8805,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,51,Colombia,717,Distrito Capital de Bogota,19/7/2018,"5411,42"
+7696,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1263,74,Estados Unidos,4483,Texas,22/6/2018,1400
+8896,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4446,Florida,20/7/2018,"4581,11"
+4979,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1013,74,Estados Unidos,4483,Texas,18/4/2018,4800
+8270,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1440,178,Peru,3188,Lima,6/7/2018,"1791,9"
+8241,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1437,82,Francia,1126,Drome,6/7/2018,7745
+5596,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1431,177,Paraguay,3396,Asuncion,9/5/2018,1018
+8904,2,Ciudad Autónoma de Buenos Aires,Buenos Aires,1426,178,Peru,3188,Lima,20/7/2018,2970
+8001,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,74,Estados Unidos,4446,Florida,29/6/2018,4500
+8245,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,72,España,1028,Madrid,6/7/2018,2720
+8277,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,74,Estados Unidos,4441,California,6/7/2018,4500
+7801,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4446,Florida,25/6/2018,"1642,5"
+9031,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1439,185,Reino Unido,1277,East Sussex,23/7/2018,1150
+9034,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1135,113,Italia,1876,Pescara,24/7/2018,10405
+3391,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1291,59,Costa Rica,736,Alajuela,2/3/2018,1944
+4633,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,183,Puerto Rico,4827,San Juan,9/4/2018,"1139,5"
+8929,2,Ciudad Autónoma de Buenos Aires,Buenos Aires,1414,72,España,1028,Madrid,20/7/2018,3302
+8508,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4457,Massachusetts,12/7/2018,1980
+9124,2,Ciudad Autónoma de Buenos Aires,Belgrano,1428,74,Estados Unidos,4473,New York,25/7/2018,"4557,5"
+4884,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1018,74,Estados Unidos,4446,Florida,16/4/2018,6390
+7609,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,74,Estados Unidos,4441,California,21/6/2018,1662
+8148,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4482,Tennessee,4/7/2018,150
+8151,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4451,Idaho,4/7/2018,220
+8250,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4458,Maryland,6/7/2018,390
+4857,14,Córdoba,Cordoba,5008,51,Colombia,733,Valle del Cauca,17/4/2018,1400
+8251,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,6/7/2018,150
+8253,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4473,New York,6/7/2018,125
+8258,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4452,Illinois,6/7/2018,180
+8259,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,113,Italia,1862,Milano,6/7/2018,295
+8262,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4490,Wisconsin,6/7/2018,199
+8689,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,17/7/2018,220
+8809,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,536,Alberta,19/7/2018,170
+7682,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4485,Utah,22/6/2018,210
+8069,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,536,Alberta,2/7/2018,124
+8153,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1061,74,Estados Unidos,4480,South Carolina,5/7/2018,2545
+3805,82,Santa Fe,Alvear,2130,106,India,1735,Maharashtra,14/3/2018,"7436,03"
+3818,82,Santa Fe,Alvear,2130,205,Singapur,3653,Central Singapore,14/3/2018,3304
+4917,82,Santa Fe,Alvear,2130,57,Corea del Sur,2111,Gyeonggido [Kyonggi-do],17/4/2018,"4935,74"
+8186,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,185,Reino Unido,1284,Gloucestershire,4/7/2018,2967
+8732,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1012,149,Mexico,2941,Chihuahua,18/7/2018,450
+4786,82,Santa Fe,Rosario,2000,177,Paraguay,3380,Alto Parana,12/4/2018,"599,94"
+8901,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,231,Turquia,4168,Istanbul,20/7/2018,"3587,5"
+8661,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1115,149,Mexico,2950,Jalisco,16/7/2018,9720
+8807,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4476,Oregon,19/7/2018,44
+8808,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4485,Utah,19/7/2018,145
+8815,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,19/7/2018,199
+8818,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4469,New Hampshire,19/7/2018,180
+8819,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4437,Alabama,19/7/2018,105
+8834,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4470,New Jersey,19/7/2018,125
+8835,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,185,Reino Unido,1335,Newcastle upon Tyne,19/7/2018,388
+8838,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4477,Pennsylvania,19/7/2018,150
+9000,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4470,New Jersey,23/7/2018,180
+9001,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4461,Minnesota,23/7/2018,140
+9002,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4489,Washington,23/7/2018,199
+9010,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4437,Alabama,23/7/2018,200
+4825,38,Jujuy,San Salvador de Jujuy,4600,74,Estados Unidos,4472,Nevada,13/4/2018,50
+9011,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,536,Alberta,23/7/2018,170
+9013,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,43,Canada,544,Ontario,23/7/2018,270
+5231,82,Santa Fe,Rosario,2000,33,Brasil,451,Rio Grande do Sul,25/4/2018,"10444,32"
+9196,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4454,Kansas,26/7/2018,230
+9199,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4441,California,26/7/2018,190
+9200,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4443,Connecticut,26/7/2018,270
+9202,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4458,Maryland,26/7/2018,200
+9256,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4474,Ohio,27/7/2018,145
+9260,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4489,Washington,27/7/2018,180
+9261,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4443,Connecticut,27/7/2018,160
+9262,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,74,Estados Unidos,4447,Georgia,27/7/2018,220
+9263,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,113,Italia,1886,Ravenna,27/7/2018,391
+9264,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,80,Finlandia,1081,Uusimaa,27/7/2018,69
+9254,2,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma de Buenos Aires,1414,149,Mexico,2943,Ciudad de Mexico,27/7/2018,190
+5,6,Buenos Aires,Vicente Lopez,1638,213,Suiza,609,Basel-Stadt (de),18/10/2017,1050
+110,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,10/11/2017,1802
+234,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4473,New York,29/11/2017,1491
+262,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4473,New York,1/12/2017,1759
+1068,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4476,Oregon,18/12/2017,273
+1182,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4452,Illinois,21/12/2017,425
+1213,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,22/12/2017,1600
+70,6,Buenos Aires,Avellaneda,1870,51,Colombia,704,Antioquia,1/11/2017,"3556,16"
+51,6,Buenos Aires,Don Torcuato,1611,24,Belgica,298,Limburg,27/10/2017,1220
+75,6,Buenos Aires,Don Torcuato,1611,24,Belgica,298,Limburg,2/11/2017,1750
+88,6,Buenos Aires,Don Torcuato,1611,24,Belgica,298,Limburg,8/11/2017,2040
+74,6,Buenos Aires,Don Torcuato,1611,4,Alemania,808,Hamburg,2/11/2017,1450
+108,6,Buenos Aires,Don Torcuato,1611,4,Alemania,811,Nordrhein-Westfalen,10/11/2017,1410
+122,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,14/11/2017,2020
+123,6,Buenos Aires,Don Torcuato,1611,149,Mexico,2951,Mexico,14/11/2017,1620
+153,6,Buenos Aires,Don Torcuato,1611,212,Suecia,3638,Jonkopings lan,22/11/2017,4050
+1174,6,Buenos Aires,Don Torcuato,1611,212,Suecia,3638,Jonkopings lan,21/12/2017,800
+156,6,Buenos Aires,Don Torcuato,1611,210,Sudafrica,4660,Eastern Cape,23/11/2017,1760
+267,6,Buenos Aires,Don Torcuato,1611,43,Canada,544,Ontario,1/12/2017,1600
+5048,82,Santa Fe,Rafaela,2300,236,Uruguay,4502,Montevideo,19/4/2018,"1697,68"
+387,6,Buenos Aires,Don Torcuato,1611,212,Suecia,3639,Kronoborgs lan,5/12/2017,6000
+630,6,Buenos Aires,Don Torcuato,1611,82,Francia,1151,Maine-et-Loire,7/12/2017,2700
+886,6,Buenos Aires,Don Torcuato,1611,82,Francia,1151,Maine-et-Loire,13/12/2017,900
+1148,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4443,Connecticut,20/12/2017,2000
+72,6,Buenos Aires,Mercedes,6600,47,Chile,656,Region Metropolitana de Santiago,1/11/2017,"1608,47"
+73,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,1/11/2017,1062
+685,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,11/12/2017,1295
+129,6,Buenos Aires,Villa Ballester,1653,94,Guatemala,1522,Guatemala,16/11/2017,1860
+186,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,942,Pichincha,24/11/2017,3690
+205,6,Buenos Aires,Villa Ballester,1653,94,Guatemala,1522,Guatemala,27/11/2017,1128
+254,6,Buenos Aires,Villa Ballester,1653,74,Estados Unidos,4446,Florida,30/11/2017,1425
+978,6,Buenos Aires,Villa Ballester,1653,47,Chile,657,Tarapaca,15/12/2017,"2683,2"
+1216,6,Buenos Aires,Villa Ballester,1653,29,Bolivia,424,Santa Cruz,22/12/2017,"2017,4"
+87,6,Buenos Aires,Temperley,1834,33,Brasil,439,Minas Gerais,7/11/2017,3840
+124,6,Buenos Aires,General Pacheco,1617,182,Portugal,3355,Porto,14/11/2017,850
+305,6,Buenos Aires,General Pacheco,1617,47,Chile,656,Region Metropolitana de Santiago,4/12/2017,8305
+131,6,Buenos Aires,Pacheco,1618,24,Belgica,295,"Bruxelles-Capitale, Region de",17/11/2017,6170
+6947,14,Córdoba,San Francisco,2400,4,Alemania,804,Baden-Wurttemberg,6/6/2018,"3242,3"
+248,6,Buenos Aires,Haedo,1706,236,Uruguay,4502,Montevideo,30/11/2017,516
+278,6,Buenos Aires,Avellaneda,1870,236,Uruguay,4508,San Jose,1/12/2017,"1754,97"
+266,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,1/12/2017,"1355,22"
+1008,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,15/12/2017,"1355,22"
+702,6,Buenos Aires,Mar del Plata,7600,178,Peru,3188,Lima,11/12/2017,2520
+333,6,Buenos Aires,Villa Ballester,1653,175,Panama,3169,Panama,4/12/2017,4307
+909,6,Buenos Aires,Pilar,1669,4,Alemania,805,Bayern,13/12/2017,10830
+1141,6,Buenos Aires,Caseros,1678,74,Estados Unidos,4470,New Jersey,20/12/2017,8020
+394,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),5/12/2017,2925
+1297,6,Buenos Aires,San Fernando,1646,29,Bolivia,418,Cochabamba,27/12/2017,1250
+641,6,Buenos Aires,La Plata,1900,47,Chile,656,Region Metropolitana de Santiago,7/12/2017,378
+572,6,Buenos Aires,Beccar,1643,236,Uruguay,4502,Montevideo,6/12/2017,272
+762,6,Buenos Aires,Valentin Alsina,1822,72,España,1028,Madrid,19/12/2017,"100,29"
+6585,14,Córdoba,Cordoba,5008,51,Colombia,733,Valle del Cauca,30/5/2018,2176
+1057,6,Buenos Aires,Ramos Mejia,1704,149,Mexico,2951,Mexico,18/12/2017,550
+1001,6,Buenos Aires,Lanus,1824,47,Chile,656,Region Metropolitana de Santiago,15/12/2017,4650
+5784,50,Mendoza,Guaymallen,5519,46,Republica Checa,792,Karlovarsky kraj,11/5/2018,"5273,3"
+6324,50,Mendoza,Guaymallen,5519,167,Noruega,3086,Oslo,24/5/2018,"3874,1"
+788,6,Buenos Aires,Sarandi,1872,177,Paraguay,3396,Asuncion,12/12/2017,1176
+797,6,Buenos Aires,Martinez,1640,47,Chile,656,Region Metropolitana de Santiago,12/12/2017,1220
+860,6,Buenos Aires,R.Mejia,1704,29,Bolivia,418,Cochabamba,13/12/2017,1040
+1180,6,Buenos Aires,Ciudad Autónoma de Buenos Aires,1428,74,Estados Unidos,4441,California,21/12/2017,13061
+916,6,Buenos Aires,Saladillo,7260,16,Australia,132,New South Wales,14/12/2017,2500
+1193,6,Buenos Aires,General Las Heras,1741,43,Canada,546,Quebec,22/12/2017,718
+1255,6,Buenos Aires,Villa Lynch,1672,47,Chile,656,Region Metropolitana de Santiago,26/12/2017,"5971,48"
+1089,6,Buenos Aires,La Plata,1900,115,Japon,1957,Tokyo [Tokyo],19/12/2017,1360
+1143,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,20/12/2017,1070
+5573,82,Santa Fe,Alvear,2130,94,Guatemala,1532,Sacatepequez,7/5/2018,"1637,4"
+1204,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,22/12/2017,1330
+1567,6,Buenos Aires,Villa Ballester,1653,236,Uruguay,4502,Montevideo,10/1/2018,"1286,25"
+6114,82,Santa Fe,Rosario,2000,177,Paraguay,3380,Alto Parana,18/5/2018,"599,94"
+1286,6,Buenos Aires,Caseros,1678,47,Chile,656,Region Metropolitana de Santiago,27/12/2017,"2071,22"
+1457,6,Buenos Aires,Caseros,1678,47,Chile,656,Region Metropolitana de Santiago,4/1/2018,"738,25"
+1272,6,Buenos Aires,Martinez,1640,74,Estados Unidos,4474,Ohio,27/12/2017,"4319,7"
+1752,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1914,Vicenza,16/1/2018,945
+1784,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,17/1/2018,466
+1932,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4477,Pennsylvania,23/1/2018,57
+1933,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,23/1/2018,372
+6785,14,Córdoba,Villa Maria,5900,162,Nicaragua,3066,Managua,4/6/2018,2295
+2135,6,Buenos Aires,Vicente Lopez,1638,34,Brunei,414,Brunei-Muara,25/1/2018,1200
+2518,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4489,Washington,5/2/2018,1950
+1825,6,Buenos Aires,Mar del Plata,7600,47,Chile,649,Biobio,18/1/2018,"1523,57"
+1436,6,Buenos Aires,Avellaneda,1870,175,Panama,3169,Panama,4/1/2018,"1832,14"
+1587,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,10/1/2018,"1285,5"
+2288,6,Buenos Aires,Villa Ballester,1653,29,Bolivia,424,Santa Cruz,30/1/2018,730
+2379,6,Buenos Aires,General Pacheco,1617,182,Portugal,3355,Porto,1/2/2018,7275
+1787,6,Buenos Aires,General Pacheco,1617,104,Hong Kong,4748,Tsuen Wan,17/1/2018,1180
+605,6,Buenos Aires,Florida Oeste,1604,72,España,1005,Barcelona [Barcelona],7/12/2017,"5269,13"
+298,6,Buenos Aires,Munro,1605,47,Chile,656,Region Metropolitana de Santiago,4/12/2017,2475
+1801,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,17/1/2018,"5314,56"
+1882,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,22/1/2018,"802,37"
+2259,6,Buenos Aires,Vicente Lopez,1603,171,Paises Bajos,3078,Noord-Brabant,29/1/2018,"5429,85"
+543,6,Buenos Aires,Mar del Plata,7600,65,Ecuador,942,Pichincha,6/12/2017,5615
+5452,82,Santa Fe,Rosario,2000,74,Estados Unidos,4441,California,3/5/2018,12800
+5591,82,Santa Fe,Rosario,2000,74,Estados Unidos,4441,California,7/5/2018,3200
+5494,82,Santa Fe,Santa Fe,3000,74,Estados Unidos,4446,Florida,4/5/2018,"4493,27"
+1504,6,Buenos Aires,Don Torcuato,1611,47,Chile,656,Region Metropolitana de Santiago,8/1/2018,712
+1338,6,Buenos Aires,Pilar,1629,122,Kuwait,2125,Al Asimah,2/1/2018,1000
+6049,14,Córdoba,Cordoba,5009,47,Chile,649,Biobio,18/5/2018,3800
+2300,6,Buenos Aires,Quilmes,1878,74,Estados Unidos,4457,Massachusetts,31/1/2018,1950
+6155,14,Córdoba,Cordoba,5014,94,Guatemala,1522,Guatemala,22/5/2018,900
+2423,6,Buenos Aires,Junin,6000,236,Uruguay,4503,Paysandu,2/2/2018,144
+1569,6,Buenos Aires,Burzaco,1852,236,Uruguay,4502,Montevideo,11/1/2018,693
+1348,6,Buenos Aires,San Martin,1650,236,Uruguay,4502,Montevideo,2/1/2018,"1003,04"
+6289,30,Entre Ríos,Urdinarrain,2826,33,Brasil,454,Sao Paulo,24/5/2018,401
+1482,6,Buenos Aires,San Martin,1650,47,Chile,654,Magallanes,5/1/2018,"5857,5"
+1938,6,Buenos Aires,Sarandi,1872,178,Peru,3188,Lima,23/1/2018,"3546,6"
+2133,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,29/1/2018,560
+2367,6,Buenos Aires,Villa Ballester,1653,236,Uruguay,4502,Montevideo,1/2/2018,4260
+1978,6,Buenos Aires,Villa Ballester,1653,177,Paraguay,3396,Asuncion,24/1/2018,"1682,4"
+2144,6,Buenos Aires,Villa Martelli,1429,29,Bolivia,424,Santa Cruz,25/1/2018,"3631,95"
+1822,6,Buenos Aires,Villa Lynch,1672,74,Estados Unidos,4483,Texas,18/1/2018,12564
+1084,6,Buenos Aires,Avellaneda,1870,72,España,1048,Valencia / Valencia,19/12/2017,"1774,32"
+1480,6,Buenos Aires,Avellaneda,1870,47,Chile,656,Region Metropolitana de Santiago,5/1/2018,"3445,08"
+1818,6,Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,94,Guatemala,1522,Guatemala,18/1/2018,"1952,4"
+1530,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,8/1/2018,3576
+1749,6,Buenos Aires,Berisso,1923,49,Chipre,783,Lemesos,16/1/2018,716
+1751,6,Buenos Aires,Berisso,1923,167,Noruega,3095,Hordaland,16/1/2018,1392
+2245,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,29/1/2018,1100
+2763,6,Buenos Aires,Caseros,1678,47,Chile,656,Region Metropolitana de Santiago,14/2/2018,"3096,3"
+1496,6,Buenos Aires,Munro,1605,64,Republica Dominicana,839,Distrito Nacional (Santo Domingo),6/1/2018,"50,9"
+1939,6,Buenos Aires,Ing Pablo Nogues,1616,177,Paraguay,3381,Central,23/1/2018,2342
+2372,6,Buenos Aires,San Justo,1754,177,Paraguay,3396,Asuncion,1/2/2018,2475
+2371,6,Buenos Aires,General San Martin,1650,103,Honduras,1565,Francisco Morazan,1/2/2018,1030
+2139,6,Buenos Aires,Lomas de Zamora,1832,171,Paises Bajos,3077,Limburg,25/1/2018,"3169,32"
+1603,6,Buenos Aires,Martinez,1640,74,Estados Unidos,4466,North Carolina,10/1/2018,"9311,22"
+2415,6,Buenos Aires,Martinez,1640,74,Estados Unidos,4466,North Carolina,2/2/2018,"4282,68"
+1643,6,Buenos Aires,Sarandi,1872,65,Ecuador,942,Pichincha,11/1/2018,3
+1824,6,Buenos Aires,Lomas de Zamora,1832,47,Chile,656,Region Metropolitana de Santiago,18/1/2018,6462
+2251,6,Buenos Aires,Zona de Promocion El Triangulo,1667,149,Mexico,2943,Ciudad de Mexico,29/1/2018,672
+1823,6,Buenos Aires,Buenos Aires,1885,29,Bolivia,424,Santa Cruz,18/1/2018,8
+2338,6,Buenos Aires,Buenos Aires,1885,29,Bolivia,424,Santa Cruz,31/1/2018,8
+1959,6,Buenos Aires,Florida,1604,33,Brasil,446,Parana,24/1/2018,2940
+2311,6,Buenos Aires,Lanus,1824,178,Peru,3188,Lima,1/2/2018,"2669,35"
+2160,6,Buenos Aires,Ramos Mejia,1704,178,Peru,3188,Lima,26/1/2018,5150
+2359,6,Buenos Aires,Ing Pablo Nogues,1613,149,Mexico,2943,Ciudad de Mexico,2/2/2018,1504
+2260,6,Buenos Aires,San Isidro,1642,74,Estados Unidos,4446,Florida,30/1/2018,"4464,2"
+2866,6,Buenos Aires,Beccar,1643,178,Peru,3188,Lima,15/2/2018,"3891,3"
+2706,6,Buenos Aires,San Martin,1650,47,Chile,654,Magallanes,19/2/2018,"2818,35"
+2578,6,Buenos Aires,Vicente Lopez,1638,16,Australia,132,New South Wales,6/2/2018,304
+2580,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4473,New York,6/2/2018,2700
+2615,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,807,Hessen,7/2/2018,200
+2661,6,Buenos Aires,Vicente Lopez,1638,16,Australia,132,New South Wales,8/2/2018,126
+2663,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,8/2/2018,316
+3147,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,23/2/2018,470
+3149,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1911,Verbano-Cusio-Ossola,23/2/2018,500
+3333,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1911,Verbano-Cusio-Ossola,28/2/2018,200
+3367,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,813,Schleswig-Holstein,1/3/2018,240
+3357,6,Buenos Aires,Mar del Plata,7600,65,Ecuador,935,Guayas,1/3/2018,"1239,86"
+2520,6,Buenos Aires,Mar del Plata,7600,47,Chile,656,Region Metropolitana de Santiago,5/2/2018,"3037,18"
+3101,6,Buenos Aires,Avellaneda,1870,94,Guatemala,1522,Guatemala,22/2/2018,"3565,92"
+5074,14,Córdoba,Villa Maria,5900,178,Peru,3177,Arequipa,20/4/2018,834
+3410,6,Buenos Aires,Don Torcuato,1611,210,Sudafrica,4660,Eastern Cape,2/3/2018,4970
+3139,6,Buenos Aires,Mercedes,6600,177,Paraguay,3396,Asuncion,23/2/2018,"1276,45"
+2772,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,14/2/2018,"1180,5"
+2436,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,2/2/2018,2860
+3242,6,Buenos Aires,Villa Ballester,1653,162,Nicaragua,3064,Leon,26/2/2018,835
+3386,6,Buenos Aires,Mar del Plata,7600,103,Honduras,1565,Francisco Morazan,1/3/2018,6250
+3016,6,Buenos Aires,General Pacheco,1617,182,Portugal,3355,Porto,20/2/2018,6435
+3017,6,Buenos Aires,General Pacheco,1617,182,Portugal,3355,Porto,20/2/2018,9500
+3115,6,Buenos Aires,General Pacheco,1617,47,Chile,656,Region Metropolitana de Santiago,22/2/2018,"7474,5"
+3082,6,Buenos Aires,Pacheco,1618,171,Paises Bajos,3076,Groningen,21/2/2018,5450
+3287,6,Buenos Aires,Haedo,1706,236,Uruguay,4502,Montevideo,27/2/2018,688
+3833,6,Buenos Aires,Munro,1605,47,Chile,656,Region Metropolitana de Santiago,14/3/2018,3156
+2750,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,14/2/2018,"1355,22"
+3469,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,2/3/2018,"3599,4"
+3731,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,12/3/2018,"2527,27"
+1827,6,Buenos Aires,Pilar,1669,228,Tunez,4109,La Manouba,18/1/2018,6800
+3338,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),28/2/2018,5400
+3868,6,Buenos Aires,Don Torcuato,1611,47,Chile,656,Region Metropolitana de Santiago,15/3/2018,"1402,52"
+3771,6,Buenos Aires,Lomas del Mirador,1752,74,Estados Unidos,4441,California,13/3/2018,4156
+2531,6,Buenos Aires,Wilde,1875,178,Peru,3188,Lima,5/2/2018,"1530,6"
+3085,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,26/2/2018,5360
+3759,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,13/3/2018,6685
+3442,6,Buenos Aires,Saladillo,7260,16,Australia,133,Northern Territory,2/3/2018,"2856,6"
+2529,6,Buenos Aires,Villa Martelli,1429,178,Peru,3188,Lima,5/2/2018,"1359,05"
+2421,6,Buenos Aires,Mar del Plata,7600,35,Bulgaria,373,Sofia,2/2/2018,"1770,47"
+2459,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,2/2/2018,1680
+3638,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,8/3/2018,"9560,4"
+2397,6,Buenos Aires,Bernal Oeste,1876,177,Paraguay,3396,Asuncion,1/2/2018,2340
+2896,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,16/2/2018,1916
+3105,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,22/2/2018,1920
+3544,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,6/3/2018,1905
+6646,14,Córdoba,Cordoba,5001,113,Italia,1881,Parma,31/5/2018,565
+4974,14,Córdoba,Almafuerte,5854,72,España,1009,A Coruña [La Coruña],18/4/2018,1640
+6610,50,Mendoza,Guaymallen,5519,113,Italia,1913,Venezia,30/5/2018,"173,72"
+6925,50,Mendoza,Guaymallen,5519,74,Estados Unidos,4462,Missouri,6/6/2018,"2618,14"
+7827,50,Mendoza,Guaymallen,5519,74,Estados Unidos,4462,Missouri,26/6/2018,"1546,21"
+2905,6,Buenos Aires,Berisso,1923,185,Reino Unido,1422,West Sussex,16/2/2018,1790
+2246,6,Buenos Aires,Ciudadela,1702,139,Malta,2797,Birzebbuga,29/1/2018,1326
+2340,6,Buenos Aires,Villa Martelli,1603,90,Grecia,1512,Attiki,31/1/2018,1465
+3236,6,Buenos Aires,Martinez,1640,74,Estados Unidos,4466,North Carolina,26/2/2018,"11476,62"
+3545,6,Buenos Aires,Mar del Plata,7600,4,Alemania,806,Bremen,6/3/2018,3011
+3541,6,Buenos Aires,Mar del Plata,7600,183,Puerto Rico,4827,San Juan,7/3/2018,"7565,2"
+3140,6,Buenos Aires,San Isidro,1642,43,Canada,546,Quebec,23/2/2018,3920
+3699,6,Buenos Aires,San Isidro,1642,104,Hong Kong,4701,Hong Kong,9/3/2018,3000
+3995,6,Buenos Aires,Berazategui,1885,185,Reino Unido,1209,Aberdeen City,20/3/2018,1715
+3084,6,Buenos Aires,San Martin,1650,185,Reino Unido,1422,West Sussex,21/2/2018,1968
+4095,6,Buenos Aires,San Martin,1650,72,España,1040,Sevilla,22/3/2018,"1074,6"
+3349,6,Buenos Aires,Burzaco,1852,29,Bolivia,424,Santa Cruz,28/2/2018,1820
+2954,6,Buenos Aires,Beccar,1643,236,Uruguay,4502,Montevideo,19/2/2018,"5505,53"
+3029,6,Buenos Aires,Beccar,1643,177,Paraguay,3396,Asuncion,21/2/2018,2380
+4215,82,Santa Fe,Santa Fe,3000,149,Mexico,2941,Chihuahua,11/4/2018,3000
+2941,6,Buenos Aires,Beccar,1643,65,Ecuador,935,Guayas,19/2/2018,12765
+2908,6,Buenos Aires,Platanos,1885,177,Paraguay,3396,Asuncion,16/2/2018,100
+3779,6,Buenos Aires,Quilmes,1876,67,El Salvador,3958,San Salvador,13/3/2018,3264
+7014,14,Córdoba,San Francisco,2400,33,Brasil,440,Mato Grosso do Sul,7/6/2018,595
+2836,6,Buenos Aires,Villa Martelli,1603,29,Bolivia,418,Cochabamba,15/2/2018,"1771,01"
+3335,6,Buenos Aires,Berazategui,1893,65,Ecuador,935,Guayas,28/2/2018,349
+3640,6,Buenos Aires,Escobar,1625,33,Brasil,451,Rio Grande do Sul,8/3/2018,340
+3727,6,Buenos Aires,Florida,1602,178,Peru,3188,Lima,12/3/2018,4200
+5412,6,Buenos Aires,Don Torcuato,1611,24,Belgica,298,Limburg,2/5/2018,5430
+4995,6,Buenos Aires,Don Torcuato,1611,4,Alemania,811,Nordrhein-Westfalen,18/4/2018,3200
+5447,6,Buenos Aires,Don Torcuato,1611,149,Mexico,2951,Mexico,3/5/2018,11090
+5292,82,Santa Fe,Rosario,2000,236,Uruguay,4502,Montevideo,27/4/2018,2232
+4458,6,Buenos Aires,Don Torcuato,1611,212,Suecia,3639,Kronoborgs lan,4/4/2018,3350
+5911,50,Mendoza,Chacras de Coria,5505,74,Estados Unidos,4490,Wisconsin,21/5/2018,1800
+4462,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4441,California,4/4/2018,3910
+4552,6,Buenos Aires,Don Torcuato,1611,57,Corea del Sur,2106,Daegu Gwang'yeogsi [Taegu?Kwangyokshi],6/4/2018,5636
+5090,6,Buenos Aires,Don Torcuato,1611,171,Paises Bajos,3078,Noord-Brabant,20/4/2018,"3355,5"
+5237,6,Buenos Aires,Don Torcuato,1611,4,Alemania,810,Niedersachsen,25/4/2018,2210
+4777,6,Buenos Aires,Mercedes,6600,177,Paraguay,3396,Asuncion,12/4/2018,"2324,85"
+4584,6,Buenos Aires,Mercedes,6600,64,Republica Dominicana,870,Santo Domingo,6/4/2018,2915
+4729,6,Buenos Aires,Mercedes,6600,94,Guatemala,1522,Guatemala,11/4/2018,9870
+5154,6,Buenos Aires,Mercedes,6600,114,Jamaica,1919,Kingston,23/4/2018,"3325,29"
+5195,6,Buenos Aires,Mercedes,6600,47,Chile,656,Region Metropolitana de Santiago,24/4/2018,"3488,26"
+3834,6,Buenos Aires,Villa Ballester,1653,51,Colombia,733,Valle del Cauca,14/3/2018,1110
+3949,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,19/3/2018,1422
+5239,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,25/4/2018,"1595,5"
+4558,6,Buenos Aires,Villa Ballester,1653,94,Guatemala,1522,Guatemala,6/4/2018,935
+4755,6,Buenos Aires,Villa Ballester,1653,29,Bolivia,424,Santa Cruz,12/4/2018,"3280,8"
+4982,6,Buenos Aires,Villa Ballester,1653,47,Chile,653,Los Rios,18/4/2018,1876
+7034,14,Córdoba,Alta Gracia,5186,29,Bolivia,424,Santa Cruz,8/6/2018,8800
+4644,6,Buenos Aires,Temperley,1834,33,Brasil,439,Minas Gerais,10/4/2018,3840
+4143,6,Buenos Aires,Temperley,1834,110,Irlanda,1688,Dublin,23/3/2018,"3674,4"
+4483,6,Buenos Aires,Temperley,1834,236,Uruguay,4502,Montevideo,5/4/2018,"2032,2"
+5022,6,Buenos Aires,Temperley,1834,110,Irlanda,1686,Cork,19/4/2018,432
+4116,6,Buenos Aires,General Pacheco,1617,133,ARY Macedonia,2731,Skopje,22/3/2018,4910
+4960,6,Buenos Aires,General Pacheco,1617,72,España,1005,Barcelona [Barcelona],18/4/2018,9416
+5427,6,Buenos Aires,General Pacheco,1617,72,España,1005,Barcelona [Barcelona],2/5/2018,5859
+5126,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,23/4/2018,"3779,37"
+5893,14,Córdoba,Cordoba Capital,5004,59,Costa Rica,742,San Jose,15/5/2018,2780
+4197,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),26/3/2018,3600
+5174,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),24/4/2018,3600
+3630,6,Buenos Aires,Pilar,1629,74,Estados Unidos,4476,Oregon,8/3/2018,"3391,2"
+3767,6,Buenos Aires,Wilde,1875,236,Uruguay,4502,Montevideo,14/3/2018,"1122,8"
+4680,6,Buenos Aires,Beccar,1643,236,Uruguay,4502,Montevideo,13/4/2018,"127,5"
+4322,6,Buenos Aires,Quilmes,1878,29,Bolivia,418,Cochabamba,29/3/2018,"1890,13"
+4948,6,Buenos Aires,Ituzaingo,1714,33,Brasil,439,Minas Gerais,18/4/2018,"1197,6"
+5128,6,Buenos Aires,Ituzaingo,1714,167,Noruega,3086,Oslo,23/4/2018,"2045,8"
+4257,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,28/3/2018,3865
+4943,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,17/4/2018,5980
+5226,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,25/4/2018,2325
+5436,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,3/5/2018,1750
+5585,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,7/5/2018,9480
+5134,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4473,New York,23/4/2018,510
+5782,14,Córdoba,Villa Maria,5900,178,Peru,3177,Arequipa,11/5/2018,4734
+4565,6,Buenos Aires,Saladillo,7260,113,Italia,1816,Asti,6/4/2018,"564,96"
+5229,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,25/4/2018,1960
+4018,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,20/3/2018,2980
+4767,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,12/4/2018,3380
+4410,6,Buenos Aires,Berisso,1923,47,Chile,658,Valparaiso,3/4/2018,1490
+5220,6,Buenos Aires,Berisso,1923,185,Reino Unido,1406,West Dunbartonshire,25/4/2018,1610
+5318,6,Buenos Aires,La Plata,1900,29,Bolivia,420,La Paz,27/4/2018,8730
+4060,6,Buenos Aires,Victoria,1644,178,Peru,3188,Lima,21/3/2018,1050
+5353,6,Buenos Aires,Sarandi,1872,47,Chile,656,Region Metropolitana de Santiago,30/4/2018,"2,97"
+4647,6,Buenos Aires,La Reja,1744,240,Venezuela,4555,vargas,10/4/2018,"11064,2"
+4109,6,Buenos Aires,San Isidro,1642,213,Suiza,607,Bern (de),22/3/2018,"1077,5"
+4414,6,Buenos Aires,San Isidro,1642,47,Chile,656,Region Metropolitana de Santiago,3/4/2018,"1836,8"
+3879,6,Buenos Aires,Isidro Casanova,1765,74,Estados Unidos,4446,Florida,15/3/2018,9410
+4460,6,Buenos Aires,Villa Martelli,1603,178,Peru,3188,Lima,4/4/2018,"3865,25"
+3981,6,Buenos Aires,Villa Madero,1768,169,Nueva Zelanda,3133,Auckland,22/3/2018,3250
+4853,6,Buenos Aires,Escobar,1625,4,Alemania,811,Nordrhein-Westfalen,16/4/2018,211
+7757,50,Mendoza,Guaymallen,5519,105,Hungria,1611,Budapest,25/6/2018,"12193,74"
+7814,50,Mendoza,Guaymallen,5519,70,Eslovaquia,3880,Zilinsky kraj,26/6/2018,"2045,3"
+7937,50,Mendoza,Guaymallen,5519,57,Corea del Sur,2116,Jeonranamdo [Chollanam-do],28/6/2018,"4803,4"
+5507,6,Buenos Aires,Escobar,1625,4,Alemania,811,Nordrhein-Westfalen,4/5/2018,211
+4115,6,Buenos Aires,Florida,1602,47,Chile,656,Region Metropolitana de Santiago,22/3/2018,1100
+3724,6,Buenos Aires,Lujan,6700,65,Ecuador,947,Tungurahua,13/3/2018,"2474,6"
+3764,6,Buenos Aires,Haedo,1706,47,Chile,656,Region Metropolitana de Santiago,20/3/2018,6915
+4663,6,Buenos Aires,San Andres Pdo. de San Martin,1651,16,Australia,135,South Australia,10/4/2018,5990
+4919,6,Buenos Aires,San Andres Pdo. de San Martin,1651,185,Reino Unido,1341,North Somerset,17/4/2018,6840
+4166,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,23/3/2018,1680
+4237,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,27/3/2018,3844
+6687,14,Córdoba,Cordoba,5011,51,Colombia,733,Valle del Cauca,31/5/2018,2000
+4465,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,4/4/2018,2345
+4830,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,13/4/2018,3682
+5408,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,2/5/2018,3088
+5093,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,20/4/2018,4203
+5485,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,4/5/2018,6472
+5991,82,Santa Fe,Sunchales,2322,177,Paraguay,3381,Central,17/5/2018,"7702,4"
+4875,6,Buenos Aires,Florida Oeste,1604,149,Mexico,2951,Mexico,16/4/2018,"12059,4"
+5096,6,Buenos Aires,Florida Oeste,1604,149,Mexico,2951,Mexico,20/4/2018,"4272,59"
+5989,6,Buenos Aires,Don Torcuato,1611,4,Alemania,811,Nordrhein-Westfalen,17/5/2018,600
+6799,6,Buenos Aires,Don Torcuato,1611,82,Francia,1151,Maine-et-Loire,4/6/2018,2500
+5805,6,Buenos Aires,Don Torcuato,1611,169,Nueva Zelanda,3133,Auckland,11/5/2018,560
+5957,6,Buenos Aires,Don Torcuato,1611,167,Noruega,3085,Akershus,16/5/2018,14226
+6177,6,Buenos Aires,Don Torcuato,1611,4,Alemania,807,Hessen,21/5/2018,3658
+6186,6,Buenos Aires,Don Torcuato,1611,62,Dinamarca,827,Hovedstaden,21/5/2018,2618
+5499,6,Buenos Aires,Mercedes,6600,101,Haiti,1598,Centre,4/5/2018,"11754,32"
+5675,6,Buenos Aires,Mercedes,6600,47,Chile,656,Region Metropolitana de Santiago,9/5/2018,"2931,07"
+6150,6,Buenos Aires,Mercedes,6600,101,Haiti,1598,Centre,21/5/2018,"3168,02"
+5680,6,Buenos Aires,Mercedes,6600,89,Granada,1427,Saint George,9/5/2018,"5689,63"
+5816,6,Buenos Aires,Mercedes,6600,149,Mexico,2967,Yucatan,14/5/2018,"1492,85"
+5272,6,Buenos Aires,Villa Ballester,1653,149,Mexico,2943,Ciudad de Mexico,26/4/2018,1170
+5322,6,Buenos Aires,Villa Ballester,1653,29,Bolivia,418,Cochabamba,27/4/2018,1000
+5461,6,Buenos Aires,Villa Ballester,1653,51,Colombia,717,Distrito Capital de Bogota,3/5/2018,2070
+5955,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,16/5/2018,"1637,5"
+6584,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,30/5/2018,"1387,5"
+5578,6,Buenos Aires,Temperley,1834,67,El Salvador,3952,La Libertad,7/5/2018,780
+6695,6,Buenos Aires,Temperley,1834,236,Uruguay,4502,Montevideo,31/5/2018,6000
+6167,6,Buenos Aires,Temperley,1834,33,Brasil,454,Sao Paulo,21/5/2018,468
+5986,6,Buenos Aires,General Pacheco,1617,182,Portugal,3355,Porto,17/5/2018,14497
+6921,6,Buenos Aires,Pacheco,1618,24,Belgica,295,"Bruxelles-Capitale, Region de",6/6/2018,14200
+7006,6,Buenos Aires,Haedo,1706,236,Uruguay,4502,Montevideo,7/6/2018,860
+5899,6,Buenos Aires,Caseros,1678,74,Estados Unidos,4470,New Jersey,15/5/2018,1130
+6327,6,Buenos Aires,Caseros,1678,74,Estados Unidos,4473,New York,24/5/2018,13220
+5841,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),14/5/2018,2700
+6655,6,Buenos Aires,Hurlingham,1686,213,Suiza,626,Vaud (fr),31/5/2018,2700
+6732,6,Buenos Aires,Ramos Mejia,1704,72,España,1043,Gipuzkoa,1/6/2018,690
+5404,6,Buenos Aires,Ituzaingo,1714,205,Singapur,3654,North East,2/5/2018,"2158,05"
+6056,6,Buenos Aires,Ituzaingo,1714,115,Japon,1958,Kanagawa,18/5/2018,"3046,5"
+6191,6,Buenos Aires,Ciudadela,1702,74,Estados Unidos,4483,Texas,22/5/2018,3313
+5255,6,Buenos Aires,Beccar,1643,79,Filipinas,3222,National Capital Region (Manila),26/4/2018,760
+5862,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,14/5/2018,3340
+6589,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,30/5/2018,2530
+6858,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,5/6/2018,5280
+7123,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,11/6/2018,6190
+5700,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4441,California,9/5/2018,700
+6091,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4473,New York,18/5/2018,402
+6097,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4466,North Carolina,18/5/2018,1115
+6314,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4450,Iowa,24/5/2018,1590
+7362,82,Santa Fe,Venado Tuerto,2600,74,Estados Unidos,4446,Florida,22/6/2018,2380
+6402,6,Buenos Aires,Beccar,1643,90,Grecia,1516,Kriti,28/5/2018,220
+6519,6,Buenos Aires,Beccar,1643,72,España,1028,Madrid,29/5/2018,1600
+6526,6,Buenos Aires,Beccar,1643,205,Singapur,3655,North West,29/5/2018,780
+5620,6,Buenos Aires,Villa Lynch,1672,47,Chile,656,Region Metropolitana de Santiago,8/5/2018,"5569,36"
+5443,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,3/5/2018,4470
+5807,6,Buenos Aires,Berisso,1923,74,Estados Unidos,4473,New York,11/5/2018,2320
+6318,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,24/5/2018,2980
+6432,6,Buenos Aires,Berisso,1923,185,Reino Unido,1288,Hampshire,28/5/2018,1680
+5588,6,Buenos Aires,Victoria,1644,4,Alemania,806,Bremen,7/5/2018,7500
+5589,6,Buenos Aires,Victoria,1644,236,Uruguay,4502,Montevideo,7/5/2018,1500
+6752,6,Buenos Aires,Quilmes,1876,175,Panama,3169,Panama,1/6/2018,544
+5428,6,Buenos Aires,Villa Martelli,1603,178,Peru,3188,Lima,2/5/2018,"2463,6"
+5793,6,Buenos Aires,Mercedes,6600,177,Paraguay,3396,Asuncion,11/5/2018,8780
+6279,6,Buenos Aires,Escobar,1625,4,Alemania,811,Nordrhein-Westfalen,23/5/2018,1600
+5822,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,451,Rio Grande do Sul,11/5/2018,3200
+5926,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,451,Rio Grande do Sul,16/5/2018,1100
+6930,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,451,Rio Grande do Sul,6/6/2018,2695
+5831,6,Buenos Aires,Lujan,6700,236,Uruguay,4502,Montevideo,12/5/2018,1587
+6881,6,Buenos Aires,San Andres Pdo. de San Martin,1651,16,Australia,135,South Australia,5/6/2018,2830
+5725,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,9/5/2018,1650
+6405,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,28/5/2018,4118
+5808,6,Buenos Aires,Tigre,1648,72,España,1010,Cadiz,11/5/2018,1050
+6399,6,Buenos Aires,Tigre,1648,74,Estados Unidos,4446,Florida,28/5/2018,2023
+6282,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,23/5/2018,1524
+6511,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,29/5/2018,7332
+6617,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,30/5/2018,2836
+6731,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,1/6/2018,8976
+5948,6,Buenos Aires,Florida Oeste,1604,149,Mexico,2950,Jalisco,16/5/2018,"12578,2"
+6813,6,Buenos Aires,Florida Oeste,1604,149,Mexico,2950,Jalisco,4/6/2018,14926
+6675,6,Buenos Aires,San Fernando,1644,185,Reino Unido,1374,Sheffield,31/5/2018,"2325,2"
+6854,6,Buenos Aires,San Fernando,1644,188,Rumania,3407,Bucuresti,5/6/2018,"3429,58"
+5395,6,Buenos Aires,San Martin,1650,231,Turquia,4140,Ankara,2/5/2018,1700
+6401,6,Buenos Aires,Loma Hermosa,1657,162,Nicaragua,3066,Managua,28/5/2018,3260
+6173,6,Buenos Aires,Moron,1708,64,Republica Dominicana,839,Distrito Nacional (Santo Domingo),21/5/2018,190
+6270,6,Buenos Aires,Nordelta - Tigre,1670,170,Oman,3154,Masqat,23/5/2018,2275
+6337,6,Buenos Aires,San Fernando,1646,236,Uruguay,4504,Rio Negro,24/5/2018,3690
+4244,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1131,Haute-Corse,27/3/2018,250
+4245,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4446,Florida,27/3/2018,1300
+4451,6,Buenos Aires,Vicente Lopez,1638,16,Australia,134,Queensland,4/4/2018,250
+4567,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4446,Florida,6/4/2018,730
+4613,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1891,Roma,9/4/2018,200
+4648,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,10/4/2018,1785
+4666,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,804,Baden-Wurttemberg,10/4/2018,150
+5082,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,20/4/2018,2520
+5264,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1850,Imperia,26/4/2018,200
+5265,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1105,Alpes-de-Haute-Provence,26/4/2018,200
+5308,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1177,Paris,27/4/2018,300
+5418,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4476,Oregon,2/5/2018,39
+5872,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1102,Ain,14/5/2018,1100
+6164,6,Buenos Aires,Vicente Lopez,1638,16,Australia,137,Victoria,21/5/2018,200
+6658,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4482,Tennessee,31/5/2018,411
+6660,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,811,Nordrhein-Westfalen,31/5/2018,200
+7437,82,Santa Fe,Reconquista,3560,113,Italia,1904,Torino,18/6/2018,1745
+6839,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1177,Paris,5/6/2018,300
+7007,6,Buenos Aires,Don Torcuato,1611,16,Australia,132,New South Wales,7/6/2018,2102
+7124,6,Buenos Aires,Don Torcuato,1611,4,Alemania,810,Niedersachsen,11/6/2018,5340
+6659,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,31/5/2018,1495
+6730,6,Buenos Aires,Villa Ballester,1653,29,Bolivia,418,Cochabamba,1/6/2018,909
+6926,6,Buenos Aires,Pacheco,1618,171,Paises Bajos,3080,Overijssel,6/6/2018,3080
+7439,6,Buenos Aires,Haedo,1706,236,Uruguay,4502,Montevideo,18/6/2018,1530
+7180,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,12/6/2018,"3479,42"
+7179,6,Buenos Aires,Vicente Lopez,1603,171,Paises Bajos,3078,Noord-Brabant,12/6/2018,3480
+6170,6,Buenos Aires,Ciudad Autónoma de Buenos Aires,1427,74,Estados Unidos,4458,Maryland,22/5/2018,"409,08"
+8644,38,Jujuy,San Salvador de Jujuy,4600,74,Estados Unidos,4472,Nevada,16/7/2018,50
+7050,6,Buenos Aires,Quilmes,1878,172,Pakistan,3310,Sindh,8/6/2018,1348
+4319,6,Buenos Aires,Quilmes,1878,105,Hungria,1632,Pest,29/3/2018,"1091,18"
+8198,14,Córdoba,Cordoba,5014,47,Chile,656,Region Metropolitana de Santiago,5/7/2018,6750
+6832,6,Buenos Aires,Ituzaingo,1714,104,Hong Kong,4705,Kowloon,4/6/2018,"5090,8"
+8184,6,Buenos Aires,Martinez,1640,213,Suiza,619,Sankt Gallen (de),4/7/2018,1842
+6685,6,Buenos Aires,Sarandi,1872,51,Colombia,717,Distrito Capital de Bogota,31/5/2018,1978
+6862,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4480,South Carolina,5/6/2018,400
+7049,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4441,California,8/6/2018,3800
+7680,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,22/6/2018,2080
+4608,6,Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,47,Chile,656,Region Metropolitana de Santiago,9/4/2018,275
+5170,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,24/4/2018,"9753,6"
+4194,6,Buenos Aires,La Plata,1900,171,Paises Bajos,3083,Zuid-Holland,26/3/2018,"1850,4"
+6982,6,Buenos Aires,La Plata,1900,57,Corea del Sur,2115,Jeonrabugdo [Chollabuk-do],7/6/2018,"988,8"
+7047,6,Buenos Aires,La Plata,1900,82,Francia,1177,Paris,8/6/2018,"2873,6"
+7044,6,Buenos Aires,Berisso,1923,74,Estados Unidos,4483,Texas,8/6/2018,1744
+6987,6,Buenos Aires,Berisso,1923,74,Estados Unidos,4483,Texas,7/6/2018,1490
+7433,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,18/6/2018,1960
+7389,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,15/6/2018,1039
+4473,6,Buenos Aires,Florida,1602,240,Venezuela,4533,Distrito Capital,4/4/2018,"1418,29"
+4243,6,Buenos Aires,Caseros,1678,47,Chile,656,Region Metropolitana de Santiago,27/3/2018,795
+7383,6,Buenos Aires,Villa Martelli,1603,130,Lituania,2307,Vilnius,15/6/2018,4095
+6796,6,Buenos Aires,Sarandi,1872,65,Ecuador,929,Azuay,4/6/2018,81
+7719,6,Buenos Aires,San Isidro,1642,74,Estados Unidos,4446,Florida,22/6/2018,"5981,04"
+4317,6,Buenos Aires,Berazategui,1885,51,Colombia,729,Santander,29/3/2018,5280
+8355,6,Buenos Aires,San Martin,1650,185,Reino Unido,1422,West Sussex,10/7/2018,1698
+4505,6,Buenos Aires,Villa Martelli,1603,29,Bolivia,424,Santa Cruz,5/4/2018,"4196,85"
+7369,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,451,Rio Grande do Sul,15/6/2018,1650
+7117,6,Buenos Aires,Tigre,1648,185,Reino Unido,1351,Oxfordshire,11/6/2018,6543
+4407,6,Buenos Aires,Vicente Lopez,1638,51,Colombia,716,Cundinamarca,3/4/2018,"446,2"
+4311,6,Buenos Aires,Vicente Lopez,1638,51,Colombia,716,Cundinamarca,3/4/2018,"464,6"
+4616,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4452,Illinois,9/4/2018,3240
+5502,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4452,Illinois,4/5/2018,3140
+5033,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4452,Illinois,19/4/2018,2990
+6818,6,Buenos Aires,Florida Oeste,1604,149,Mexico,2951,Mexico,4/6/2018,2210
+6958,6,Buenos Aires,San Fernando,1644,105,Hungria,1611,Budapest,6/6/2018,"1481,79"
+6153,6,Buenos Aires,Lomas del Mirador,1752,74,Estados Unidos,4446,Florida,30/5/2018,4791
+6355,6,Buenos Aires,Olivos,1636,236,Uruguay,4502,Montevideo,24/5/2018,"4561,8"
+6162,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1862,Milano,21/5/2018,200
+6789,6,Buenos Aires,Vicente Lopez,1638,16,Australia,131,Australian Capital Territory,4/6/2018,200
+7448,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4446,Florida,18/6/2018,49
+8506,6,Buenos Aires,Mar del Plata,7600,47,Chile,656,Region Metropolitana de Santiago,12/7/2018,"3290,44"
+7510,6,Buenos Aires,Don Torcuato,1611,4,Alemania,811,Nordrhein-Westfalen,19/6/2018,6290
+8384,50,Mendoza,Chacras de Coria,5505,94,Guatemala,1522,Guatemala,12/7/2018,1434
+8440,14,Córdoba,Cordoba,1280,29,Bolivia,420,La Paz,11/7/2018,5860
+7305,6,Buenos Aires,Villa Ballester,1653,236,Uruguay,4507,Salto,14/6/2018,1933
+6808,6,Buenos Aires,Olivos,1636,74,Estados Unidos,4441,California,4/6/2018,"5619,18"
+7729,6,Buenos Aires,Ituzaingo,1714,74,Estados Unidos,4473,New York,23/6/2018,"3555,23"
+7385,6,Buenos Aires,Ituzaingo,1714,171,Paises Bajos,3078,Noord-Brabant,15/6/2018,"5174,77"
+7835,6,Buenos Aires,Martinez,1640,113,Italia,1862,Milano,26/6/2018,12821
+6268,6,Buenos Aires,Sarandi,1872,29,Bolivia,418,Cochabamba,23/5/2018,"2904,92"
+7570,14,Córdoba,Cordoba,5000,47,Chile,656,Region Metropolitana de Santiago,22/6/2018,70
+7235,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4441,California,13/6/2018,880
+7367,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4473,New York,15/6/2018,1700
+7188,6,Buenos Aires,La Plata,1900,47,Chile,649,Biobio,21/6/2018,650
+7429,6,Buenos Aires,La Plata,1900,115,Japon,1957,Tokyo [Tokyo],18/6/2018,"1038,8"
+7238,6,Buenos Aires,Quilmes,1878,47,Chile,656,Region Metropolitana de Santiago,13/6/2018,2432
+7314,6,Buenos Aires,Berazategui,1885,236,Uruguay,4502,Montevideo,14/6/2018,1221
+7224,6,Buenos Aires,Isidro Casanova,1765,74,Estados Unidos,4446,Florida,13/6/2018,14435
+7518,6,Buenos Aires,Isidro Casanova,1765,74,Estados Unidos,4446,Florida,21/6/2018,14885
+8054,6,Buenos Aires,Isidro Casanova,1765,74,Estados Unidos,4446,Florida,2/7/2018,14625
+7595,6,Buenos Aires,Platanos,1885,177,Paraguay,3396,Asuncion,20/6/2018,7350
+7631,6,Buenos Aires,Bahia Blanca,8000,72,España,1005,Barcelona [Barcelona],21/6/2018,1694
+8072,6,Buenos Aires,San Martin,1650,178,Peru,3188,Lima,2/7/2018,"350,3"
+7193,6,Buenos Aires,Haedo,1707,236,Uruguay,4502,Montevideo,13/6/2018,1271
+7694,6,Buenos Aires,Tigre,1648,171,Paises Bajos,3079,Noord-Holland,22/6/2018,976
+5748,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4452,Illinois,10/5/2018,7286
+7120,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,11/6/2018,6240
+7929,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,28/6/2018,2065
+6943,6,Buenos Aires,Don Torcuato,1611,16,Australia,132,New South Wales,6/6/2018,2720
+7880,6,Buenos Aires,Caseros,1678,51,Colombia,733,Valle del Cauca,27/6/2018,"1335,74"
+7597,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,446,Parana,21/6/2018,3650
+7045,6,Buenos Aires,Caseros,1678,47,Chile,656,Region Metropolitana de Santiago,8/6/2018,4200
+7194,6,Buenos Aires,El Palomar,1684,74,Estados Unidos,4461,Minnesota,12/6/2018,"6448,17"
+7307,6,Buenos Aires,Florida Oeste,1604,47,Chile,652,Los Lagos,14/6/2018,"3069,92"
+7388,6,Buenos Aires,Carapachay,1607,72,España,1040,Sevilla,18/6/2018,"16,56"
+7464,6,Buenos Aires,Caseros,1678,177,Paraguay,3396,Asuncion,18/6/2018,150
+8289,6,Buenos Aires,Carmen de Areco,6725,233,Ucrania,4301,Kyivska oblast,7/7/2018,"1863,37"
+8188,6,Buenos Aires,San Isidro,1642,47,Chile,656,Region Metropolitana de Santiago,6/7/2018,"4802,38"
+3579,6,Buenos Aires,Vicente Lopez,1638,213,Suiza,609,Basel-Stadt (de),7/3/2018,950
+3423,6,Buenos Aires,Vicente Lopez,1638,68,Emiratos arabes Unidos,10,Dubayy [Dubai],2/3/2018,506
+3430,6,Buenos Aires,Vicente Lopez,1638,16,Australia,137,Victoria,2/3/2018,230
+3436,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4483,Texas,2/3/2018,200
+3503,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,811,Nordrhein-Westfalen,5/3/2018,300
+3504,6,Buenos Aires,Vicente Lopez,1638,213,Suiza,611,Geneve (fr),5/3/2018,798
+3812,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1195,Seine-Saint-Denis,14/3/2018,200
+3942,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1157,Meuse,19/3/2018,300
+4055,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4455,Kentucky,21/3/2018,70
+5869,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1904,Torino,14/5/2018,180
+8056,6,Buenos Aires,Vicente Lopez,1638,68,Emiratos arabes Unidos,10,Dubayy [Dubai],2/7/2018,420
+8439,6,Buenos Aires,Villa Ballester,1653,65,Ecuador,935,Guayas,11/7/2018,2134
+8118,6,Buenos Aires,Villa Ballester,1653,47,Chile,657,Tarapaca,3/7/2018,1233
+8647,14,Córdoba,Cordoba,5010,33,Brasil,454,Sao Paulo,16/7/2018,2180
+8070,6,Buenos Aires,Temperley,1834,110,Irlanda,1688,Dublin,2/7/2018,"6940,8"
+8772,6,Buenos Aires,Sarandi,1872,51,Colombia,717,Distrito Capital de Bogota,18/7/2018,"1947,52"
+6949,6,Buenos Aires,Martinez,1640,47,Chile,656,Region Metropolitana de Santiago,6/6/2018,"316,2"
+8235,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,5/7/2018,10250
+8157,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,4/7/2018,7630
+8067,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,2/7/2018,10105
+8620,82,Santa Fe,Rosario,2000,178,Peru,3188,Lima,14/7/2018,"2887,5"
+8524,6,Buenos Aires,Beccar,1643,16,Australia,132,New South Wales,12/7/2018,765
+3799,6,Buenos Aires,Ciudad Autónoma de Buenos Aires,1426,183,Puerto Rico,4827,San Juan,14/3/2018,1397
+8665,14,Córdoba,Villa Maria,5900,59,Costa Rica,742,San Jose,16/7/2018,"1262,4"
+3722,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,12/3/2018,5880
+8796,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,19/7/2018,12912
+3927,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4470,New Jersey,19/3/2018,"7388,8"
+7855,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,26/6/2018,3969
+7944,6,Buenos Aires,Berisso,1923,62,Dinamarca,827,Hovedstaden,28/6/2018,5600
+7697,6,Buenos Aires,Berisso,1923,57,Corea del Sur,2105,Busan Gwang'yeogsi [Pusan?Kwangyokshi],22/6/2018,5890
+7882,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,27/6/2018,1040
+8108,6,Buenos Aires,Berisso,1923,171,Paises Bajos,3083,Zuid-Holland,3/7/2018,1416
+3794,6,Buenos Aires,Beccar,1643,236,Uruguay,4502,Montevideo,13/3/2018,475
+3999,6,Buenos Aires,Beccar,1643,236,Uruguay,4502,Montevideo,20/3/2018,"1641,1"
+7886,6,Buenos Aires,Villa Martelli,1603,29,Bolivia,424,Santa Cruz,27/6/2018,"5690,22"
+3775,6,Buenos Aires,Villa Martelli,1603,178,Peru,3188,Lima,13/3/2018,"3730,79"
+7505,6,Buenos Aires,Adrogue,1846,74,Estados Unidos,4441,California,19/6/2018,2319
+6350,6,Buenos Aires,Bahia Blanca,8000,47,Chile,645,Antofagasta,24/5/2018,9300
+8576,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,13/7/2018,4220
+8822,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,19/7/2018,8366
+5891,6,Buenos Aires,Caseros,1678,51,Colombia,733,Valle del Cauca,15/5/2018,"1650,5"
+8154,6,Buenos Aires,El Palomar,1684,82,Francia,1170,Haut-Rhin,4/7/2018,"11891,01"
+2839,14,Córdoba,Cordoba,5008,172,Pakistan,3309,Punjab,15/2/2018,2350
+7499,6,Buenos Aires,Martinez,1640,130,Lituania,2307,Vilnius,5/7/2018,1880
+7529,6,Buenos Aires,Buenos Aires,1651,29,Bolivia,418,Cochabamba,19/6/2018,"437,5"
+8080,90,Tucumán,San Miguel de Tucumán,4000,72,España,1002,Albacete,2/7/2018,2550
+8769,6,Buenos Aires,Lomas de Zamora,1832,82,Francia,1114,Bouches-du-Rhone,18/7/2018,4730
+8065,6,Buenos Aires,Bernal Oeste,1876,74,Estados Unidos,4483,Texas,3/7/2018,"960,5"
+8140,6,Buenos Aires,Avellaneda,1870,29,Bolivia,424,Santa Cruz,4/7/2018,2935
+8507,82,Santa Fe,Alvear,2130,217,Tailandia,4005,Samut Prakan,12/7/2018,"14692,1"
+8577,6,Buenos Aires,Vicente Lopez,1638,122,Kuwait,2121,Al Ahmadi,13/7/2018,1200
+8579,6,Buenos Aires,Vicente Lopez,1638,213,Suiza,627,Valais (fr),13/7/2018,1595
+8749,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1166,Pyrenees-Atlantiques,18/7/2018,280
+8918,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,804,Baden-Wurttemberg,20/7/2018,230
+4810,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,13/4/2018,1125
+4403,14,Córdoba,Cordoba,5011,51,Colombia,733,Valle del Cauca,4/4/2018,3970
+4740,14,Córdoba,Morteros,2421,149,Mexico,2958,Queretaro,11/4/2018,"494,1"
+3294,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4456,Louisiana,27/2/2018,43
+3433,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,2/3/2018,700
+3886,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1171,Rhone,16/3/2018,350
+8831,82,Santa Fe,Sunchales,2322,177,Paraguay,3381,Central,19/7/2018,"8698,4"
+4452,6,Buenos Aires,Vicente Lopez,1638,4,Alemania,811,Nordrhein-Westfalen,4/4/2018,300
+8570,14,Córdoba,Cordoba,5014,47,Chile,656,Region Metropolitana de Santiago,13/7/2018,2700
+4900,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4474,Ohio,17/4/2018,730
+4961,6,Buenos Aires,Vicente Lopez,1638,131,Luxemburgo,2326,Luxembourg,18/4/2018,485
+5016,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1892,Rimini,19/4/2018,370
+5230,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4446,Florida,25/4/2018,490
+6246,6,Buenos Aires,Vicente Lopez,1638,74,Estados Unidos,4441,California,23/5/2018,400
+6249,6,Buenos Aires,Vicente Lopez,1638,82,Francia,1126,Drome,23/5/2018,500
+6250,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1903,Trento,23/5/2018,80
+8652,6,Buenos Aires,Don Torcuato,1611,33,Brasil,454,Sao Paulo,16/7/2018,1326
+8695,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,17/7/2018,921
+8771,6,Buenos Aires,Don Torcuato,1611,4,Alemania,807,Hessen,18/7/2018,9000
+8820,6,Buenos Aires,Don Torcuato,1611,4,Alemania,811,Nordrhein-Westfalen,19/7/2018,2790
+7756,6,Buenos Aires,Don Torcuato,1611,149,Mexico,2951,Mexico,25/6/2018,3695
+8146,6,Buenos Aires,Don Torcuato,1611,212,Suecia,3639,Kronoborgs lan,4/7/2018,6940
+8222,14,Córdoba,Cordoba,5013,178,Peru,3188,Lima,11/7/2018,1746
+7883,6,Buenos Aires,Don Torcuato,1611,82,Francia,1151,Maine-et-Loire,27/6/2018,1200
+7760,6,Buenos Aires,Don Torcuato,1611,169,Nueva Zelanda,3133,Auckland,25/6/2018,5040
+7773,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4446,Florida,25/6/2018,"6600,5"
+7950,6,Buenos Aires,Don Torcuato,1611,74,Estados Unidos,4489,Washington,28/6/2018,3520
+7516,6,Buenos Aires,Villa Ballester,1653,47,Chile,656,Region Metropolitana de Santiago,19/6/2018,1148
+7779,6,Buenos Aires,Villa Ballester,1653,236,Uruguay,4502,Montevideo,25/6/2018,1970
+4516,6,Buenos Aires,Olivos,1636,74,Estados Unidos,4452,Illinois,6/4/2018,5524
+8263,6,Buenos Aires,Vicente Lopez,1603,74,Estados Unidos,4477,Pennsylvania,6/7/2018,"7553,2"
+4484,6,Buenos Aires,Boulogne,1609,149,Mexico,2950,Jalisco,5/4/2018,"3088,8"
+3015,6,Buenos Aires,Boulogne,1609,149,Mexico,2950,Jalisco,20/2/2018,"1333,8"
+4642,6,Buenos Aires,Quilmes,1878,74,Estados Unidos,4457,Massachusetts,10/4/2018,"2282,5"
+4938,6,Buenos Aires,La Tablada,1766,65,Ecuador,942,Pichincha,17/4/2018,700
+8327,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4441,California,10/7/2018,660
+8584,6,Buenos Aires,Beccar,1643,74,Estados Unidos,4450,Iowa,13/7/2018,1600
+8391,6,Buenos Aires,La Plata,1900,33,Brasil,446,Parana,11/7/2018,3080
+8238,6,Buenos Aires,Villa Lynch,1672,74,Estados Unidos,4483,Texas,5/7/2018,"8400,5"
+6934,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4441,California,6/6/2018,"10084,8"
+5169,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4452,Illinois,24/4/2018,"2632,4"
+9156,6,Buenos Aires,La Plata,1900,74,Estados Unidos,4452,Illinois,26/7/2018,"1516,8"
+8581,6,Buenos Aires,Berisso,1923,74,Estados Unidos,4483,Texas,13/7/2018,3984
+7327,6,Buenos Aires,San Martin,1650,33,Brasil,451,Rio Grande do Sul,14/6/2018,2635
+8646,6,Buenos Aires,Ing Pablo Nogues,1616,74,Estados Unidos,4483,Texas,16/7/2018,"2276,4"
+9018,6,Buenos Aires,Villa Martelli,1603,29,Bolivia,424,Santa Cruz,23/7/2018,"1455,87"
+8840,6,Buenos Aires,Villa Martelli,1603,29,Bolivia,424,Santa Cruz,19/7/2018,"3162,3"
+7879,6,Buenos Aires,Loma Hermosa,1657,33,Brasil,451,Rio Grande do Sul,27/6/2018,7000
+8045,6,Buenos Aires,San Andres Pdo. de San Martin,1651,94,Guatemala,1522,Guatemala,2/7/2018,3400
+8636,6,Buenos Aires,Adrogue,1846,82,Francia,1177,Paris,16/7/2018,"14402,5"
+8307,6,Buenos Aires,Florida Oeste,1604,51,Colombia,717,Distrito Capital de Bogota,9/7/2018,"1500,8"
+7832,6,Buenos Aires,San Fernando,1644,188,Rumania,3407,Bucuresti,26/6/2018,2440
+8232,6,Buenos Aires,Villa Adelina,1607,178,Peru,3180,El Callao,5/7/2018,1584
+8541,6,Buenos Aires,Villa Ballester,1653,178,Peru,3188,Lima,17/7/2018,"3873,4"
+8988,6,Buenos Aires,Lomas del Mirador,1752,74,Estados Unidos,4446,Florida,23/7/2018,3223
+8210,6,Buenos Aires,Burzaco,1852,72,España,1043,Gipuzkoa,5/7/2018,270
+8159,6,Buenos Aires,Moron,1708,82,Francia,1114,Bouches-du-Rhone,4/7/2018,323
+8486,6,Buenos Aires,D.F.Sarmiento,1706,74,Estados Unidos,4441,California,12/7/2018,3149
+8659,6,Buenos Aires,D.F.Sarmiento,1706,72,España,1005,Barcelona [Barcelona],16/7/2018,3500
+8655,6,Buenos Aires,Bahia Blanca,8000,43,Canada,544,Ontario,17/7/2018,12950
+9104,6,Buenos Aires,Vicente Lopez,1638,113,Italia,1862,Milano,25/7/2018,700
+8953,6,Buenos Aires,Pacheco,1617,4,Alemania,815,Sachsen,20/7/2018,8000
+8970,6,Buenos Aires,Don Torcuato,1611,51,Colombia,728,Risaralda,23/7/2018,1084
+8348,6,Buenos Aires,General San Martin,1650,33,Brasil,454,Sao Paulo,10/7/2018,2350
+8530,6,Buenos Aires,San Martin,1650,149,Mexico,2950,Jalisco,12/7/2018,"642,56"
+9272,6,Buenos Aires,Don Torcuato,1611,48,China,687,Guangdong,27/7/2018,4625
+8921,6,Buenos Aires,Adrogue,1846,185,Reino Unido,1415,Windsor and Maidenhead,20/7/2018,2300
+8881,82,Santa Fe,Rosario,2000,47,Chile,652,Los Lagos,20/7/2018,5155
+8330,6,Buenos Aires,Florencio Varela,1888,47,Chile,644,Aisen del General Carlos Ibañez del Campo,12/7/2018,1250
+8990,6,Buenos Aires,Hudson,1885,213,Suiza,606,Appenzell Ausserrhoden (de),23/7/2018,4920
